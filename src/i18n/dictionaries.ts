@@ -13,6 +13,50 @@ export const dictionaries = {
       handpickedTravel: "Handpicked Travel",
       whoWeAre: "Who We Are",
       contact: "Contact",
+      submenus: {
+        aboutMexico: {
+          whereToGo: "Where to go",
+          whenToGo: "When to go",
+          howToGo: "How to go",
+        },
+        trips: {
+          fits: "FITs",
+          groups: "Groups",
+          oneDayTours: "One day tours",
+        },
+        handpickedTravel: {
+          luxuryExperiences: "Luxury Experiences",
+          gastronomicTours: "Gastronomic tours",
+          photographicTours: "Photographic tours",
+          incentives: "Incentives",
+          weddings: "Weddings",
+          mexicanWomenTrails: "Mexican women trails",
+          nativeCultures: "Native cultures",
+          socialAwareness: "Social awareness",
+          dayOfTheDead: "Day of the Dead",
+          architecture: "Architecture",
+        },
+        whoWeAre: {
+          aboutUs: "About Us",
+          newsletter: "Subscribe to our newsletters",
+          careers: "Careers",
+        },
+      },
+    },
+    footer: {
+      copyright: "© Copyright - Alico Tours",
+      tagline: "Mexican Tour Operator · DMC · MICE",
+      contact: {
+        title: "Contact",
+        contact: "Contact",
+      },
+      legal: {
+        title: "Legal",
+        privacyPolicy: "Privacy Policy",
+        profecoFolio: "PROFECO Folio 8353229",
+        expediente: "Expediente PFC.B.E.7/009595-2018",
+        contrato: "Contrato 1138-2018",
+      },
     },
     home: {
       hero: [
@@ -43,28 +87,31 @@ export const dictionaries = {
           "Our travel specialists will advise you and help you set up the perfect itinerary for your client. We also publish a manual with pre-set itineraries for your inspiration.",
       },
     },
-    whoWeAre: {
-      title: "Who We Are",
-      body: "",
-    },
-    trips: {
-      title: "Trips",
-      body: "",
-    },
-    handpickedTravel: {
-      title: "Handpicked Travel",
-      body: "",
-    },
-    aboutMexico: {
-      title: "About Mexico",
-      body: "",
-    },
+    whoWeAre: { title: "Who We Are", body: "" },
+    trips: { title: "Trips", body: "" },
+    handpickedTravel: { title: "Handpicked Travel", body: "" },
+    aboutMexico: { title: "About Mexico", body: "" },
     contact: {
       title: "Contact",
       name: "Name",
       email: "Email",
       message: "Message",
       send: "Send message",
+    },
+    tripsCarousel: {
+      eyebrow: "Mini routes, best selling, and one day tours available",
+      title: "Handpicked Mexico Itineraries",
+      viewTrip: "View trip",
+      trips: [
+        { image: "/images/cards/calaberas.jpg", title: "Mini Cultural Mexico", duration: "3 Days", category: "Culture" },
+        { image: "/images/cards/beachcan.jpeg", title: "Mini Cancún Escape", duration: "3 Days", category: "Beach" },
+        { image: "/images/cards/parade.jpg", title: "Traditional Mexico", duration: "4 Days", category: "Heritage" },
+        { image: "/images/cards/yucatan.jpg", title: "Mini Yucatán", duration: "3 Days", category: "History" },
+        { image: "/images/cards/heritage.jpg", title: "All of Mexico", duration: "13 Days", category: "Heritage" },
+        { image: "/images/cards/chepe.jpg", title: "Train in the Copper Canyon", duration: "8 Days", category: "Heritage" },
+        { image: "/images/cards/artesanias.jpg", title: "Guatemala Highlights", duration: "13 Days", category: "Heritage" },
+        { image: "/images/cards/cenote-yucatan.jpeg", title: "Mexico & Yucatan", duration: "8 Days", category: "Beach" },
+      ],
     },
   },
 
@@ -76,6 +123,50 @@ export const dictionaries = {
       handpickedTravel: "Viajes seleccionados",
       whoWeAre: "Quiénes somos",
       contact: "Contacto",
+      submenus: {
+        aboutMexico: {
+          whereToGo: "A dónde ir",
+          whenToGo: "Cuándo ir",
+          howToGo: "Cómo ir",
+        },
+        trips: {
+          fits: "FITs",
+          groups: "Grupos",
+          oneDayTours: "Tours de un día",
+        },
+        handpickedTravel: {
+          luxuryExperiences: "Experiencias de lujo",
+          gastronomicTours: "Tours gastronómicos",
+          photographicTours: "Tours fotográficos",
+          incentives: "Incentivos",
+          weddings: "Bodas",
+          mexicanWomenTrails: "Rutas de mujeres mexicanas",
+          nativeCultures: "Culturas nativas",
+          socialAwareness: "Conciencia social",
+          dayOfTheDead: "Día de Muertos",
+          architecture: "Arquitectura",
+        },
+        whoWeAre: {
+          aboutUs: "Sobre nosotros",
+          newsletter: "Suscríbete a nuestros boletines",
+          careers: "Empleo",
+        },
+      },
+    },
+    footer: {
+      copyright: "© Copyright - Alico Tours",
+      tagline: "Operador Turístico Mexicano · DMC · MICE",
+      contact: {
+        title: "Contacto",
+        contact: "Contacto",
+      },
+      legal: {
+        title: "Legal",
+        privacyPolicy: "Política de privacidad",
+        profecoFolio: "PROFECO Folio 8353229",
+        expediente: "Expediente PFC.B.E.7/009595-2018",
+        contrato: "Contrato 1138-2018",
+      },
     },
     home: {
       hero: [
@@ -106,28 +197,31 @@ export const dictionaries = {
           "Nuestros especialistas en viajes te asesorarán y ayudarán a diseñar el itinerario perfecto para tu cliente. También publicamos un manual con itinerarios predefinidos para tu inspiración.",
       },
     },
-    whoWeAre: {
-      title: "Quiénes somos",
-      body: "",
-    },
-    trips: {
-      title: "Viajes",
-      body: "",
-    },
-    handpickedTravel: {
-      title: "Viajes seleccionados",
-      body: "",
-    },
-    aboutMexico: {
-      title: "Sobre México",
-      body: "",
-    },
+    whoWeAre: { title: "Quiénes somos", body: "" },
+    trips: { title: "Viajes", body: "" },
+    handpickedTravel: { title: "Viajes seleccionados", body: "" },
+    aboutMexico: { title: "Sobre México", body: "" },
     contact: {
       title: "Contacto",
       name: "Nombre",
       email: "Correo electrónico",
       message: "Mensaje",
       send: "Enviar mensaje",
+    },
+    tripsCarousel: {
+      eyebrow: "Mini rutas, lo más vendidos y tours de un día disponibles",
+      title: "Itinerarios de México seleccionados",
+      viewTrip: "Ver viaje",
+      trips: [
+        { image: "/images/cards/calaberas.jpg", title: "Mini México Cultural", duration: "3 días", category: "Cultura" },
+        { image: "/images/cards/beachcan.jpeg", title: "Mini Escapada a Cancún", duration: "3 días", category: "Playa" },
+        { image: "/images/cards/parade.jpg", title: "México Tradicional", duration: "4 días", category: "Patrimonio" },
+        { image: "/images/cards/yucatan.jpg", title: "Mini Yucatán", duration: "3 días", category: "Historia" },
+        { image: "/images/cards/heritage.jpg", title: "Todo México", duration: "13 días", category: "Patrimonio" },
+        { image: "/images/cards/chepe.jpg", title: "Tren en el Cañón del Cobre", duration: "8 días", category: "Patrimonio" },
+        { image: "/images/cards/artesanias.jpg", title: "Lo mejor de Guatemala", duration: "13 días", category: "Patrimonio" },
+        { image: "/images/cards/cenote-yucatan.jpeg", title: "México y Yucatán", duration: "8 días", category: "Playa" },
+      ],
     },
   },
 
@@ -139,6 +233,50 @@ export const dictionaries = {
       handpickedTravel: "Voyages sélectionnés",
       whoWeAre: "Qui sommes-nous",
       contact: "Contact",
+      submenus: {
+        aboutMexico: {
+          whereToGo: "Où aller",
+          whenToGo: "Quand partir",
+          howToGo: "Comment y aller",
+        },
+        trips: {
+          fits: "FITs",
+          groups: "Groupes",
+          oneDayTours: "Excursions d'une journée",
+        },
+        handpickedTravel: {
+          luxuryExperiences: "Expériences de luxe",
+          gastronomicTours: "Tours gastronomiques",
+          photographicTours: "Tours photographiques",
+          incentives: "Incentives",
+          weddings: "Mariages",
+          mexicanWomenTrails: "Sentiers des femmes mexicaines",
+          nativeCultures: "Cultures autochtones",
+          socialAwareness: "Conscience sociale",
+          dayOfTheDead: "Jour des Morts",
+          architecture: "Architecture",
+        },
+        whoWeAre: {
+          aboutUs: "À propos de nous",
+          newsletter: "S'abonner à nos newsletters",
+          careers: "Carrières",
+        },
+      },
+    },
+    footer: {
+      copyright: "© Copyright - Alico Tours",
+      tagline: "Opérateur Touristique Mexicain · DMC · MICE",
+      contact: {
+        title: "Contact",
+        contact: "Contact",
+      },
+      legal: {
+        title: "Mentions légales",
+        privacyPolicy: "Politique de confidentialité",
+        profecoFolio: "PROFECO Folio 8353229",
+        expediente: "Expediente PFC.B.E.7/009595-2018",
+        contrato: "Contrato 1138-2018",
+      },
     },
     home: {
       hero: [
@@ -169,22 +307,10 @@ export const dictionaries = {
           "Nos spécialistes du voyage vous conseilleront et vous aideront à créer l'itinéraire parfait pour votre client. Nous publions également un manuel avec des itinéraires prédéfinis pour votre inspiration.",
       },
     },
-    whoWeAre: {
-      title: "Qui sommes-nous",
-      body: "",
-    },
-    trips: {
-      title: "Voyages",
-      body: "",
-    },
-    handpickedTravel: {
-      title: "Voyages sélectionnés",
-      body: "",
-    },
-    aboutMexico: {
-      title: "À propos du Mexique",
-      body: "",
-    },
+    whoWeAre: { title: "Qui sommes-nous", body: "" },
+    trips: { title: "Voyages", body: "" },
+    handpickedTravel: { title: "Voyages sélectionnés", body: "" },
+    aboutMexico: { title: "À propos du Mexique", body: "" },
     contact: {
       title: "Contact",
       name: "Nom",
@@ -192,10 +318,27 @@ export const dictionaries = {
       message: "Message",
       send: "Envoyer le message",
     },
+    tripsCarousel: {
+      eyebrow: "Mini circuits, meilleures ventes et excursions d'une journée disponibles",
+      title: "Itinéraires Mexique sélectionnés",
+      viewTrip: "Voir le voyage",
+      trips: [
+        { image: "/images/cards/calaberas.jpg", title: "Mini Mexique Culturel", duration: "3 jours", category: "Culture" },
+        { image: "/images/cards/beachcan.jpeg", title: "Mini Escapade à Cancún", duration: "3 jours", category: "Plage" },
+        { image: "/images/cards/parade.jpg", title: "Mexique Traditionnel", duration: "4 jours", category: "Patrimoine" },
+        { image: "/images/cards/yucatan.jpg", title: "Mini Yucatán", duration: "3 jours", category: "Histoire" },
+        { image: "/images/cards/heritage.jpg", title: "Tout le Mexique", duration: "13 jours", category: "Patrimoine" },
+        { image: "/images/cards/chepe.jpg", title: "Train dans le Canyon du Cuivre", duration: "8 jours", category: "Patrimoine" },
+        { image: "/images/cards/artesanias.jpg", title: "Highlights du Guatemala", duration: "13 jours", category: "Patrimoine" },
+        { image: "/images/cards/cenote-yucatan.jpeg", title: "Mexique & Yucatán", duration: "8 jours", category: "Plage" },
+      ],
+    },
   },
 } satisfies Record<Locale, any>;
 
 export type Dictionary = (typeof dictionaries)[Locale];
+export type NavLabels = Dictionary["nav"];
+export type FooterLabels = Dictionary["footer"];
 
 export function isValidLocale(locale: string): locale is Locale {
   return locales.includes(locale as Locale);

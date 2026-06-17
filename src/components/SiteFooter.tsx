@@ -1,3 +1,6 @@
+// src/components/SiteFooter.tsx
+
+import type { Locale, NavLabels } from '@/i18n/dictionaries';
 import {
     Anchor,
     Box,
@@ -9,126 +12,131 @@ import {
 } from '@mantine/core';
 import Link from 'next/link';
 
-const footerColumns = [
-  [
-    {
-      title: 'About Mexico',
-      links: [
-        { label: 'Where to go', href: '/en/about-mexico/where-to-go' },
-        { label: 'When to go', href: '/en/about-mexico/when-to-go' },
-        { label: 'How to go', href: '/en/about-mexico/how-to-go' },
-      ],
-    },
-    {
-      title: 'Trips',
-      links: [
-        { label: 'FITs', href: '/en/trips/fits' },
-        { label: 'Groups', href: '/en/trips/groups' },
-        { label: 'One day tours', href: '/en/trips/one-day-tours' },
-      ],
-    },
-  ],
-  [
-    {
-      title: 'Handpicked Travel',
-      links: [
-        { label: 'Luxury Experiences', href: '/en/handpicked-travel/luxury-experiences' },
-        { label: 'Gastronomic tours', href: '/en/handpicked-travel/gastronomic-tours' },
-        { label: 'Photographic tours', href: '/en/handpicked-travel/photographic-tours' },
-        { label: 'Incentives', href: '/en/handpicked-travel/incentives' },
-        { label: 'Weddings', href: '/en/handpicked-travel/weddings' },
-        { label: 'Mexican women trails', href: '/en/handpicked-travel/mexican-women-trails' },
-        { label: 'Native cultures', href: '/en/handpicked-travel/native-cultures' },
-        { label: 'Social awareness', href: '/en/handpicked-travel/social-awareness' },
-        { label: 'Day of the Dead', href: '/en/handpicked-travel/day-of-the-dead' },
-        { label: 'Architecture', href: '/en/handpicked-travel/architecture' },
-      ],
-    },
-  ],
-  [
-    {
-      title: 'Who We Are',
-      links: [
-        { label: 'About Us', href: '/en/who-we-are/about-us' },
-        { label: 'Careers', href: '/en/who-we-are/careers' },
-      ],
-    },
-    {
-      title: 'Contact',
-      links: [
-        { label: 'Contact', href: '/en/contact' },
-        { label: 'alico@alico.com.mx', href: 'mailto:alico@alico.com.mx' },
-        { label: '+52 (55) 5575-1774', href: 'tel:+525555751774' },
-      ],
-    },
-  ],
-  [
-    {
-      title: 'Legal',
-      links: [
-        { label: 'Privacy Policy', href: '#' },
-        { label: 'PROFECO Folio 8353229', href: '#' },
-        { label: 'Expediente PFC.B.E.7/009595-2018', href: '#' },
-        { label: 'Contrato 1138-2018', href: '#' },
-      ],
-    },
-  ],
-];
+type FooterLabels = {
+  legal: {
+    title: string;
+    privacyPolicy: string;
+    profecoFolio: string;
+    expediente: string;
+    contrato: string;
+  };
+  contact: {
+    title: string;
+    contact: string;
+  };
+  copyright: string;
+  tagline: string;
+};
+
+type SiteFooterProps = {
+  locale: Locale;
+  nav: NavLabels;
+  labels: FooterLabels;
+};
 
 function FooterLink({ href, label }: { href: string; label: string }) {
   const isInternal = href.startsWith('/');
 
   if (isInternal) {
     return (
-      <Anchor
-        component={Link}
-        href={href}
-        c="sand.8"
-        size="sm"
-        lh={1.4}
-        style={{ width: 'fit-content' }}
-      >
+      <Anchor component={Link} href={href} c="sand.8" size="sm" lh={1.4} style={{ width: 'fit-content' }}>
         {label}
       </Anchor>
     );
   }
 
   return (
-    <Anchor
-      href={href}
-      c="sand.8"
-      size="sm"
-      lh={1.4}
-      style={{ width: 'fit-content' }}
-    >
+    <Anchor href={href} c="sand.8" size="sm" lh={1.4} style={{ width: 'fit-content' }}>
       {label}
     </Anchor>
   );
 }
 
-export function SiteFooter() {
+export function SiteFooter({ locale, nav, labels }: SiteFooterProps) {
+  const s = nav.submenus;
+
+  const columns = [
+    [
+      {
+        title: nav.aboutMexico,
+        links: [
+          { label: s.aboutMexico.whereToGo, href: `/${locale}/about-mexico/where-to-go` },
+          { label: s.aboutMexico.whenToGo,  href: `/${locale}/about-mexico/when-to-go` },
+          { label: s.aboutMexico.howToGo,   href: `/${locale}/about-mexico/how-to-go` },
+        ],
+      },
+      {
+        title: nav.trips,
+        links: [
+          { label: s.trips.fits,        href: `/${locale}/trips/fits` },
+          { label: s.trips.groups,      href: `/${locale}/trips/groups` },
+          { label: s.trips.oneDayTours, href: `/${locale}/trips/one-day-tours` },
+        ],
+      },
+    ],
+    [
+      {
+        title: nav.handpickedTravel,
+        links: [
+          { label: s.handpickedTravel.luxuryExperiences,  href: `/${locale}/handpicked-travel/luxury-experiences` },
+          { label: s.handpickedTravel.gastronomicTours,   href: `/${locale}/handpicked-travel/gastronomic-tours` },
+          { label: s.handpickedTravel.photographicTours,  href: `/${locale}/handpicked-travel/photographic-tours` },
+          { label: s.handpickedTravel.incentives,         href: `/${locale}/handpicked-travel/incentives` },
+          { label: s.handpickedTravel.weddings,           href: `/${locale}/handpicked-travel/weddings` },
+          { label: s.handpickedTravel.mexicanWomenTrails, href: `/${locale}/handpicked-travel/mexican-women-trails` },
+          { label: s.handpickedTravel.nativeCultures,     href: `/${locale}/handpicked-travel/native-cultures` },
+          { label: s.handpickedTravel.socialAwareness,    href: `/${locale}/handpicked-travel/social-awareness` },
+          { label: s.handpickedTravel.dayOfTheDead,       href: `/${locale}/handpicked-travel/day-of-the-dead` },
+          { label: s.handpickedTravel.architecture,       href: `/${locale}/handpicked-travel/architecture` },
+        ],
+      },
+    ],
+    [
+      {
+        title: nav.whoWeAre,
+        links: [
+          { label: s.whoWeAre.aboutUs,  href: `/${locale}/who-we-are/about-us` },
+          { label: s.whoWeAre.careers,  href: `/${locale}/who-we-are/careers` },
+        ],
+      },
+      {
+        title: labels.contact.title,
+        links: [
+          { label: labels.contact.contact, href: `/${locale}/contact` },
+          { label: 'alico@alico.com.mx',   href: 'mailto:alico@alico.com.mx' },
+          { label: '+52 (55) 5575-1774',   href: 'tel:+525555751774' },
+        ],
+      },
+    ],
+    [
+      {
+        title: labels.legal.title,
+        links: [
+          { label: labels.legal.privacyPolicy, href: '#' },
+          { label: labels.legal.profecoFolio,  href: '#' },
+          { label: labels.legal.expediente,    href: '#' },
+          { label: labels.legal.contrato,      href: '#' },
+        ],
+      },
+    ],
+  ];
+
   return (
     <Box bg="sand.0" pt={{ base: 60, md: 90 }} pb="xl">
       <Container size="xl">
-        <SimpleGrid
-          cols={{ base: 1, sm: 2, lg: 4 }}
-          spacing={{ base: 'xl', md: 60 }}
-        >
-          {footerColumns.map((column, columnIndex) => (
+        <SimpleGrid cols={{ base: 1, sm: 2, lg: 4 }} spacing={{ base: 'xl', md: 60 }}>
+          {columns.map((column, columnIndex) => (
             <Stack key={columnIndex} gap="xl">
               {column.map((section) => (
                 <Stack key={section.title} gap="sm">
-                  <Text fw={700} c="sand.9">
-                    {section.title}
-                  </Text>
-
+                  <Text fw={700} c="sand.9">{section.title}</Text>
                   {section.links.map((link) => (
                     <FooterLink
-                      key={link.label}
-                      href={link.href}
-                      label={link.label}
+                        key={`${section.title}-${link.label}`}
+                        href={link.href}
+                        label={link.label}
                     />
-                  ))}
+                    ))}
                 </Stack>
               ))}
             </Stack>
@@ -141,13 +149,8 @@ export function SiteFooter() {
           style={{ borderTop: '1px solid var(--mantine-color-sand-2)' }}
         >
           <Group justify="space-between" align="center" gap="md">
-            <Text c="sand.7" size="sm">
-              © Copyright - Alico Tours
-            </Text>
-
-            <Text c="sand.7" size="sm">
-              Mexican Tour Operator · DMC · MICE
-            </Text>
+            <Text c="sand.7" size="sm">{labels.copyright}</Text>
+            <Text c="sand.7" size="sm">{labels.tagline}</Text>
           </Group>
         </Box>
       </Container>

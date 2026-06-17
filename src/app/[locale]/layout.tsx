@@ -1,5 +1,4 @@
 // src/app/[locale]/layout.tsx
-
 import { SiteShell } from '@/components/SiteShell';
 import { generateLocaleParams } from '@/i18n/dictionaries';
 

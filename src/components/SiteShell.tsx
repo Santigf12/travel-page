@@ -74,7 +74,11 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
 
       <AppShell.Main>
           {children}
-          <SiteFooter />
+          <SiteFooter
+            locale={locale}
+            nav={dictionary.nav}
+            labels={dictionary.footer}
+            />
       </AppShell.Main>
     </AppShell>
   );

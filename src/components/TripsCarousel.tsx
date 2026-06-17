@@ -1,3 +1,5 @@
+// src/components/TripsCarousel.tsx
+
 'use client';
 
 import { Carousel } from '@mantine/carousel';
@@ -14,65 +16,21 @@ import {
 } from '@mantine/core';
 import { useMediaQuery } from '@mantine/hooks';
 
-const trips = [
-  {
-    image: '/images/cards/calaberas.jpg',
-    title: 'Mini Cultural Mexico',
-    duration: '3 Days',
-    category: 'Culture',
-  },
-  {
-    image: '/images/cards/beachcan.jpeg',
-    title: 'Mini Cancún Escape',
-    duration: '3 Days',
-    category: 'Beach',
-  },
-  {
-    image: '/images/cards/parade.jpg',
-    title: 'Traditional Mexico',
-    duration: '4 Days',
-    category: 'Heritage',
-  },
-  {
-    image: '/images/cards/yucatan.jpg',
-    title: 'Mini Yucatán',
-    duration: '3 Days',
-    category: 'History',
-  },
-  {
-    image: '/images/cards/heritage.jpg',
-    title: 'All of Mexico',
-    duration: '13 Days',
-    category: 'Heritage',
-  },
-  {
-    image: '/images/cards/chepe.jpg',
-    title: 'Train in the Copper Canyon',
-    duration: '8 Days',
-    category: 'Heritage',
-  },
-  {
-    image: '/images/cards/artesanias.jpg',
-    title: 'Guatemala Highlights',
-    duration: '13 Days',
-    category: 'Heritage',
-  },
-  {
-    image: '/images/cards/cenote-yucatan.jpeg',
-    title: 'Mexico & Yucatan',
-    duration: '8 Days',
-    category: 'Beach',
-  },
-];
-
-type TripCardProps = {
+type Trip = {
   image: string;
   title: string;
   duration: string;
   category: string;
 };
 
-function TripCard({ image, title, duration, category }: TripCardProps) {
+type TripsCarouselProps = {
+  eyebrow: string;
+  title: string;
+  viewTrip: string;
+  trips: Trip[];
+};
+
+function TripCard({ image, title, duration, category, viewTrip }: Trip & { viewTrip: string }) {
   return (
     <Paper
       shadow="md"
@@ -91,23 +49,15 @@ function TripCard({ image, title, duration, category }: TripCardProps) {
         <Badge color="aztecGold" variant="filled" w="fit-content">
           {category}
         </Badge>
-
         <Box>
           <Text c="sand.0" size="sm" tt="uppercase" lts="0.12em">
             {duration}
           </Text>
-
           <Title order={3} c="sand.0" fw={400} mt={4}>
             {title}
           </Title>
-
-          <Button
-            mt="md"
-            variant="white"
-            color="alicoBlue"
-            size="xs"
-          >
-            View trip
+          <Button mt="md" variant="white" color="alicoBlue" size="xs">
+            {viewTrip}
           </Button>
         </Box>
       </Stack>
@@ -115,7 +65,7 @@ function TripCard({ image, title, duration, category }: TripCardProps) {
   );
 }
 
-export function TripsCarousel() {
+export function TripsCarousel({ eyebrow, title, viewTrip, trips }: TripsCarouselProps) {
   const theme = useMantineTheme();
   const mobile = useMediaQuery(`(max-width: ${theme.breakpoints.sm})`);
 
@@ -123,21 +73,13 @@ export function TripsCarousel() {
     <Box bg="sand.0" py={{ base: 70, md: 100 }}>
       <Container size="lg">
         <Stack align="center" gap="xs" mb="xl">
-          <Text
-            c="aztecGold.6"
-            tt="uppercase"
-            lts="0.18em"
-            size="sm"
-            fw={600}
-          >
-            Mini routes, best selling, and one day tours available
+          <Text c="aztecGold.6" tt="uppercase" lts="0.18em" size="sm" fw={600}>
+            {eyebrow}
           </Text>
-
           <Title order={2} ta="center" fw={400}>
-            Handpicked Mexico Itineraries
+            {title}
           </Title>
         </Stack>
-
         <Carousel
           slideSize={{ base: '100%', sm: '50%', md: '33.333%' }}
           slideGap="md"
@@ -150,11 +92,10 @@ export function TripsCarousel() {
             loop: true,
             slidesToScroll: mobile ? 1 : 2,
           }}
-          
         >
           {trips.map((trip) => (
             <Carousel.Slide key={trip.title}>
-              <TripCard {...trip} />
+              <TripCard {...trip} viewTrip={viewTrip} />
             </Carousel.Slide>
           ))}
         </Carousel>
