@@ -284,33 +284,9 @@
       "fr": "Programme de 15 jours et 14 nuits. Circuit économique pour voyageurs indépendants, conçu avec des bus publics de bonne qualité et des hôtels centraux. Combine histoire, nature, archéologie et séjour balnéaire."
     },
     "highlights": {
-      "en": [
-        "Mexico City",
-        "Oaxaca with Huatulco beach",
-        "San Cristóbal de las Casas",
-        "Palenque",
-        "Campeche",
-        "Mérida",
-        "Cancún"
-      ],
-      "es": [
-        "Ciudad de México",
-        "Oaxaca con playa en Huatulco",
-        "San Cristóbal de las Casas",
-        "Palenque",
-        "Campeche",
-        "Mérida",
-        "Cancún"
-      ],
-      "fr": [
-        "Mexico",
-        "Oaxaca avec séjour à Huatulco",
-        "San Cristóbal de las Casas",
-        "Palenque",
-        "Campeche",
-        "Mérida",
-        "Cancún"
-      ]
+      "en": ["Mexico City", "Oaxaca with Huatulco beach", "San Cristóbal de las Casas", "Palenque", "Campeche", "Mérida", "Cancún"],
+      "es": ["Ciudad de México", "Oaxaca con playa en Huatulco", "San Cristóbal de las Casas", "Palenque", "Campeche", "Mérida", "Cancún"],
+      "fr": ["Mexico", "Oaxaca avec séjour à Huatulco", "San Cristóbal de las Casas", "Palenque", "Campeche", "Mérida", "Cancún"]
     },
     "itinerary": [
       {
@@ -500,7 +476,7 @@
   {
     "slug": "colonial-treasures-and-puerto-vallarta",
     "category": "fits",
-    "image": "/images/trips/taxco.jpg",
+    "image": "/images/trips/campeche.jpg",
     "duration": {
       "en": "10 days",
       "es": "10 días",
@@ -698,7 +674,7 @@
   {
     "slug": "copper-canyon",
     "category": "fits",
-    "image": "/images/trips/copper-canyon.jpg",
+    "image": "/images/trips/chepe.jpg",
     "duration": {
       "en": "8 days",
       "es": "8 días",
@@ -720,30 +696,9 @@
       "fr": "Programme de 7 nuits et 8 jours à la découverte d’une région moins explorée du Mexique, le Canyon du Cuivre, avec le célèbre train de voyageurs El Chepe."
     },
     "highlights": {
-      "en": [
-        "Mexico City",
-        "Teotihuacán",
-        "Los Mochis",
-        "Posada Barrancas",
-        "Creel",
-        "Chihuahua City"
-      ],
-      "es": [
-        "Ciudad de México",
-        "Teotihuacán",
-        "Los Mochis",
-        "Posada Barrancas",
-        "Creel",
-        "Ciudad de Chihuahua"
-      ],
-      "fr": [
-        "Mexico",
-        "Teotihuacán",
-        "Los Mochis",
-        "Posada Barrancas",
-        "Creel",
-        "Ville de Chihuahua"
-      ]
+      "en": ["Mexico City", "Teotihuacán", "Los Mochis", "Posada Barrancas", "Creel", "Chihuahua City"],
+      "es": ["Ciudad de México", "Teotihuacán", "Los Mochis", "Posada Barrancas", "Creel", "Ciudad de Chihuahua"],
+      "fr": ["Mexico", "Teotihuacán", "Los Mochis", "Posada Barrancas", "Creel", "Ville de Chihuahua"]
     },
     "itinerary": [
       {
@@ -884,7 +839,7 @@
   {
     "slug": "mexico-yucatan",
     "category": "fits",
-    "image": "/images/trips/chichen-itza.jpg",
+    "image": "/images/trips/cenote-yucatan.jpeg",
     "duration": {
       "en": "8 days",
       "es": "8 días",
@@ -906,30 +861,9 @@
       "fr": "Programme de 7 nuits et 8 jours pour admirer la splendeur de deux des cultures anciennes les plus importantes du Mexique : les Mexicas, aussi appelés Aztèques, et les Mayas."
     },
     "highlights": {
-      "en": [
-        "Mexico City",
-        "Teotihuacán",
-        "Mérida",
-        "Uxmal",
-        "Kabah",
-        "Chichén Itzá"
-      ],
-      "es": [
-        "Ciudad de México",
-        "Teotihuacán",
-        "Mérida",
-        "Uxmal",
-        "Kabah",
-        "Chichén Itzá"
-      ],
-      "fr": [
-        "Mexico",
-        "Teotihuacán",
-        "Mérida",
-        "Uxmal",
-        "Kabah",
-        "Chichén Itzá"
-      ]
+      "en": ["Mexico City", "Teotihuacán", "Mérida", "Uxmal", "Kabah", "Chichén Itzá"],
+      "es": ["Ciudad de México", "Teotihuacán", "Mérida", "Uxmal", "Kabah", "Chichén Itzá"],
+      "fr": ["Mexico", "Teotihuacán", "Mérida", "Uxmal", "Kabah", "Chichén Itzá"]
     },
     "itinerary": [
       {
@@ -1076,7 +1010,7 @@
   {
     "slug": "traditional-mexico",
     "category": "fits",
-    "image": "/images/trips/taxco.jpg",
+    "image": "/images/trips/bailes.webp",
     "duration": {
       "en": "5 days",
       "es": "5 días",
@@ -1098,30 +1032,9 @@
       "fr": "Programme de 5 jours et 4 nuits visitant des villes touristiques traditionnelles du Mexique, dont Taxco, connue comme la ville de l’argent, et Acapulco, célèbre pour ses plongeurs de falaise."
     },
     "highlights": {
-      "en": [
-        "Mexico City",
-        "Anthropology Museum",
-        "Teotihuacán",
-        "Cuernavaca",
-        "Taxco",
-        "Acapulco"
-      ],
-      "es": [
-        "Ciudad de México",
-        "Museo de Antropología",
-        "Teotihuacán",
-        "Cuernavaca",
-        "Taxco",
-        "Acapulco"
-      ],
-      "fr": [
-        "Mexico",
-        "Musée d’Anthropologie",
-        "Teotihuacán",
-        "Cuernavaca",
-        "Taxco",
-        "Acapulco"
-      ]
+      "en": ["Mexico City", "Anthropology Museum", "Teotihuacán", "Cuernavaca", "Taxco", "Acapulco"],
+      "es": ["Ciudad de México", "Museo de Antropología", "Teotihuacán", "Cuernavaca", "Taxco", "Acapulco"],
+      "fr": ["Mexico", "Musée d’Anthropologie", "Teotihuacán", "Cuernavaca", "Taxco", "Acapulco"]
     },
     "itinerary": [
       {
@@ -1248,36 +1161,9 @@
       "fr": "Programme de 7 jours et 6 nuits commençant et finissant à Cancún, avec villes coloniales, anciennes cités mayas, flore et faune endémiques et plages turquoise des Caraïbes mexicaines."
     },
     "highlights": {
-      "en": [
-        "Valladolid",
-        "Izamal",
-        "Mérida",
-        "Uxmal",
-        "Kabah",
-        "Celestún",
-        "Chichén Itzá",
-        "Cancún"
-      ],
-      "es": [
-        "Valladolid",
-        "Izamal",
-        "Mérida",
-        "Uxmal",
-        "Kabah",
-        "Celestún",
-        "Chichén Itzá",
-        "Cancún"
-      ],
-      "fr": [
-        "Valladolid",
-        "Izamal",
-        "Mérida",
-        "Uxmal",
-        "Kabah",
-        "Celestún",
-        "Chichén Itzá",
-        "Cancún"
-      ]
+      "en": ["Valladolid", "Izamal", "Mérida", "Uxmal", "Kabah", "Celestún", "Chichén Itzá", "Cancún"],
+      "es": ["Valladolid", "Izamal", "Mérida", "Uxmal", "Kabah", "Celestún", "Chichén Itzá", "Cancún"],
+      "fr": ["Valladolid", "Izamal", "Mérida", "Uxmal", "Kabah", "Celestún", "Chichén Itzá", "Cancún"]
     },
     "itinerary": [
       {
@@ -1408,7 +1294,7 @@
   {
     "slug": "guatemala-highlights",
     "category": "fits",
-    "image": "/images/trips/guatemala.jpg",
+    "image": "/images/trips/artesanias.jpg",
     "duration": {
       "en": "5 days",
       "es": "5 días",
@@ -1430,21 +1316,9 @@
       "fr": "Programme de 5 jours et 4 nuits avec les lieux essentiels à visiter au Guatemala et ses traditions fascinantes."
     },
     "highlights": {
-      "en": [
-        "Antigua",
-        "Chichicastenango",
-        "Lake Atitlán"
-      ],
-      "es": [
-        "Antigua",
-        "Chichicastenango",
-        "Lago Atitlán"
-      ],
-      "fr": [
-        "Antigua",
-        "Chichicastenango",
-        "Lac Atitlán"
-      ]
+      "en": ["Antigua", "Chichicastenango", "Lake Atitlán"],
+      "es": ["Antigua", "Chichicastenango", "Lago Atitlán"],
+      "fr": ["Antigua", "Chichicastenango", "Lac Atitlán"]
     },
     "itinerary": [
       {
@@ -1546,7 +1420,7 @@
   {
     "slug": "discovering-mesoamerica",
     "category": "fits",
-    "image": "/images/trips/mesoamerica.jpg",
+    "image": "/images/trips/huatulco.png",
     "duration": {
       "en": "17 days",
       "es": "17 días",
@@ -1879,7 +1753,7 @@
   {
     "slug": "mini-cancun",
     "category": "fits",
-    "image": "/images/trips/cancun.jpg",
+    "image": "/images/trips/beachcan.jpeg",
     "duration": {
       "en": "3 days",
       "es": "3 días",
@@ -1901,21 +1775,9 @@
       "fr": "Court programme de 3 jours et 2 nuits pour les voyageurs souhaitant une visite express de l’une des plus belles plages du monde : Cancún."
     },
     "highlights": {
-      "en": [
-        "Economy-class hotels",
-        "Chichén Itzá tour",
-        "Lunch included"
-      ],
-      "es": [
-        "Hoteles de clase económica",
-        "Tour a Chichén Itzá",
-        "Almuerzo incluido"
-      ],
-      "fr": [
-        "Hôtels économiques",
-        "Excursion à Chichén Itzá",
-        "Déjeuner inclus"
-      ]
+      "en": ["Economy-class hotels", "Chichén Itzá tour", "Lunch included"],
+      "es": ["Hoteles de clase económica", "Tour a Chichén Itzá", "Almuerzo incluido"],
+      "fr": ["Hôtels économiques", "Excursion à Chichén Itzá", "Déjeuner inclus"]
     },
     "itinerary": [
       {
@@ -1991,7 +1853,7 @@
   {
     "slug": "mini-cultural-mexico",
     "category": "fits",
-    "image": "/images/trips/mexico-city.jpg",
+    "image": "/images/trips/calaberas.jpg",
     "duration": {
       "en": "3 days",
       "es": "3 días",
@@ -2013,21 +1875,9 @@
       "fr": "Court programme de 3 jours et 2 nuits pour les voyageurs souhaitant une visite rapide de l’une des villes les plus culturelles du monde : Mexico."
     },
     "highlights": {
-      "en": [
-        "Centrally located hotels",
-        "Diego Rivera and Frida Kahlo experience",
-        "Iconic city landmarks"
-      ],
-      "es": [
-        "Hoteles céntricos",
-        "Experiencia de Diego Rivera y Frida Kahlo",
-        "Monumentos icónicos de la ciudad"
-      ],
-      "fr": [
-        "Hôtels centraux",
-        "Expérience Diego Rivera et Frida Kahlo",
-        "Monuments emblématiques de la ville"
-      ]
+      "en": ["Centrally located hotels", "Diego Rivera and Frida Kahlo experience", "Iconic city landmarks"],
+      "es": ["Hoteles céntricos", "Experiencia de Diego Rivera y Frida Kahlo", "Monumentos icónicos de la ciudad"],
+      "fr": ["Hôtels centraux", "Expérience Diego Rivera et Frida Kahlo", "Monuments emblématiques de la ville"]
     },
     "itinerary": [
       {
@@ -2097,7 +1947,7 @@
   {
     "slug": "mini-yucatan",
     "category": "fits",
-    "image": "/images/trips/uxmal.jpg",
+    "image": "/images/trips/yucatan.jpg",
     "duration": {
       "en": "3 days",
       "es": "3 días",
@@ -2119,21 +1969,9 @@
       "fr": "Court programme de 3 jours et 2 nuits à Mérida, la Ville blanche et capitale du monde maya."
     },
     "highlights": {
-      "en": [
-        "Hotels within walking distance of downtown",
-        "Uxmal",
-        "Kabah"
-      ],
-      "es": [
-        "Hoteles a distancia caminable del centro",
-        "Uxmal",
-        "Kabah"
-      ],
-      "fr": [
-        "Hôtels à distance de marche du centre-ville",
-        "Uxmal",
-        "Kabah"
-      ]
+      "en": ["Hotels within walking distance of downtown", "Uxmal", "Kabah"],
+      "es": ["Hoteles a distancia caminable del centro", "Uxmal", "Kabah"],
+      "fr": ["Hôtels à distance de marche du centre-ville", "Uxmal", "Kabah"]
     },
     "itinerary": [
       {
@@ -2203,7 +2041,7 @@
   {
     "slug": "mini-traditional-mexico",
     "category": "fits",
-    "image": "/images/trips/teotihuacan.jpg",
+    "image": "/images/trips/parade.jpg",
     "duration": {
       "en": "4 days",
       "es": "4 días",
@@ -2225,24 +2063,9 @@
       "fr": "Court programme de 4 jours et 3 nuits à Mexico avec archéologie, culture, villages charmants et prix très accessible."
     },
     "highlights": {
-      "en": [
-        "Centrally located hotels",
-        "Teotihuacán archaeological site",
-        "Cuernavaca",
-        "Taxco"
-      ],
-      "es": [
-        "Hoteles céntricos",
-        "Sitio arqueológico de Teotihuacán",
-        "Cuernavaca",
-        "Taxco"
-      ],
-      "fr": [
-        "Hôtels centraux",
-        "Site archéologique de Teotihuacán",
-        "Cuernavaca",
-        "Taxco"
-      ]
+      "en": ["Centrally located hotels", "Teotihuacán archaeological site", "Cuernavaca", "Taxco"],
+      "es": ["Hoteles céntricos", "Sitio arqueológico de Teotihuacán", "Cuernavaca", "Taxco"],
+      "fr": ["Hôtels centraux", "Site archéologique de Teotihuacán", "Cuernavaca", "Taxco"]
     },
     "itinerary": [
       {

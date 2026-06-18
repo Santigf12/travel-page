@@ -1,0 +1,1527 @@
+[
+  {
+    "slug": "mexico-land-of-gods",
+    "category": "groups",
+    "image": "/images/trips/xochimilco.jpg",
+    "duration": {
+      "en": "12 days",
+      "es": "12 días",
+      "fr": "12 jours"
+    },
+    "title": {
+      "en": "Mexico Land of Gods",
+      "es": "México, tierra de dioses",
+      "fr": "Mexique, terre des dieux"
+    },
+    "summary": {
+      "en": "A private group journey through Mexico’s most important archaeological sites, colonial cities, living traditions, and the Mexican Caribbean.",
+      "es": "Un viaje privado para grupos por los sitios arqueológicos más importantes de México, ciudades coloniales, tradiciones vivas y el Caribe mexicano.",
+      "fr": "Un voyage privé pour groupes à travers les sites archéologiques majeurs du Mexique, ses villes coloniales, ses traditions vivantes et les Caraïbes mexicaines."
+    },
+    "description": {
+      "en": "Program of 11 nights and 12 days including the most important archaeological sites and representative places of Mexico, with ancient Mexica, Zapotec and Maya cultures, and the option of a stay on the Caribbean beaches.",
+      "es": "Programa de 11 noches y 12 días que incluye los sitios arqueológicos más importantes y los lugares más representativos de México, con culturas mexica, zapoteca y maya, además de la opción de una estancia en las playas del Caribe.",
+      "fr": "Programme de 11 nuits et 12 jours incluant les sites archéologiques les plus importants et les lieux les plus représentatifs du Mexique, avec les cultures mexica, zapotèque et maya, ainsi que l’option d’un séjour sur les plages des Caraïbes."
+    },
+    "highlights": {
+      "en": [
+        "Mexico City",
+        "Teotihuacán archaeological site",
+        "Floating gardens of Xochimilco",
+        "Cholula and Puebla",
+        "Oaxaca, Monte Albán and Mitla",
+        "Palenque",
+        "Puuc Route with Kabah and Uxmal",
+        "Jipi hat makers in Becal",
+        "Mérida, Izamal and Chichén Itzá",
+        "Valladolid, Tulum and Cancún"
+      ],
+      "es": [
+        "Ciudad de México",
+        "Sitio arqueológico de Teotihuacán",
+        "Jardines flotantes de Xochimilco",
+        "Cholula y Puebla",
+        "Oaxaca, Monte Albán y Mitla",
+        "Palenque",
+        "Ruta Puuc con Kabah y Uxmal",
+        "Artesanos de sombreros jipijapa en Becal",
+        "Mérida, Izamal y Chichén Itzá",
+        "Valladolid, Tulum y Cancún"
+      ],
+      "fr": [
+        "Mexico",
+        "Site archéologique de Teotihuacán",
+        "Jardins flottants de Xochimilco",
+        "Cholula et Puebla",
+        "Oaxaca, Monte Albán et Mitla",
+        "Palenque",
+        "Route Puuc avec Kabah et Uxmal",
+        "Artisans de chapeaux jipi à Becal",
+        "Mérida, Izamal et Chichén Itzá",
+        "Valladolid, Tulum et Cancún"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": "01",
+        "title": {
+          "en": "Arrival – Mexico City",
+          "es": "Llegada – Ciudad de México",
+          "fr": "Arrivée – Mexico"
+        },
+        "description": {
+          "en": "Arrival at the airport and transfer to the hotel of your selection.",
+          "es": "Llegada al aeropuerto y traslado al hotel seleccionado.",
+          "fr": "Arrivée à l’aéroport et transfert à l’hôtel sélectionné."
+        }
+      },
+      {
+        "day": "02",
+        "title": {
+          "en": "Mexico City Tour – Anthropology Museum – Xochimilco",
+          "es": "Tour de Ciudad de México – Museo de Antropología – Xochimilco",
+          "fr": "Tour de Mexico – Musée d’anthropologie – Xochimilco"
+        },
+        "description": {
+          "en": "Visit the Anthropology Museum, continue to Xochimilco for a trajinera boat tour, then visit the National Palace, Metropolitan Cathedral and Zócalo Square. Overnight in Mexico City.",
+          "es": "Visita al Museo de Antropología, continuación a Xochimilco para un recorrido en trajinera, y visita al Palacio Nacional, Catedral Metropolitana y Zócalo. Noche en Ciudad de México.",
+          "fr": "Visite du musée d’anthropologie, continuation vers Xochimilco pour une balade en trajinera, puis visite du Palais national, de la cathédrale métropolitaine et du Zócalo. Nuit à Mexico."
+        }
+      },
+      {
+        "day": "03",
+        "title": {
+          "en": "Mexico City – Guadalupe Shrine – Teotihuacán – Puebla",
+          "es": "Ciudad de México – Basílica de Guadalupe – Teotihuacán – Puebla",
+          "fr": "Mexico – Sanctuaire de Guadalupe – Teotihuacán – Puebla"
+        },
+        "description": {
+          "en": "Visit the Guadalupe Shrine and Three Cultures Square, continue to Teotihuacán, then travel to Puebla. Overnight in Puebla.",
+          "es": "Visita a la Basílica de Guadalupe y Plaza de las Tres Culturas, continuación a Teotihuacán y traslado a Puebla. Noche en Puebla.",
+          "fr": "Visite du sanctuaire de Guadalupe et de la Place des Trois Cultures, continuation vers Teotihuacán puis route vers Puebla. Nuit à Puebla."
+        }
+      },
+      {
+        "day": "04",
+        "title": {
+          "en": "Puebla – Cholula – Oaxaca City Tour",
+          "es": "Puebla – Cholula – Tour de Oaxaca",
+          "fr": "Puebla – Cholula – Tour d’Oaxaca"
+        },
+        "description": {
+          "en": "Visit the Religious Art Museum in the former Convent of Santa Mónica. Continue to Oaxaca for a tour of the central market and Zócalo. Overnight in Oaxaca.",
+          "es": "Visita al Museo de Arte Religioso en el ex convento de Santa Mónica. Continuación a Oaxaca para recorrer el mercado central y el Zócalo. Noche en Oaxaca.",
+          "fr": "Visite du musée d’art religieux dans l’ancien couvent de Santa Mónica. Continuation vers Oaxaca pour visiter le marché central et le Zócalo. Nuit à Oaxaca."
+        }
+      },
+      {
+        "day": "05",
+        "title": {
+          "en": "Oaxaca – Monte Albán – Mitla – Oaxaca Airport / Villahermosa",
+          "es": "Oaxaca – Monte Albán – Mitla – Aeropuerto de Oaxaca / Villahermosa",
+          "fr": "Oaxaca – Monte Albán – Mitla – Aéroport d’Oaxaca / Villahermosa"
+        },
+        "description": {
+          "en": "Visit Monte Albán, the Tule Tree and Mitla. Transfer to the airport for the flight to Villahermosa. Overnight in Villahermosa.",
+          "es": "Visita a Monte Albán, el Árbol del Tule y Mitla. Traslado al aeropuerto para tomar vuelo a Villahermosa. Noche en Villahermosa.",
+          "fr": "Visite de Monte Albán, de l’arbre de Tule et de Mitla. Transfert à l’aéroport pour le vol vers Villahermosa. Nuit à Villahermosa."
+        }
+      },
+      {
+        "day": "06",
+        "title": {
+          "en": "Villahermosa – La Venta – Palenque",
+          "es": "Villahermosa – La Venta – Palenque",
+          "fr": "Villahermosa – La Venta – Palenque"
+        },
+        "description": {
+          "en": "Visit La Venta Park Museum and take a panoramic tour of the city before continuing to Palenque. Visit the Palenque archaeological site. Overnight in Palenque.",
+          "es": "Visita al Parque Museo La Venta y recorrido panorámico por la ciudad antes de continuar a Palenque. Visita al sitio arqueológico de Palenque. Noche en Palenque.",
+          "fr": "Visite du parc-musée de La Venta et tour panoramique de la ville avant de continuer vers Palenque. Visite du site archéologique de Palenque. Nuit à Palenque."
+        }
+      },
+      {
+        "day": "07",
+        "title": {
+          "en": "Palenque – Campeche City Tour",
+          "es": "Palenque – Tour de Campeche",
+          "fr": "Palenque – Tour de Campeche"
+        },
+        "description": {
+          "en": "Departure to Campeche. Visit San Miguel Fort and tour the city of Campeche. Overnight in Campeche.",
+          "es": "Salida hacia Campeche. Visita al Fuerte de San Miguel y recorrido por la ciudad de Campeche. Noche en Campeche.",
+          "fr": "Départ vers Campeche. Visite du fort San Miguel et tour de la ville de Campeche. Nuit à Campeche."
+        }
+      },
+      {
+        "day": "08",
+        "title": {
+          "en": "Campeche – Becal – Kabah – Uxmal",
+          "es": "Campeche – Becal – Kabah – Uxmal",
+          "fr": "Campeche – Becal – Kabah – Uxmal"
+        },
+        "description": {
+          "en": "Visit the village of Becal, continue to Kabah and finish the day in Uxmal. Overnight in Uxmal.",
+          "es": "Visita al pueblo de Becal, continuación a Kabah y final del día en Uxmal. Noche en Uxmal.",
+          "fr": "Visite du village de Becal, continuation vers Kabah et fin de journée à Uxmal. Nuit à Uxmal."
+        }
+      },
+      {
+        "day": "09",
+        "title": {
+          "en": "Uxmal – Mérida City Tour",
+          "es": "Uxmal – Tour de Mérida",
+          "fr": "Uxmal – Tour de Mérida"
+        },
+        "description": {
+          "en": "Visit the Uxmal archaeological site, then continue to Mérida for a city tour. Overnight in Mérida.",
+          "es": "Visita al sitio arqueológico de Uxmal y continuación a Mérida para un recorrido por la ciudad. Noche en Mérida.",
+          "fr": "Visite du site archéologique d’Uxmal, puis continuation vers Mérida pour un tour de ville. Nuit à Mérida."
+        }
+      },
+      {
+        "day": "10",
+        "title": {
+          "en": "Mérida – Izamal – Chichén Itzá – Valladolid",
+          "es": "Mérida – Izamal – Chichén Itzá – Valladolid",
+          "fr": "Mérida – Izamal – Chichén Itzá – Valladolid"
+        },
+        "description": {
+          "en": "Visit Izamal, continue to Chichén Itzá and Ik Kil, then travel to Valladolid. Overnight in Valladolid.",
+          "es": "Visita a Izamal, continuación a Chichén Itzá e Ik Kil, y traslado a Valladolid. Noche en Valladolid.",
+          "fr": "Visite d’Izamal, continuation vers Chichén Itzá et Ik Kil, puis route vers Valladolid. Nuit à Valladolid."
+        }
+      },
+      {
+        "day": "11",
+        "title": {
+          "en": "Valladolid – Tulum – Cancún",
+          "es": "Valladolid – Tulum – Cancún",
+          "fr": "Valladolid – Tulum – Cancún"
+        },
+        "description": {
+          "en": "Visit Valladolid and admire Francisco Cantón Rosado Park, then continue to Tulum and Cancún. Overnight in Cancún.",
+          "es": "Visita a Valladolid y al parque central Francisco Cantón Rosado, continuación a Tulum y Cancún. Noche en Cancún.",
+          "fr": "Visite de Valladolid et du parc central Francisco Cantón Rosado, puis continuation vers Tulum et Cancún. Nuit à Cancún."
+        }
+      },
+      {
+        "day": "12",
+        "title": {
+          "en": "Cancún – Departure",
+          "es": "Cancún – Salida",
+          "fr": "Cancún – Départ"
+        },
+        "description": {
+          "en": "Transfer to Cancún Airport for your flight home.",
+          "es": "Traslado al Aeropuerto de Cancún para tomar su vuelo de regreso.",
+          "fr": "Transfert à l’aéroport de Cancún pour votre vol retour."
+        }
+      }
+    ],
+    "included": {
+      "en": [
+        "Airport – hotel – airport transfers in private service in English",
+        "All visits mentioned in the program in private service in English in an air-conditioned bus",
+        "Boat trip in Xochimilco with mariachi songs",
+        "English-speaking guide throughout the tour, except during free time in Cancún",
+        "Entrance fees for the visits mentioned in the program",
+        "Accommodation in the hotels mentioned or similar, according to availability",
+        "Bellboy tips at airports and hotels",
+        "Chambermaid tips",
+        "Breakfast every day",
+        "Half board in Cancún",
+        "Saturday and Sunday telephone assistance in English, based in Mexico City"
+      ],
+      "es": [
+        "Traslados aeropuerto – hotel – aeropuerto en servicio privado en inglés",
+        "Todas las visitas mencionadas en el programa en servicio privado en inglés en autobús con aire acondicionado",
+        "Paseo en trajinera en Xochimilco con canciones de mariachi",
+        "Guía de habla inglesa durante todo el recorrido, excepto durante el tiempo libre en Cancún",
+        "Entradas para las visitas mencionadas en el programa",
+        "Hospedaje en los hoteles mencionados o similares, según disponibilidad",
+        "Propinas para botones en aeropuertos y hoteles",
+        "Propinas para camaristas",
+        "Desayuno todos los días",
+        "Media pensión en Cancún",
+        "Asistencia telefónica sábados y domingos en inglés, basada en Ciudad de México"
+      ],
+      "fr": [
+        "Transferts aéroport – hôtel – aéroport en service privé en anglais",
+        "Toutes les visites mentionnées au programme en service privé en anglais en bus climatisé",
+        "Promenade en trajinera à Xochimilco avec chansons de mariachis",
+        "Guide anglophone pendant tout le circuit, sauf pendant le temps libre à Cancún",
+        "Frais d’entrée pour les visites mentionnées au programme",
+        "Hébergement dans les hôtels mentionnés ou similaires, selon disponibilité",
+        "Pourboires aux bagagistes dans les aéroports et hôtels",
+        "Pourboires aux femmes de chambre",
+        "Petit-déjeuner tous les jours",
+        "Demi-pension à Cancún",
+        "Assistance téléphonique les samedis et dimanches en anglais, basée à Mexico"
+      ]
+    }
+  },
+  {
+    "slug": "cultural-getaway",
+    "category": "groups",
+    "image": "/images/trips/mexico-city.jpg",
+    "duration": {
+      "en": "7 days",
+      "es": "7 días",
+      "fr": "7 jours"
+    },
+    "title": {
+      "en": "Cultural Getaway",
+      "es": "Escapada cultural",
+      "fr": "Escapade culturelle"
+    },
+    "summary": {
+      "en": "A compact private group itinerary through Mexico City, Mérida and Cancún, designed to combine culture, museums, archaeology and beach time.",
+      "es": "Un itinerario privado compacto para grupos por Ciudad de México, Mérida y Cancún, diseñado para combinar cultura, museos, arqueología y playa.",
+      "fr": "Un itinéraire privé compact pour groupes à Mexico, Mérida et Cancún, conçu pour combiner culture, musées, archéologie et séjour balnéaire."
+    },
+    "description": {
+      "en": "Program of 6 nights and 7 days designed to visit Mexico’s most iconic places in a few days, with Mexico City, Mérida and Cancún. A domestic flight to Mérida is required.",
+      "es": "Programa de 6 noches y 7 días diseñado para visitar los lugares más icónicos de México en pocos días, con Ciudad de México, Mérida y Cancún. Se requiere vuelo doméstico a Mérida.",
+      "fr": "Programme de 6 nuits et 7 jours conçu pour visiter les lieux les plus emblématiques du Mexique en quelques jours, avec Mexico, Mérida et Cancún. Un vol intérieur vers Mérida est requis."
+    },
+    "highlights": {
+      "en": [
+        "Anthropology Museum in Mexico City",
+        "Xochimilco floating gardens",
+        "Mariachi square and Zócalo Square",
+        "Guadalupe Shrine and Teotihuacán",
+        "Frida Kahlo Museum",
+        "Gran Museo del Mundo Maya in Mérida",
+        "Paseo de Montejo and beer tasting",
+        "Chichén Itzá"
+      ],
+      "es": [
+        "Museo de Antropología en Ciudad de México",
+        "Jardines flotantes de Xochimilco",
+        "Plaza del mariachi y Zócalo",
+        "Basílica de Guadalupe y Teotihuacán",
+        "Museo Frida Kahlo",
+        "Gran Museo del Mundo Maya en Mérida",
+        "Paseo de Montejo y degustación de cerveza",
+        "Chichén Itzá"
+      ],
+      "fr": [
+        "Musée d’anthropologie à Mexico",
+        "Jardins flottants de Xochimilco",
+        "Place des mariachis et Zócalo",
+        "Sanctuaire de Guadalupe et Teotihuacán",
+        "Musée Frida Kahlo",
+        "Grand Musée du Monde Maya à Mérida",
+        "Paseo de Montejo et dégustation de bière",
+        "Chichén Itzá"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": "01",
+        "title": {
+          "en": "Arrival – Mexico City",
+          "es": "Llegada – Ciudad de México",
+          "fr": "Arrivée – Mexico"
+        },
+        "description": {
+          "en": "Arrival at the airport and transfer to the hotel of your selection.",
+          "es": "Llegada al aeropuerto y traslado al hotel seleccionado.",
+          "fr": "Arrivée à l’aéroport et transfert à l’hôtel sélectionné."
+        }
+      },
+      {
+        "day": "02",
+        "title": {
+          "en": "Mexico City Tour – Anthropology Museum – Xochimilco",
+          "es": "Tour de Ciudad de México – Museo de Antropología – Xochimilco",
+          "fr": "Tour de Mexico – Musée d’anthropologie – Xochimilco"
+        },
+        "description": {
+          "en": "Visit the Anthropology Museum, Xochimilco by trajinera, the National Palace, Metropolitan Cathedral and Zócalo Square. Overnight in Mexico City.",
+          "es": "Visita al Museo de Antropología, Xochimilco en trajinera, Palacio Nacional, Catedral Metropolitana y Zócalo. Noche en Ciudad de México.",
+          "fr": "Visite du musée d’anthropologie, Xochimilco en trajinera, du Palais national, de la cathédrale métropolitaine et du Zócalo. Nuit à Mexico."
+        }
+      },
+      {
+        "day": "03",
+        "title": {
+          "en": "Mexico City – Guadalupe Shrine – Teotihuacán – Mexico City",
+          "es": "Ciudad de México – Basílica de Guadalupe – Teotihuacán – Ciudad de México",
+          "fr": "Mexico – Sanctuaire de Guadalupe – Teotihuacán – Mexico"
+        },
+        "description": {
+          "en": "Visit the Guadalupe Shrine and Three Cultures Square, then continue to Teotihuacán. Overnight in Mexico City.",
+          "es": "Visita a la Basílica de Guadalupe y Plaza de las Tres Culturas, después continuación a Teotihuacán. Noche en Ciudad de México.",
+          "fr": "Visite du sanctuaire de Guadalupe et de la Place des Trois Cultures, puis continuation vers Teotihuacán. Nuit à Mexico."
+        }
+      },
+      {
+        "day": "04",
+        "title": {
+          "en": "Mexico City – Coyoacán – Frida Kahlo – Garibaldi",
+          "es": "Ciudad de México – Coyoacán – Frida Kahlo – Garibaldi",
+          "fr": "Mexico – Coyoacán – Frida Kahlo – Garibaldi"
+        },
+        "description": {
+          "en": "Visit Coyoacán and the Frida Kahlo Museum, then enjoy a night tour in Garibaldi with live mariachi music and a Mexican folkloric show.",
+          "es": "Visita a Coyoacán y al Museo Frida Kahlo, después recorrido nocturno en Garibaldi con música de mariachi en vivo y espectáculo folclórico mexicano.",
+          "fr": "Visite de Coyoacán et du musée Frida Kahlo, puis tour de nuit à Garibaldi avec musique mariachi en direct et spectacle folklorique mexicain."
+        }
+      },
+      {
+        "day": "05",
+        "title": {
+          "en": "Mexico City / Mérida",
+          "es": "Ciudad de México / Mérida",
+          "fr": "Mexico / Mérida"
+        },
+        "description": {
+          "en": "Fly to Mérida. On arrival, visit the Gran Museo del Mundo Maya, Government Palace, Casa de Montejo, Cathedral, José Peón Contreras Theater and Paseo de Montejo. Enjoy a beer tasting in the evening. Overnight in Mérida.",
+          "es": "Vuelo a Mérida. A la llegada, visita al Gran Museo del Mundo Maya, Palacio de Gobierno, Casa de Montejo, Catedral, Teatro José Peón Contreras y Paseo de Montejo. Degustación de cerveza por la tarde. Noche en Mérida.",
+          "fr": "Vol vers Mérida. À l’arrivée, visite du Grand Musée du Monde Maya, du Palais du gouvernement, de la Casa de Montejo, de la cathédrale, du théâtre José Peón Contreras et du Paseo de Montejo. Dégustation de bière en soirée. Nuit à Mérida."
+        }
+      },
+      {
+        "day": "06",
+        "title": {
+          "en": "Mérida – Chichén Itzá – Cancún",
+          "es": "Mérida – Chichén Itzá – Cancún",
+          "fr": "Mérida – Chichén Itzá – Cancún"
+        },
+        "description": {
+          "en": "Full-day visit to Chichén Itzá, then continue to Cancún. Overnight in Cancún.",
+          "es": "Visita de día completo a Chichén Itzá y continuación a Cancún. Noche en Cancún.",
+          "fr": "Visite de Chichén Itzá pendant la journée, puis continuation vers Cancún. Nuit à Cancún."
+        }
+      },
+      {
+        "day": "07",
+        "title": {
+          "en": "Cancún Airport – Departure",
+          "es": "Aeropuerto de Cancún – Salida",
+          "fr": "Aéroport de Cancún – Départ"
+        },
+        "description": {
+          "en": "Transfer to Cancún Airport for your flight home.",
+          "es": "Traslado al Aeropuerto de Cancún para tomar su vuelo de regreso.",
+          "fr": "Transfert à l’aéroport de Cancún pour votre vol retour."
+        }
+      }
+    ],
+    "included": {
+      "en": [
+        "Airport – hotel – airport transfers in private service in English",
+        "All visits mentioned in the program in private service in English in an air-conditioned bus",
+        "English-speaking guide throughout the tour, except during free time in Cancún",
+        "Entrance fees for the visits mentioned in the program",
+        "Accommodation in the hotels mentioned or similar, according to availability",
+        "Bellboy tips at airports and hotels",
+        "Chambermaid tips",
+        "Breakfast every day",
+        "Beer tasting",
+        "Mexican folkloric show",
+        "All-inclusive program in Cancún hotel: breakfast, lunch, dinner and drinks from 10:00 to 22:00",
+        "Trajinera boat rental in Xochimilco with mariachi music",
+        "Saturday and Sunday telephone assistance in English, based in Mexico City"
+      ],
+      "es": [
+        "Traslados aeropuerto – hotel – aeropuerto en servicio privado en inglés",
+        "Todas las visitas mencionadas en el programa en servicio privado en inglés en autobús con aire acondicionado",
+        "Guía de habla inglesa durante todo el recorrido, excepto durante el tiempo libre en Cancún",
+        "Entradas para las visitas mencionadas en el programa",
+        "Hospedaje en los hoteles mencionados o similares, según disponibilidad",
+        "Propinas para botones en aeropuertos y hoteles",
+        "Propinas para camaristas",
+        "Desayuno todos los días",
+        "Degustación de cerveza",
+        "Espectáculo folclórico mexicano",
+        "Programa todo incluido en hotel de Cancún: desayuno, comida, cena y bebidas de 10:00 a 22:00",
+        "Renta de trajinera en Xochimilco con música de mariachi",
+        "Asistencia telefónica sábados y domingos en inglés, basada en Ciudad de México"
+      ],
+      "fr": [
+        "Transferts aéroport – hôtel – aéroport en service privé en anglais",
+        "Toutes les visites mentionnées au programme en service privé en anglais en bus climatisé",
+        "Guide anglophone pendant tout le circuit, sauf pendant le temps libre à Cancún",
+        "Frais d’entrée pour les visites mentionnées au programme",
+        "Hébergement dans les hôtels mentionnés ou similaires, selon disponibilité",
+        "Pourboires aux bagagistes dans les aéroports et hôtels",
+        "Pourboires aux femmes de chambre",
+        "Petit-déjeuner tous les jours",
+        "Dégustation de bière",
+        "Spectacle folklorique mexicain",
+        "Formule tout compris à l’hôtel de Cancún : petit-déjeuner, déjeuner, dîner et boissons de 10 h à 22 h",
+        "Location de trajinera à Xochimilco avec musique mariachi",
+        "Assistance téléphonique les samedis et dimanches en anglais, basée à Mexico"
+      ]
+    }
+  },
+  {
+    "slug": "deep-mexico",
+    "category": "groups",
+    "image": "/images/trips/palenque.jpg",
+    "duration": {
+      "en": "8 days",
+      "es": "8 días",
+      "fr": "8 jours"
+    },
+    "title": {
+      "en": "Deep Mexico",
+      "es": "México profundo",
+      "fr": "Mexique profond"
+    },
+    "summary": {
+      "en": "A private cultural route from Mexico City to Chiapas, Campeche, Mérida, Chichén Itzá and Cancún, focused on archaeology, nature and living traditions.",
+      "es": "Una ruta cultural privada desde Ciudad de México hacia Chiapas, Campeche, Mérida, Chichén Itzá y Cancún, enfocada en arqueología, naturaleza y tradiciones vivas.",
+      "fr": "Un circuit culturel privé de Mexico vers le Chiapas, Campeche, Mérida, Chichén Itzá et Cancún, axé sur l’archéologie, la nature et les traditions vivantes."
+    },
+    "description": {
+      "en": "Program of 7 nights and 8 days visiting Mexico City and its surroundings, then flying to Chiapas to learn about Tzotzil traditions and the Maya world.",
+      "es": "Programa de 7 noches y 8 días visitando Ciudad de México y sus alrededores, con vuelo a Chiapas para conocer las tradiciones tzotziles y el mundo maya.",
+      "fr": "Programme de 7 nuits et 8 jours visitant Mexico et ses environs, puis vol vers le Chiapas pour découvrir les traditions tzotziles et le monde maya."
+    },
+    "highlights": {
+      "en": [
+        "Mexico City and Teotihuacán",
+        "Sumidero Canyon",
+        "Tzotzil communities of San Juan Chamula and Zinacantán",
+        "Palenque",
+        "Agua Azul waterfalls",
+        "Campeche",
+        "Uxmal",
+        "Chichén Itzá"
+      ],
+      "es": [
+        "Ciudad de México y Teotihuacán",
+        "Cañón del Sumidero",
+        "Comunidades tzotziles de San Juan Chamula y Zinacantán",
+        "Palenque",
+        "Cascadas de Agua Azul",
+        "Campeche",
+        "Uxmal",
+        "Chichén Itzá"
+      ],
+      "fr": [
+        "Mexico et Teotihuacán",
+        "Canyon du Sumidero",
+        "Communautés tzotziles de San Juan Chamula et Zinacantán",
+        "Palenque",
+        "Cascades d’Agua Azul",
+        "Campeche",
+        "Uxmal",
+        "Chichén Itzá"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": "01",
+        "title": {
+          "en": "Arrival – Mexico City",
+          "es": "Llegada – Ciudad de México",
+          "fr": "Arrivée – Mexico"
+        },
+        "description": {
+          "en": "Arrival at the airport and transfer to the hotel of your selection.",
+          "es": "Llegada al aeropuerto y traslado al hotel seleccionado.",
+          "fr": "Arrivée à l’aéroport et transfert à l’hôtel sélectionné."
+        }
+      },
+      {
+        "day": "02",
+        "title": {
+          "en": "Mexico City Tour & Teotihuacán",
+          "es": "Tour de Ciudad de México y Teotihuacán",
+          "fr": "Tour de Mexico et Teotihuacán"
+        },
+        "description": {
+          "en": "Visit the National Palace, Metropolitan Cathedral and Zócalo Square. Continue to the Guadalupe Shrine, Three Cultures Square and Teotihuacán. Overnight in Mexico City.",
+          "es": "Visita al Palacio Nacional, Catedral Metropolitana y Zócalo. Continuación a la Basílica de Guadalupe, Plaza de las Tres Culturas y Teotihuacán. Noche en Ciudad de México.",
+          "fr": "Visite du Palais national, de la cathédrale métropolitaine et du Zócalo. Continuation vers le sanctuaire de Guadalupe, la Place des Trois Cultures et Teotihuacán. Nuit à Mexico."
+        }
+      },
+      {
+        "day": "03",
+        "title": {
+          "en": "Mexico City – Tuxtla Gutiérrez – Sumidero Canyon – San Cristóbal",
+          "es": "Ciudad de México – Tuxtla Gutiérrez – Cañón del Sumidero – San Cristóbal",
+          "fr": "Mexico – Tuxtla Gutiérrez – Canyon du Sumidero – San Cristóbal"
+        },
+        "description": {
+          "en": "Fly to Tuxtla Gutiérrez and transfer to the Grijalva River pier for a boat ride through Sumidero Canyon. Continue to San Cristóbal de las Casas. Overnight.",
+          "es": "Vuelo a Tuxtla Gutiérrez y traslado al embarcadero del río Grijalva para navegar por el Cañón del Sumidero. Continuación a San Cristóbal de las Casas. Noche.",
+          "fr": "Vol vers Tuxtla Gutiérrez et transfert à l’embarcadère du fleuve Grijalva pour une promenade en bateau dans le canyon du Sumidero. Continuation vers San Cristóbal de las Casas. Nuit."
+        }
+      },
+      {
+        "day": "04",
+        "title": {
+          "en": "San Cristóbal – San Juan Chamula & Zinacantán – Palenque",
+          "es": "San Cristóbal – San Juan Chamula y Zinacantán – Palenque",
+          "fr": "San Cristóbal – San Juan Chamula et Zinacantán – Palenque"
+        },
+        "description": {
+          "en": "Early departure to visit Tzotzil communities, then continue to Palenque with a stop at Agua Azul waterfalls. Overnight in Palenque.",
+          "es": "Salida temprano para visitar comunidades tzotziles, luego continuación a Palenque con parada en las cascadas de Agua Azul. Noche en Palenque.",
+          "fr": "Départ matinal pour visiter des communautés tzotziles, puis continuation vers Palenque avec arrêt aux cascades d’Agua Azul. Nuit à Palenque."
+        }
+      },
+      {
+        "day": "05",
+        "title": {
+          "en": "Palenque – Campeche",
+          "es": "Palenque – Campeche",
+          "fr": "Palenque – Campeche"
+        },
+        "description": {
+          "en": "Visit the archaeological site of Palenque. Continue to Campeche for the night.",
+          "es": "Visita al sitio arqueológico de Palenque. Continuación a Campeche para pasar la noche.",
+          "fr": "Visite du site archéologique de Palenque. Continuation vers Campeche pour la nuit."
+        }
+      },
+      {
+        "day": "06",
+        "title": {
+          "en": "Campeche – Uxmal – Mérida",
+          "es": "Campeche – Uxmal – Mérida",
+          "fr": "Campeche – Uxmal – Mérida"
+        },
+        "description": {
+          "en": "Visit the city of Campeche, transfer to Uxmal archaeological site, then continue to Mérida. Overnight in Mérida.",
+          "es": "Visita a la ciudad de Campeche, traslado al sitio arqueológico de Uxmal y continuación a Mérida. Noche en Mérida.",
+          "fr": "Visite de la ville de Campeche, transfert au site archéologique d’Uxmal, puis continuation vers Mérida. Nuit à Mérida."
+        }
+      },
+      {
+        "day": "07",
+        "title": {
+          "en": "Mérida – Chichén Itzá",
+          "es": "Mérida – Chichén Itzá",
+          "fr": "Mérida – Chichén Itzá"
+        },
+        "description": {
+          "en": "Visit Mérida city, then depart to Chichén Itzá. Overnight near Chichén Itzá.",
+          "es": "Visita a la ciudad de Mérida y salida hacia Chichén Itzá. Noche cerca de Chichén Itzá.",
+          "fr": "Visite de la ville de Mérida, puis départ vers Chichén Itzá. Nuit près de Chichén Itzá."
+        }
+      },
+      {
+        "day": "08",
+        "title": {
+          "en": "Chichén Itzá – Cancún – Departure",
+          "es": "Chichén Itzá – Cancún – Salida",
+          "fr": "Chichén Itzá – Cancún – Départ"
+        },
+        "description": {
+          "en": "Transfer to Cancún Airport for your flight home.",
+          "es": "Traslado al Aeropuerto de Cancún para tomar su vuelo de regreso.",
+          "fr": "Transfert à l’aéroport de Cancún pour votre vol retour."
+        }
+      }
+    ],
+    "included": {
+      "en": [
+        "Airport – hotel – airport transfers in private service in English",
+        "All visits mentioned in the program in private service in English in an air-conditioned bus",
+        "English-speaking guide throughout the program",
+        "Boat ride in Sumidero Canyon",
+        "Entrance fees for the visits mentioned in the program",
+        "Accommodation in the hotels mentioned or similar, according to availability",
+        "Daily breakfast or meals mentioned in this itinerary",
+        "Bellboy tips at airports and hotels",
+        "Chambermaid tips",
+        "Saturday and Sunday telephone assistance in English, based in Mexico City"
+      ],
+      "es": [
+        "Traslados aeropuerto – hotel – aeropuerto en servicio privado en inglés",
+        "Todas las visitas mencionadas en el programa en servicio privado en inglés en autobús con aire acondicionado",
+        "Guía de habla inglesa durante todo el programa",
+        "Paseo en lancha por el Cañón del Sumidero",
+        "Entradas para las visitas mencionadas en el programa",
+        "Hospedaje en los hoteles mencionados o similares, según disponibilidad",
+        "Desayuno diario o comidas mencionadas en este itinerario",
+        "Propinas para botones en aeropuertos y hoteles",
+        "Propinas para camaristas",
+        "Asistencia telefónica sábados y domingos en inglés, basada en Ciudad de México"
+      ],
+      "fr": [
+        "Transferts aéroport – hôtel – aéroport en service privé en anglais",
+        "Toutes les visites mentionnées au programme en service privé en anglais en bus climatisé",
+        "Guide anglophone pendant tout le programme",
+        "Promenade en bateau dans le canyon du Sumidero",
+        "Frais d’entrée pour les visites mentionnées au programme",
+        "Hébergement dans les hôtels mentionnés ou similaires, selon disponibilité",
+        "Petit-déjeuner quotidien ou repas mentionnés dans cet itinéraire",
+        "Pourboires aux bagagistes dans les aéroports et hôtels",
+        "Pourboires aux femmes de chambre",
+        "Assistance téléphonique les samedis et dimanches en anglais, basée à Mexico"
+      ]
+    }
+  },
+  {
+    "slug": "religious-roots",
+    "category": "groups",
+    "image": "/images/trips/guadalupe.jpg",
+    "duration": {
+      "en": "7 days",
+      "es": "7 días",
+      "fr": "7 jours"
+    },
+    "title": {
+      "en": "Religious Roots",
+      "es": "Raíces religiosas",
+      "fr": "Racines religieuses"
+    },
+    "summary": {
+      "en": "A private pilgrimage-style route through Mexico’s most representative religious centers, colonial cities and sacred landmarks.",
+      "es": "Una ruta privada tipo peregrinación por los centros religiosos, ciudades coloniales y lugares sagrados más representativos de México.",
+      "fr": "Un circuit privé de type pèlerinage à travers les centres religieux, villes coloniales et lieux sacrés les plus représentatifs du Mexique."
+    },
+    "description": {
+      "en": "Program of 7 days and 6 nights designed for pilgrims, visiting Mexico’s most representative religious centers.",
+      "es": "Programa de 7 días y 6 noches diseñado para peregrinos, visitando los centros religiosos más representativos de México.",
+      "fr": "Programme de 7 jours et 6 nuits conçu pour les pèlerins, visitant les centres religieux les plus représentatifs du Mexique."
+    },
+    "highlights": {
+      "en": [
+        "Mexico City",
+        "Guadalupe Shrine",
+        "Morelia",
+        "Mount Cubilete and Cristo Rey Monument",
+        "Mexican Sistine Chapel",
+        "Sanctuary of Jesús de Nazareno de Atotonilco",
+        "San Miguel Arcángel Parish",
+        "Templo y Ex-convento de la Santa Cruz de los Milagros",
+        "Metropolitan Cathedral"
+      ],
+      "es": [
+        "Ciudad de México",
+        "Basílica de Guadalupe",
+        "Morelia",
+        "Cerro del Cubilete y Monumento a Cristo Rey",
+        "Capilla Sixtina mexicana",
+        "Santuario de Jesús Nazareno de Atotonilco",
+        "Parroquia de San Miguel Arcángel",
+        "Templo y Ex Convento de la Santa Cruz de los Milagros",
+        "Catedral Metropolitana"
+      ],
+      "fr": [
+        "Mexico",
+        "Sanctuaire de Guadalupe",
+        "Morelia",
+        "Mont Cubilete et monument du Christ-Roi",
+        "Chapelle Sixtine mexicaine",
+        "Sanctuaire de Jesús Nazareno de Atotonilco",
+        "Paroisse San Miguel Arcángel",
+        "Temple et ancien couvent de la Santa Cruz de los Milagros",
+        "Cathédrale métropolitaine"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": "01",
+        "title": {
+          "en": "Arrival – Mexico City",
+          "es": "Llegada – Ciudad de México",
+          "fr": "Arrivée – Mexico"
+        },
+        "description": {
+          "en": "Arrival at the airport and transfer to the hotel of your selection.",
+          "es": "Llegada al aeropuerto y traslado al hotel seleccionado.",
+          "fr": "Arrivée à l’aéroport et transfert à l’hôtel sélectionné."
+        }
+      },
+      {
+        "day": "02",
+        "title": {
+          "en": "Mexico City – Guadalupe Shrine – Teotihuacán – Mexico City",
+          "es": "Ciudad de México – Basílica de Guadalupe – Teotihuacán – Ciudad de México",
+          "fr": "Mexico – Sanctuaire de Guadalupe – Teotihuacán – Mexico"
+        },
+        "description": {
+          "en": "Early transfer to the Basilica of Our Lady of Guadalupe. Continue to Teotihuacán, then return to Mexico City for the night.",
+          "es": "Traslado temprano a la Basílica de Nuestra Señora de Guadalupe. Continuación a Teotihuacán y regreso a Ciudad de México para pasar la noche.",
+          "fr": "Transfert matinal à la basilique Notre-Dame de Guadalupe. Continuation vers Teotihuacán, puis retour à Mexico pour la nuit."
+        }
+      },
+      {
+        "day": "03",
+        "title": {
+          "en": "Mexico City – Zitácuaro – Monarch Sanctuary – Morelia",
+          "es": "Ciudad de México – Zitácuaro – Santuario de la Monarca – Morelia",
+          "fr": "Mexico – Zitácuaro – Sanctuaire des monarques – Morelia"
+        },
+        "description": {
+          "en": "Visit the Monarch Butterfly Biosphere Reserve from November to February, then take a city tour in Morelia. Overnight in Morelia.",
+          "es": "Visita a la Reserva de la Biosfera de la Mariposa Monarca de noviembre a febrero, luego recorrido por Morelia. Noche en Morelia.",
+          "fr": "Visite de la réserve de biosphère du papillon monarque de novembre à février, puis tour de ville à Morelia. Nuit à Morelia."
+        }
+      },
+      {
+        "day": "04",
+        "title": {
+          "en": "Morelia – Silao – Guanajuato",
+          "es": "Morelia – Silao – Guanajuato",
+          "fr": "Morelia – Silao – Guanajuato"
+        },
+        "description": {
+          "en": "Depart to Silao to visit Mount Cubilete and the Cristo Rey Monument. Continue to Guanajuato for the night.",
+          "es": "Salida a Silao para visitar el Cerro del Cubilete y el Monumento a Cristo Rey. Continuación a Guanajuato para pasar la noche.",
+          "fr": "Départ vers Silao pour visiter le mont Cubilete et le monument du Christ-Roi. Continuation vers Guanajuato pour la nuit."
+        }
+      },
+      {
+        "day": "05",
+        "title": {
+          "en": "Guanajuato – Dolores Hidalgo – San Miguel de Allende – Querétaro",
+          "es": "Guanajuato – Dolores Hidalgo – San Miguel de Allende – Querétaro",
+          "fr": "Guanajuato – Dolores Hidalgo – San Miguel de Allende – Querétaro"
+        },
+        "description": {
+          "en": "Visit Dolores Hidalgo, the Mexican Sistine Chapel, the Sanctuary of Jesús de Nazareno de Atotonilco and San Miguel Arcángel Parish. Continue to Querétaro for the night.",
+          "es": "Visita a Dolores Hidalgo, la Capilla Sixtina mexicana, el Santuario de Jesús Nazareno de Atotonilco y la Parroquia de San Miguel Arcángel. Continuación a Querétaro para pasar la noche.",
+          "fr": "Visite de Dolores Hidalgo, de la chapelle Sixtine mexicaine, du sanctuaire de Jesús Nazareno de Atotonilco et de la paroisse San Miguel Arcángel. Continuation vers Querétaro pour la nuit."
+        }
+      },
+      {
+        "day": "06",
+        "title": {
+          "en": "Querétaro – Mexico City",
+          "es": "Querétaro – Ciudad de México",
+          "fr": "Querétaro – Mexico"
+        },
+        "description": {
+          "en": "Explore Querétaro, including the Regional Museum and the Templo y Ex-convento de la Santa Cruz de los Milagros. Continue to Mexico City to visit the Metropolitan Cathedral. Overnight in Mexico City.",
+          "es": "Recorrido por Querétaro, incluyendo el Museo Regional y el Templo y Ex Convento de la Santa Cruz de los Milagros. Continuación a Ciudad de México para visitar la Catedral Metropolitana. Noche en Ciudad de México.",
+          "fr": "Découverte de Querétaro, incluant le musée régional et le temple et ancien couvent de la Santa Cruz de los Milagros. Continuation vers Mexico pour visiter la cathédrale métropolitaine. Nuit à Mexico."
+        }
+      },
+      {
+        "day": "07",
+        "title": {
+          "en": "Mexico City – Departure",
+          "es": "Ciudad de México – Salida",
+          "fr": "Mexico – Départ"
+        },
+        "description": {
+          "en": "Transfer to the international airport for your flight home.",
+          "es": "Traslado al aeropuerto internacional para tomar su vuelo de regreso.",
+          "fr": "Transfert à l’aéroport international pour votre vol retour."
+        }
+      }
+    ],
+    "included": {
+      "en": [
+        "Airport – hotel – airport transfers in private service in English",
+        "All visits mentioned in the program in private service in English in an air-conditioned bus",
+        "English-speaking guide throughout the program",
+        "Entrance fees for the visits mentioned in the program",
+        "Accommodation in the hotels mentioned or similar, according to availability",
+        "Daily breakfast or meals mentioned in this itinerary",
+        "Bellboy tips at airports and hotels",
+        "Chambermaid tips",
+        "Saturday and Sunday telephone assistance in English, based in Mexico City"
+      ],
+      "es": [
+        "Traslados aeropuerto – hotel – aeropuerto en servicio privado en inglés",
+        "Todas las visitas mencionadas en el programa en servicio privado en inglés en autobús con aire acondicionado",
+        "Guía de habla inglesa durante todo el programa",
+        "Entradas para las visitas mencionadas en el programa",
+        "Hospedaje en los hoteles mencionados o similares, según disponibilidad",
+        "Desayuno diario o comidas mencionadas en este itinerario",
+        "Propinas para botones en aeropuertos y hoteles",
+        "Propinas para camaristas",
+        "Asistencia telefónica sábados y domingos en inglés, basada en Ciudad de México"
+      ],
+      "fr": [
+        "Transferts aéroport – hôtel – aéroport en service privé en anglais",
+        "Toutes les visites mentionnées au programme en service privé en anglais en bus climatisé",
+        "Guide anglophone pendant tout le programme",
+        "Frais d’entrée pour les visites mentionnées au programme",
+        "Hébergement dans les hôtels mentionnés ou similaires, selon disponibilité",
+        "Petit-déjeuner quotidien ou repas mentionnés dans cet itinéraire",
+        "Pourboires aux bagagistes dans les aéroports et hôtels",
+        "Pourboires aux femmes de chambre",
+        "Assistance téléphonique les samedis et dimanches en anglais, basée à Mexico"
+      ]
+    }
+  },
+  {
+    "slug": "traditional-mexico-groups",
+    "category": "groups",
+    "image": "/images/trips/taxco.jpg",
+    "duration": {
+      "en": "7 days",
+      "es": "7 días",
+      "fr": "7 jours"
+    },
+    "title": {
+      "en": "The Magic of the Traditional Mexico",
+      "es": "La magia del México tradicional",
+      "fr": "La magie du Mexique traditionnel"
+    },
+    "summary": {
+      "en": "A private group itinerary through Mexico City, Teotihuacán, Cuernavaca, Taxco and Acapulco, combining culture, colonial charm and beach leisure.",
+      "es": "Un itinerario privado para grupos por Ciudad de México, Teotihuacán, Cuernavaca, Taxco y Acapulco, combinando cultura, encanto colonial y descanso de playa.",
+      "fr": "Un itinéraire privé pour groupes à travers Mexico, Teotihuacán, Cuernavaca, Taxco et Acapulco, combinant culture, charme colonial et détente balnéaire."
+    },
+    "description": {
+      "en": "Program of 7 days and 6 nights including traditional Mexican cities such as Taxco, known as the City of Silver, and Acapulco, famous for its cliff divers.",
+      "es": "Programa de 7 días y 6 noches que incluye ciudades tradicionales de México como Taxco, conocida como la Ciudad de la Plata, y Acapulco, famoso por sus clavadistas.",
+      "fr": "Programme de 7 jours et 6 nuits incluant des villes traditionnelles du Mexique comme Taxco, connue comme la ville de l’argent, et Acapulco, célèbre pour ses plongeurs de falaise."
+    },
+    "highlights": {
+      "en": [
+        "Mexico City",
+        "Anthropology Museum",
+        "Teotihuacán",
+        "Cuernavaca",
+        "Taxco",
+        "Acapulco"
+      ],
+      "es": [
+        "Ciudad de México",
+        "Museo de Antropología",
+        "Teotihuacán",
+        "Cuernavaca",
+        "Taxco",
+        "Acapulco"
+      ],
+      "fr": [
+        "Mexico",
+        "Musée d’anthropologie",
+        "Teotihuacán",
+        "Cuernavaca",
+        "Taxco",
+        "Acapulco"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": "01",
+        "title": {
+          "en": "Arrival – Mexico City",
+          "es": "Llegada – Ciudad de México",
+          "fr": "Arrivée – Mexico"
+        },
+        "description": {
+          "en": "Arrival at the airport and transfer to the hotel of your selection.",
+          "es": "Llegada al aeropuerto y traslado al hotel seleccionado.",
+          "fr": "Arrivée à l’aéroport et transfert à l’hôtel sélectionné."
+        }
+      },
+      {
+        "day": "02",
+        "title": {
+          "en": "Mexico City Tour",
+          "es": "Tour de Ciudad de México",
+          "fr": "Tour de Mexico"
+        },
+        "description": {
+          "en": "Visit the Anthropology Museum, National Palace, Zócalo Square and Metropolitan Cathedral. Overnight in Mexico City.",
+          "es": "Visita al Museo de Antropología, Palacio Nacional, Zócalo y Catedral Metropolitana. Noche en Ciudad de México.",
+          "fr": "Visite du musée d’anthropologie, du Palais national, du Zócalo et de la cathédrale métropolitaine. Nuit à Mexico."
+        }
+      },
+      {
+        "day": "03",
+        "title": {
+          "en": "Mexico City – Guadalupe Shrine – Teotihuacán – Mexico City",
+          "es": "Ciudad de México – Basílica de Guadalupe – Teotihuacán – Ciudad de México",
+          "fr": "Mexico – Sanctuaire de Guadalupe – Teotihuacán – Mexico"
+        },
+        "description": {
+          "en": "Visit Teotihuacán and the Guadalupe Shrine. Overnight in Mexico City.",
+          "es": "Visita a Teotihuacán y la Basílica de Guadalupe. Noche en Ciudad de México.",
+          "fr": "Visite de Teotihuacán et du sanctuaire de Guadalupe. Nuit à Mexico."
+        }
+      },
+      {
+        "day": "04",
+        "title": {
+          "en": "Mexico City – Cuernavaca – Taxco",
+          "es": "Ciudad de México – Cuernavaca – Taxco",
+          "fr": "Mexico – Cuernavaca – Taxco"
+        },
+        "description": {
+          "en": "Depart to Cuernavaca for a town visit, then continue to Taxco. Overnight in Taxco.",
+          "es": "Salida hacia Cuernavaca para visitar la ciudad y continuación a Taxco. Noche en Taxco.",
+          "fr": "Départ vers Cuernavaca pour visiter la ville, puis continuation vers Taxco. Nuit à Taxco."
+        }
+      },
+      {
+        "day": "05",
+        "title": {
+          "en": "Taxco – Acapulco",
+          "es": "Taxco – Acapulco",
+          "fr": "Taxco – Acapulco"
+        },
+        "description": {
+          "en": "Depart for Acapulco. Overnight in Acapulco.",
+          "es": "Salida hacia Acapulco. Noche en Acapulco.",
+          "fr": "Départ vers Acapulco. Nuit à Acapulco."
+        }
+      },
+      {
+        "day": "06",
+        "title": {
+          "en": "Acapulco",
+          "es": "Acapulco",
+          "fr": "Acapulco"
+        },
+        "description": {
+          "en": "Day at leisure with an all-inclusive program.",
+          "es": "Día libre con programa todo incluido.",
+          "fr": "Journée libre en formule tout compris."
+        }
+      },
+      {
+        "day": "07",
+        "title": {
+          "en": "Acapulco – Mexico City – Departure",
+          "es": "Acapulco – Ciudad de México – Salida",
+          "fr": "Acapulco – Mexico – Départ"
+        },
+        "description": {
+          "en": "Transfer to the airport for your flight home.",
+          "es": "Traslado al aeropuerto para tomar su vuelo de regreso.",
+          "fr": "Transfert à l’aéroport pour votre vol retour."
+        }
+      }
+    ],
+    "included": {
+      "en": [
+        "Airport – hotel – airport transfers in private service in English",
+        "All visits mentioned in the program in private service in English in an air-conditioned bus",
+        "English-speaking guide throughout the tour, except free days in Acapulco",
+        "Entrance fees for the visits mentioned in the program",
+        "Accommodation in the hotels mentioned or similar, according to availability",
+        "Bellboy tips at airports and hotels",
+        "Chambermaid tips",
+        "Breakfast every day",
+        "All-inclusive program in Acapulco hotel: breakfast, lunch, dinner, snacks and domestic soft and alcoholic drinks from 10:00 to 22:00",
+        "Saturday and Sunday telephone assistance in English, based in Mexico City"
+      ],
+      "es": [
+        "Traslados aeropuerto – hotel – aeropuerto en servicio privado en inglés",
+        "Todas las visitas mencionadas en el programa en servicio privado en inglés en autobús con aire acondicionado",
+        "Guía de habla inglesa durante todo el recorrido, excepto días libres en Acapulco",
+        "Entradas para las visitas mencionadas en el programa",
+        "Hospedaje en los hoteles mencionados o similares, según disponibilidad",
+        "Propinas para botones en aeropuertos y hoteles",
+        "Propinas para camaristas",
+        "Desayuno todos los días",
+        "Programa todo incluido en hotel de Acapulco: desayuno, comida, cena, snacks y bebidas nacionales suaves y alcohólicas de 10:00 a 22:00",
+        "Asistencia telefónica sábados y domingos en inglés, basada en Ciudad de México"
+      ],
+      "fr": [
+        "Transferts aéroport – hôtel – aéroport en service privé en anglais",
+        "Toutes les visites mentionnées au programme en service privé en anglais en bus climatisé",
+        "Guide anglophone pendant tout le circuit, sauf les journées libres à Acapulco",
+        "Frais d’entrée pour les visites mentionnées au programme",
+        "Hébergement dans les hôtels mentionnés ou similaires, selon disponibilité",
+        "Pourboires aux bagagistes dans les aéroports et hôtels",
+        "Pourboires aux femmes de chambre",
+        "Petit-déjeuner tous les jours",
+        "Formule tout compris à l’hôtel d’Acapulco : petit-déjeuner, déjeuner, dîner, collations et boissons nationales sans alcool et alcoolisées de 10 h à 22 h",
+        "Assistance téléphonique les samedis et dimanches en anglais, basée à Mexico"
+      ]
+    }
+  },
+  {
+    "slug": "only-yucatan",
+    "category": "groups",
+    "image": "/images/trips/yucatan.jpg",
+    "duration": {
+      "en": "7 days",
+      "es": "7 días",
+      "fr": "7 jours"
+    },
+    "title": {
+      "en": "Only Yucatán",
+      "es": "Solo Yucatán",
+      "fr": "Yucatán seulement"
+    },
+    "summary": {
+      "en": "A private group route around the Yucatán Peninsula for lovers of Maya archaeology, cenotes, lagoons, colonial cities and Caribbean landscapes.",
+      "es": "Una ruta privada para grupos por la Península de Yucatán para amantes de la arqueología maya, cenotes, lagunas, ciudades coloniales y paisajes caribeños.",
+      "fr": "Un circuit privé pour groupes dans la péninsule du Yucatán pour les amateurs d’archéologie maya, de cénotes, de lagunes, de villes coloniales et de paysages caribéens."
+    },
+    "description": {
+      "en": "Program of 7 days and 6 nights discovering the greatest cities of the Yucatán Peninsula across Quintana Roo, Campeche and Yucatán, focused on Maya archaeology, cenotes, lagoons and archaeological zones.",
+      "es": "Programa de 7 días y 6 noches para descubrir las grandes ciudades de la Península de Yucatán en Quintana Roo, Campeche y Yucatán, enfocado en arqueología maya, cenotes, lagunas y zonas arqueológicas.",
+      "fr": "Programme de 7 jours et 6 nuits pour découvrir les grandes villes de la péninsule du Yucatán à travers Quintana Roo, Campeche et Yucatán, avec un accent sur l’archéologie maya, les cénotes, les lagunes et les zones archéologiques."
+    },
+    "highlights": {
+      "en": [
+        "Cenote Ik Kil",
+        "Chichén Itzá",
+        "Mérida",
+        "Uxmal",
+        "Campeche",
+        "Calakmul",
+        "Bacalar Lagoon",
+        "Tulum",
+        "Tour begins and ends in Cancún"
+      ],
+      "es": [
+        "Cenote Ik Kil",
+        "Chichén Itzá",
+        "Mérida",
+        "Uxmal",
+        "Campeche",
+        "Calakmul",
+        "Laguna de Bacalar",
+        "Tulum",
+        "El tour inicia y termina en Cancún"
+      ],
+      "fr": [
+        "Cénote Ik Kil",
+        "Chichén Itzá",
+        "Mérida",
+        "Uxmal",
+        "Campeche",
+        "Calakmul",
+        "Lagune de Bacalar",
+        "Tulum",
+        "Le circuit commence et se termine à Cancún"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": "01",
+        "title": {
+          "en": "Arrival – Cancún – Chichén Itzá",
+          "es": "Llegada – Cancún – Chichén Itzá",
+          "fr": "Arrivée – Cancún – Chichén Itzá"
+        },
+        "description": {
+          "en": "Arrival at Cancún Airport and transfer to Chichén Itzá. Overnight.",
+          "es": "Llegada al Aeropuerto de Cancún y traslado a Chichén Itzá. Noche.",
+          "fr": "Arrivée à l’aéroport de Cancún et transfert à Chichén Itzá. Nuit."
+        }
+      },
+      {
+        "day": "02",
+        "title": {
+          "en": "Chichén Itzá – Ik Kil – Izamal – Mérida",
+          "es": "Chichén Itzá – Ik Kil – Izamal – Mérida",
+          "fr": "Chichén Itzá – Ik Kil – Izamal – Mérida"
+        },
+        "description": {
+          "en": "Visit Chichén Itzá, continue to Cenote Ik Kil, then visit Izamal and continue to Mérida. Overnight in Mérida.",
+          "es": "Visita a Chichén Itzá, continuación al Cenote Ik Kil, visita a Izamal y continuación a Mérida. Noche en Mérida.",
+          "fr": "Visite de Chichén Itzá, continuation vers le cénote Ik Kil, visite d’Izamal et poursuite vers Mérida. Nuit à Mérida."
+        }
+      },
+      {
+        "day": "03",
+        "title": {
+          "en": "Mérida – Celestún – Mérida",
+          "es": "Mérida – Celestún – Mérida",
+          "fr": "Mérida – Celestún – Mérida"
+        },
+        "description": {
+          "en": "Visit Celestún, habitat of pink flamingos and several bird species of the peninsula. Return and overnight in Mérida.",
+          "es": "Visita a Celestún, hábitat del flamenco rosado y de varias especies de aves de la península. Regreso y noche en Mérida.",
+          "fr": "Visite de Celestún, habitat des flamants roses et de plusieurs espèces d’oiseaux de la péninsule. Retour et nuit à Mérida."
+        }
+      },
+      {
+        "day": "04",
+        "title": {
+          "en": "Mérida – Uxmal – Campeche",
+          "es": "Mérida – Uxmal – Campeche",
+          "fr": "Mérida – Uxmal – Campeche"
+        },
+        "description": {
+          "en": "Depart to the archaeological site of Uxmal, then continue to Campeche. Overnight in Campeche.",
+          "es": "Salida al sitio arqueológico de Uxmal y continuación a Campeche. Noche en Campeche.",
+          "fr": "Départ vers le site archéologique d’Uxmal, puis continuation vers Campeche. Nuit à Campeche."
+        }
+      },
+      {
+        "day": "05",
+        "title": {
+          "en": "Campeche – Calakmul – Chetumal",
+          "es": "Campeche – Calakmul – Chetumal",
+          "fr": "Campeche – Calakmul – Chetumal"
+        },
+        "description": {
+          "en": "Early departure to Calakmul in the tropical forest of the lowlands. Continue to Chetumal.",
+          "es": "Salida temprano hacia Calakmul, en la selva tropical de las tierras bajas. Continuación a Chetumal.",
+          "fr": "Départ matinal vers Calakmul, dans la forêt tropicale des basses terres. Continuation vers Chetumal."
+        }
+      },
+      {
+        "day": "06",
+        "title": {
+          "en": "Chetumal – Bacalar – Tulum – Cancún",
+          "es": "Chetumal – Bacalar – Tulum – Cancún",
+          "fr": "Chetumal – Bacalar – Tulum – Cancún"
+        },
+        "description": {
+          "en": "Visit Bacalar Lagoon, also called the lagoon of seven colors. Continue to Tulum for a site visit, then continue to Cancún. Overnight in Cancún.",
+          "es": "Visita a la Laguna de Bacalar, también llamada laguna de los siete colores. Continuación a Tulum para visitar el sitio y después a Cancún. Noche en Cancún.",
+          "fr": "Visite de la lagune de Bacalar, aussi appelée lagune aux sept couleurs. Continuation vers Tulum pour la visite du site, puis vers Cancún. Nuit à Cancún."
+        }
+      },
+      {
+        "day": "07",
+        "title": {
+          "en": "Cancún – Departure",
+          "es": "Cancún – Salida",
+          "fr": "Cancún – Départ"
+        },
+        "description": {
+          "en": "Transfer to Cancún International Airport for your flight home.",
+          "es": "Traslado al Aeropuerto Internacional de Cancún para tomar su vuelo de regreso.",
+          "fr": "Transfert à l’aéroport international de Cancún pour votre vol retour."
+        }
+      }
+    ],
+    "included": {
+      "en": [
+        "Airport – hotel – airport transfers in private service in English",
+        "All visits mentioned in the program in private service in English in an air-conditioned bus",
+        "English-speaking guide throughout the tour, except at the Cancún hotel",
+        "Entrance fees for the visits mentioned in the program",
+        "Accommodation in the hotels mentioned or similar, according to availability",
+        "Bellboy tips at airports and hotels",
+        "Chambermaid tips",
+        "Saturday and Sunday telephone assistance in English, based in Mexico City",
+        "Breakfast every day",
+        "All-inclusive program in Cancún hotel: breakfast, lunch, dinner, snacks and domestic soft and alcoholic drinks from 10:00 to 22:00"
+      ],
+      "es": [
+        "Traslados aeropuerto – hotel – aeropuerto en servicio privado en inglés",
+        "Todas las visitas mencionadas en el programa en servicio privado en inglés en autobús con aire acondicionado",
+        "Guía de habla inglesa durante todo el recorrido, excepto en el hotel de Cancún",
+        "Entradas para las visitas mencionadas en el programa",
+        "Hospedaje en los hoteles mencionados o similares, según disponibilidad",
+        "Propinas para botones en aeropuertos y hoteles",
+        "Propinas para camaristas",
+        "Asistencia telefónica sábados y domingos en inglés, basada en Ciudad de México",
+        "Desayuno todos los días",
+        "Programa todo incluido en hotel de Cancún: desayuno, comida, cena, snacks y bebidas nacionales suaves y alcohólicas de 10:00 a 22:00"
+      ],
+      "fr": [
+        "Transferts aéroport – hôtel – aéroport en service privé en anglais",
+        "Toutes les visites mentionnées au programme en service privé en anglais en bus climatisé",
+        "Guide anglophone pendant tout le circuit, sauf à l’hôtel de Cancún",
+        "Frais d’entrée pour les visites mentionnées au programme",
+        "Hébergement dans les hôtels mentionnés ou similaires, selon disponibilité",
+        "Pourboires aux bagagistes dans les aéroports et hôtels",
+        "Pourboires aux femmes de chambre",
+        "Assistance téléphonique les samedis et dimanches en anglais, basée à Mexico",
+        "Petit-déjeuner tous les jours",
+        "Formule tout compris à l’hôtel de Cancún : petit-déjeuner, déjeuner, dîner, collations et boissons nationales sans alcool et alcoolisées de 10 h à 22 h"
+      ]
+    }
+  },
+  {
+    "slug": "mexico-guatemala",
+    "category": "groups",
+    "image": "/images/trips/tikal.jpg",
+    "duration": {
+      "en": "15 days",
+      "es": "15 días",
+      "fr": "15 jours"
+    },
+    "title": {
+      "en": "Mexico – Guatemala",
+      "es": "México – Guatemala",
+      "fr": "Mexique – Guatemala"
+    },
+    "summary": {
+      "en": "A private group journey through Mexico and Guatemala exploring Maya heritage, colonial cities, jungle sites, lakes, waterfalls and the Caribbean.",
+      "es": "Un viaje privado para grupos por México y Guatemala explorando herencia maya, ciudades coloniales, sitios en la selva, lagos, cascadas y el Caribe.",
+      "fr": "Un voyage privé pour groupes au Mexique et au Guatemala à la découverte de l’héritage maya, des villes coloniales, des sites dans la jungle, des lacs, des cascades et des Caraïbes."
+    },
+    "description": {
+      "en": "Program of 15 days and 14 nights to admire what remains of the splendor of the Maya culture in Mexico and Guatemala, including sites such as Chichén Itzá and Tikal.",
+      "es": "Programa de 15 días y 14 noches para admirar lo que queda del esplendor de la cultura maya en México y Guatemala, incluyendo sitios como Chichén Itzá y Tikal.",
+      "fr": "Programme de 15 jours et 14 nuits pour admirer ce qui reste de la splendeur de la culture maya au Mexique et au Guatemala, notamment des sites comme Chichén Itzá et Tikal."
+    },
+    "highlights": {
+      "en": [
+        "Teotihuacán",
+        "Anthropology Museum in Mexico City",
+        "Chichicastenango",
+        "Panajachel and Lake Atitlán",
+        "Antigua",
+        "Yaxhá and Tikal",
+        "Yaxchilán and Palenque",
+        "Agua Azul and San Cristóbal de las Casas",
+        "Sumidero Canyon",
+        "Campeche and Cacao Museum",
+        "Uxmal, Chichén Itzá and Cancún"
+      ],
+      "es": [
+        "Teotihuacán",
+        "Museo de Antropología en Ciudad de México",
+        "Chichicastenango",
+        "Panajachel y Lago Atitlán",
+        "Antigua",
+        "Yaxhá y Tikal",
+        "Yaxchilán y Palenque",
+        "Agua Azul y San Cristóbal de las Casas",
+        "Cañón del Sumidero",
+        "Campeche y Museo del Cacao",
+        "Uxmal, Chichén Itzá y Cancún"
+      ],
+      "fr": [
+        "Teotihuacán",
+        "Musée d’anthropologie à Mexico",
+        "Chichicastenango",
+        "Panajachel et lac Atitlán",
+        "Antigua",
+        "Yaxhá et Tikal",
+        "Yaxchilán et Palenque",
+        "Agua Azul et San Cristóbal de las Casas",
+        "Canyon du Sumidero",
+        "Campeche et musée du cacao",
+        "Uxmal, Chichén Itzá et Cancún"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": "01",
+        "title": {
+          "en": "Europe – Mexico City",
+          "es": "Europa – Ciudad de México",
+          "fr": "Europe – Mexico"
+        },
+        "description": {
+          "en": "Arrival in Mexico City and transfer to the hotel.",
+          "es": "Llegada a Ciudad de México y traslado al hotel.",
+          "fr": "Arrivée à Mexico et transfert à l’hôtel."
+        }
+      },
+      {
+        "day": "02",
+        "title": {
+          "en": "Mexico City – Teotihuacán – Mexico City",
+          "es": "Ciudad de México – Teotihuacán – Ciudad de México",
+          "fr": "Mexico – Teotihuacán – Mexico"
+        },
+        "description": {
+          "en": "Visit the Guadalupe Shrine, Three Cultures Square and Teotihuacán archaeological site. Overnight in Mexico City.",
+          "es": "Visita a la Basílica de Guadalupe, Plaza de las Tres Culturas y sitio arqueológico de Teotihuacán. Noche en Ciudad de México.",
+          "fr": "Visite du sanctuaire de Guadalupe, de la Place des Trois Cultures et du site archéologique de Teotihuacán. Nuit à Mexico."
+        }
+      },
+      {
+        "day": "03",
+        "title": {
+          "en": "Mexico City Tour – Guatemala City",
+          "es": "Tour de Ciudad de México – Ciudad de Guatemala",
+          "fr": "Tour de Mexico – Guatemala City"
+        },
+        "description": {
+          "en": "Visit the Anthropology Museum, National Palace, Zócalo Square and Metropolitan Cathedral. Transfer to the airport for the flight to Guatemala City. Arrival and overnight in Guatemala.",
+          "es": "Visita al Museo de Antropología, Palacio Nacional, Zócalo y Catedral Metropolitana. Traslado al aeropuerto para tomar vuelo a Ciudad de Guatemala. Llegada y noche en Guatemala.",
+          "fr": "Visite du musée d’anthropologie, du Palais national, du Zócalo et de la cathédrale métropolitaine. Transfert à l’aéroport pour le vol vers Guatemala City. Arrivée et nuit au Guatemala."
+        }
+      },
+      {
+        "day": "04",
+        "title": {
+          "en": "Guatemala – Chichicastenango – Panajachel",
+          "es": "Guatemala – Chichicastenango – Panajachel",
+          "fr": "Guatemala – Chichicastenango – Panajachel"
+        },
+        "description": {
+          "en": "Visit Chichicastenango market with time for shopping, then transfer to Panajachel. Overnight in Panajachel.",
+          "es": "Visita al mercado de Chichicastenango con tiempo para compras, luego traslado a Panajachel. Noche en Panajachel.",
+          "fr": "Visite du marché de Chichicastenango avec du temps pour les achats, puis transfert à Panajachel. Nuit à Panajachel."
+        }
+      },
+      {
+        "day": "05",
+        "title": {
+          "en": "Panajachel – Lake Atitlán – Antigua",
+          "es": "Panajachel – Lago Atitlán – Antigua",
+          "fr": "Panajachel – Lac Atitlán – Antigua"
+        },
+        "description": {
+          "en": "Take a boat trip across Lake Atitlán and continue to Antigua Guatemala for a town visit. Overnight in Antigua.",
+          "es": "Paseo en lancha por el Lago Atitlán y continuación a Antigua Guatemala para visitar la ciudad. Noche en Antigua.",
+          "fr": "Promenade en bateau sur le lac Atitlán et continuation vers Antigua Guatemala pour visiter la ville. Nuit à Antigua."
+        }
+      },
+      {
+        "day": "06",
+        "title": {
+          "en": "Antigua – Guatemala City – Flores",
+          "es": "Antigua – Ciudad de Guatemala – Flores",
+          "fr": "Antigua – Guatemala City – Flores"
+        },
+        "description": {
+          "en": "Visit Antigua, including the La Azotea Coffee Museum and K’ojom Music Museum. In the afternoon, drive to the airport for the flight to Flores; ticket not included. Overnight in Flores.",
+          "es": "Visita a Antigua, incluyendo el Museo del Café La Azotea y el Museo de Música K’ojom. Por la tarde, traslado al aeropuerto para vuelo a Flores; boleto no incluido. Noche en Flores.",
+          "fr": "Visite d’Antigua, incluant le musée du café La Azotea et le musée de la musique K’ojom. L’après-midi, transfert à l’aéroport pour le vol vers Flores ; billet non inclus. Nuit à Flores."
+        }
+      },
+      {
+        "day": "07",
+        "title": {
+          "en": "Flores – Tikal – Flores",
+          "es": "Flores – Tikal – Flores",
+          "fr": "Flores – Tikal – Flores"
+        },
+        "description": {
+          "en": "Visit Tikal, where the highest structures offer breathtaking views over the jungle. Return to Flores.",
+          "es": "Visita a Tikal, donde las estructuras más altas ofrecen vistas impresionantes sobre la selva. Regreso a Flores.",
+          "fr": "Visite de Tikal, dont les plus hautes structures offrent une vue impressionnante sur la jungle. Retour à Flores."
+        }
+      },
+      {
+        "day": "08",
+        "title": {
+          "en": "Flores – Bethel – Yaxchilán – Palenque",
+          "es": "Flores – Bethel – Yaxchilán – Palenque",
+          "fr": "Flores – Bethel – Yaxchilán – Palenque"
+        },
+        "description": {
+          "en": "Transfer to the Bethel border, take a boat on the Usumacinta River to the Mexican border at Corozal and continue to Yaxchilán. Visit Yaxchilán, then continue to Palenque for the night.",
+          "es": "Traslado a la frontera de Bethel, lancha por el río Usumacinta hacia la frontera mexicana en Corozal y continuación a Yaxchilán. Visita a Yaxchilán y continuación a Palenque para pasar la noche.",
+          "fr": "Transfert à la frontière de Bethel, bateau sur le fleuve Usumacinta jusqu’à la frontière mexicaine à Corozal et continuation vers Yaxchilán. Visite de Yaxchilán, puis continuation vers Palenque pour la nuit."
+        }
+      },
+      {
+        "day": "09",
+        "title": {
+          "en": "Palenque – Agua Azul – San Cristóbal",
+          "es": "Palenque – Agua Azul – San Cristóbal",
+          "fr": "Palenque – Agua Azul – San Cristóbal"
+        },
+        "description": {
+          "en": "Visit Palenque archaeological site, continue to Agua Azul waterfalls and then transfer to San Cristóbal. Overnight.",
+          "es": "Visita al sitio arqueológico de Palenque, continuación a las cascadas de Agua Azul y traslado a San Cristóbal. Noche.",
+          "fr": "Visite du site archéologique de Palenque, continuation vers les cascades d’Agua Azul puis transfert à San Cristóbal. Nuit."
+        }
+      },
+      {
+        "day": "10",
+        "title": {
+          "en": "San Cristóbal – Sumidero Canyon – Villahermosa",
+          "es": "San Cristóbal – Cañón del Sumidero – Villahermosa",
+          "fr": "San Cristóbal – Canyon du Sumidero – Villahermosa"
+        },
+        "description": {
+          "en": "Visit San Cristóbal de las Casas, then continue to Sumidero Canyon for a boat ride through its cliffs. Continue to Villahermosa for the night.",
+          "es": "Visita a San Cristóbal de las Casas y continuación al Cañón del Sumidero para un paseo en lancha entre sus acantilados. Continuación a Villahermosa para pasar la noche.",
+          "fr": "Visite de San Cristóbal de las Casas, puis continuation vers le canyon du Sumidero pour une promenade en bateau entre ses falaises. Continuation vers Villahermosa pour la nuit."
+        }
+      },
+      {
+        "day": "11",
+        "title": {
+          "en": "Villahermosa – Campeche",
+          "es": "Villahermosa – Campeche",
+          "fr": "Villahermosa – Campeche"
+        },
+        "description": {
+          "en": "Depart to Campeche. On arrival, visit the city and overnight in Campeche.",
+          "es": "Salida hacia Campeche. A la llegada, visita a la ciudad y noche en Campeche.",
+          "fr": "Départ vers Campeche. À l’arrivée, visite de la ville et nuit à Campeche."
+        }
+      },
+      {
+        "day": "12",
+        "title": {
+          "en": "Campeche – Cacao Museum – Uxmal – Mérida",
+          "es": "Campeche – Museo del Cacao – Uxmal – Mérida",
+          "fr": "Campeche – Musée du cacao – Uxmal – Mérida"
+        },
+        "description": {
+          "en": "Depart to Mérida and visit the Cacao Museum and Uxmal archaeological site on the way. Continue to Mérida for the night.",
+          "es": "Salida hacia Mérida y visita en ruta al Museo del Cacao y al sitio arqueológico de Uxmal. Continuación a Mérida para pasar la noche.",
+          "fr": "Départ vers Mérida avec visite du musée du cacao et du site archéologique d’Uxmal en chemin. Continuation vers Mérida pour la nuit."
+        }
+      },
+      {
+        "day": "13",
+        "title": {
+          "en": "Mérida – Chichén Itzá – Cancún",
+          "es": "Mérida – Chichén Itzá – Cancún",
+          "fr": "Mérida – Chichén Itzá – Cancún"
+        },
+        "description": {
+          "en": "Visit Mérida city, then depart to Chichén Itzá archaeological site. Continue to Cancún for the night.",
+          "es": "Visita a la ciudad de Mérida, salida al sitio arqueológico de Chichén Itzá y continuación a Cancún para pasar la noche.",
+          "fr": "Visite de la ville de Mérida, départ vers le site archéologique de Chichén Itzá et continuation vers Cancún pour la nuit."
+        }
+      },
+      {
+        "day": "14",
+        "title": {
+          "en": "Leisure in Cancún",
+          "es": "Día libre en Cancún",
+          "fr": "Journée libre à Cancún"
+        },
+        "description": {
+          "en": "Leisure at the beach with an all-inclusive program.",
+          "es": "Día libre en la playa con programa todo incluido.",
+          "fr": "Journée libre à la plage en formule tout compris."
+        }
+      },
+      {
+        "day": "15",
+        "title": {
+          "en": "Cancún – Departure",
+          "es": "Cancún – Salida",
+          "fr": "Cancún – Départ"
+        },
+        "description": {
+          "en": "Transfer to Cancún Airport for your flight home.",
+          "es": "Traslado al Aeropuerto de Cancún para tomar su vuelo de regreso.",
+          "fr": "Transfert à l’aéroport de Cancún pour votre vol retour."
+        }
+      }
+    ],
+    "included": {
+      "en": [
+        "Airport – hotel – airport transfers in private air-conditioned transportation",
+        "All visits mentioned in the program in private air-conditioned transportation",
+        "English-speaking guide every day with the group",
+        "Entrance fees for the visits mentioned in the program",
+        "Accommodation in the hotels mentioned or similar, according to availability",
+        "Baggage handling at airports and hotels, maximum 1 bag per person, plus bellboy and maid tips at hotels only in the Mexico portion",
+        "Daily breakfast, except where box lunch is provided",
+        "Lunch in Tikal",
+        "All-inclusive program in Cancún hotel",
+        "Boat rides in Sumidero Canyon, from Corozal to visit Yaxchilán, on Lake Atitlán and on La Pasión River to the Mexican border",
+        "24/7 telephone assistance in English, based in Mexico City"
+      ],
+      "es": [
+        "Traslados aeropuerto – hotel – aeropuerto en transporte privado con aire acondicionado",
+        "Todas las visitas mencionadas en el programa en transporte privado con aire acondicionado",
+        "Guía de habla inglesa todos los días con el grupo",
+        "Entradas para las visitas mencionadas en el programa",
+        "Hospedaje en los hoteles mencionados o similares, según disponibilidad",
+        "Manejo de equipaje en aeropuertos y hoteles, máximo 1 maleta por persona, más propinas para botones y camaristas solo en la parte de México",
+        "Desayuno diario, excepto cuando se indique box lunch",
+        "Almuerzo en Tikal",
+        "Programa todo incluido en hotel de Cancún",
+        "Paseos en lancha en Cañón del Sumidero, desde Corozal para visitar Yaxchilán, en Lago Atitlán y en río La Pasión hacia la frontera mexicana",
+        "Asistencia telefónica 24/7 en inglés, basada en Ciudad de México"
+      ],
+      "fr": [
+        "Transferts aéroport – hôtel – aéroport en transport privé climatisé",
+        "Toutes les visites mentionnées au programme en transport privé climatisé",
+        "Guide anglophone tous les jours avec le groupe",
+        "Frais d’entrée pour les visites mentionnées au programme",
+        "Hébergement dans les hôtels mentionnés ou similaires, selon disponibilité",
+        "Manutention des bagages dans les aéroports et hôtels, maximum 1 bagage par personne, ainsi que pourboires aux bagagistes et femmes de chambre uniquement pour la partie mexicaine",
+        "Petit-déjeuner quotidien, sauf lorsqu’un panier-repas est prévu",
+        "Déjeuner à Tikal",
+        "Formule tout compris à l’hôtel de Cancún",
+        "Promenades en bateau dans le canyon du Sumidero, depuis Corozal pour visiter Yaxchilán, sur le lac Atitlán et sur la rivière La Pasión jusqu’à la frontière mexicaine",
+        "Assistance téléphonique 24/7 en anglais, basée à Mexico"
+      ]
+    }
+  }
+]

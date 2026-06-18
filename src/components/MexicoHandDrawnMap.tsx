@@ -2,7 +2,7 @@
 
 'use client';
 
-import { destinations, type Destination } from '@/data/destinations';
+import { destinations, type Destination } from '@/types/destinations';
 import { geoMercator, geoPath, type GeoProjection } from 'd3-geo';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import rough from 'roughjs';

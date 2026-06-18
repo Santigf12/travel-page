@@ -1,0 +1,32 @@
+{
+  "en": {
+    "fits": {
+      "title": "Foreign Independent Traveler",
+      "description": "Our FIT’S packages are in Seat-in coach and range from half or one-day excursions to over 15-day tours. All our itineraries are flexible and can be tailor made according to the interest of the client or budget. Featuring wildlife, beach, culture, history, sceneries, nature, local communities and thrilling activities. And of course, our selection of hotels are conveniently located near the main attractions."
+    },
+    "groups": {
+      "title": "Groups & Special Selections",
+      "description": "As an inbound tour company (DMC), our specialty is to make cultural trips 100% tailored to our customers. Our goal is to help you, the wholesaler, sell better and faster. Our travel counselors will help you get the best deals within 48 hours. We guarantee high-quality service in our ground transportation, guides, staff, client attention and all our services."
+    }
+  },
+  "es": {
+    "fits": {
+      "title": "Viajero Independiente",
+      "description": "Nuestros paquetes FIT’S son en servicio compartido y van desde excursiones de medio día o un día hasta circuitos de más de 15 días. Todos nuestros itinerarios son flexibles y pueden personalizarse de acuerdo con los intereses del cliente o su presupuesto. Incluyen vida silvestre, playa, cultura, historia, paisajes, naturaleza, comunidades locales y actividades emocionantes. Además, nuestra selección de hoteles está convenientemente ubicada cerca de las principales atracciones."
+    },
+    "groups": {
+      "title": "Grupos y selecciones especiales",
+      "description": "Como empresa receptiva de viajes (DMC), nuestra especialidad es crear viajes culturales 100% personalizados para nuestros clientes. Nuestro objetivo es ayudarte, como mayorista, a vender mejor y más rápido. Nuestros asesores de viaje te ayudarán a obtener las mejores ofertas en un plazo de 48 horas. Garantizamos servicios de alta calidad en transporte terrestre, guías, personal, atención al cliente y todos nuestros servicios."
+    }
+  },
+  "fr": {
+    "fits": {
+      "title": "Voyageur Indépendant",
+      "description": "Nos forfaits FIT’S sont proposés en service partagé et vont d’excursions d’une demi-journée ou d’une journée à des circuits de plus de 15 jours. Tous nos itinéraires sont flexibles et peuvent être personnalisés selon les intérêts du client ou son budget. Ils mettent en valeur la faune, la plage, la culture, l’histoire, les paysages, la nature, les communautés locales et des activités passionnantes. De plus, notre sélection d’hôtels est idéalement située près des principales attractions."
+    },
+    "groups": {
+      "title": "Groupes et sélections spéciales",
+      "description": "En tant qu’agence réceptive (DMC), notre spécialité est de créer des voyages culturels 100% personnalisés pour nos clients. Notre objectif est de vous aider, en tant que grossiste, à vendre mieux et plus rapidement. Nos conseillers en voyages vous aideront à obtenir les meilleures offres dans un délai de 48 heures. Nous garantissons des services de haute qualité pour le transport terrestre, les guides, le personnel, l’attention portée aux clients et l’ensemble de nos services."
+    }
+  }
+}

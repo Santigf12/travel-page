@@ -1,5 +1,5 @@
-import { getTripBySlug, trips } from '@/data/trips';
 import { generateLocaleParams, isValidLocale, type Locale, } from '@/i18n/dictionaries';
+import { getTripBySlug, trips } from '@/types/trips';
 import { Anchor, Badge, Box, Button, Card, Container, Divider, Grid, GridCol, Group, Image, List, ListItem, Stack, Text, ThemeIcon, Title, } from '@mantine/core';
 import { notFound } from 'next/navigation';
 

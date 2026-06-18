@@ -3,16 +3,16 @@
 import { LanguageSwitcher } from '@/components/LanguageSwitcher';
 import { SiteFooter } from '@/components/SiteFooter';
 import { SiteNavigation } from '@/components/SiteNavigation';
-import type { Locale } from '@/i18n/dictionaries';
-import { getDictionary, isValidLocale } from '@/i18n/dictionaries';
+import { getLocale, type Locale } from '@/i18n/dictionaries';
+import { getFooterLabels, getNavLabels } from '@/types/navigation';
 import {
-    Anchor,
-    AppShell,
-    Burger,
-    Container,
-    Group,
-    Image,
-    Stack,
+  Anchor,
+  AppShell,
+  Burger,
+  Container,
+  Group,
+  Image,
+  Stack,
 } from '@mantine/core';
 import { useDisclosure } from '@mantine/hooks';
 import Link from 'next/link';
@@ -22,10 +22,10 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
   const [opened, { toggle, close }] = useDisclosure();
   const params = useParams<{ locale?: string }>();
 
-  const rawLocale = params.locale ?? 'en';
-  const locale: Locale = isValidLocale(rawLocale) ? rawLocale : 'en';
+  const locale: Locale = getLocale(params.locale ?? 'en');
 
-  const dictionary = getDictionary(locale);
+  const nav = getNavLabels(locale);
+  const footer = getFooterLabels(locale);
 
   return (
     <AppShell
@@ -38,32 +38,32 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
       }}
     >
       <AppShell.Header withBorder={false}>
-            <Container size="xl" h="100%">
-                <Group h="100%" justify="space-between" align="center">
-                <Anchor component={Link} href={`/${locale}`} underline="never">
-                    <Image
-                    src="/logo_alico.png"
-                    alt="Alico Tours"
-                    w={200}
-                    fit="contain"
-                    />
-                </Anchor>
+        <Container size="xl" h="100%">
+          <Group h="100%" justify="space-between" align="center">
+            <Anchor component={Link} href={`/${locale}`} underline="never">
+              <Image
+                src="/logo_alico.png"
+                alt="Alico Tours"
+                w={200}
+                fit="contain"
+              />
+            </Anchor>
 
-                <Group visibleFrom="sm" gap="xl">
-                    <SiteNavigation locale={locale} labels={dictionary.nav} />
-                    <LanguageSwitcher />
-                </Group>
+            <Group visibleFrom="sm" gap="xl">
+              <SiteNavigation locale={locale} labels={nav} />
+              <LanguageSwitcher />
+            </Group>
 
-                <Burger opened={opened} onClick={toggle} hiddenFrom="sm" size="sm" />
-                </Group>
-            </Container>
-        </AppShell.Header>
+            <Burger opened={opened} onClick={toggle} hiddenFrom="sm" size="sm" />
+          </Group>
+        </Container>
+      </AppShell.Header>
 
       <AppShell.Navbar p="md">
         <Stack gap="md">
           <SiteNavigation
             locale={locale}
-            labels={dictionary.nav}
+            labels={nav}
             orientation="vertical"
             onNavigate={close}
           />
@@ -73,12 +73,8 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
       </AppShell.Navbar>
 
       <AppShell.Main>
-          {children}
-          <SiteFooter
-            locale={locale}
-            nav={dictionary.nav}
-            labels={dictionary.footer}
-            />
+        {children}
+        <SiteFooter locale={locale} nav={nav} labels={footer} />
       </AppShell.Main>
     </AppShell>
   );
