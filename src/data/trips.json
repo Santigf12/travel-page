@@ -1,0 +1,333 @@
+[
+  {
+    "slug": "all-mexico",
+    "category": "fits",
+    "image": "/images/trips/alebrije.jpg",
+    "duration": {
+      "en": "13 days",
+      "es": "13 días",
+      "fr": "13 jours"
+    },
+    "title": {
+      "en": "All Mexico",
+      "es": "Todo México",
+      "fr": "Tout le Mexique"
+    },
+    "summary": {
+      "en": "A complete journey through Mexico’s iconic archaeological sites, original cultures, natural wonders, and the Mexican Caribbean.",
+      "es": "Un recorrido completo por los sitios arqueológicos más icónicos de México, culturas originarias, maravillas naturales y el Caribe mexicano.",
+      "fr": "Un voyage complet à travers les sites archéologiques emblématiques du Mexique, les cultures originaires, les merveilles naturelles et les Caraïbes mexicaines."
+    },
+    "description": {
+      "en": "Program of 12 nights and 13 days, including the most visited archaeological sites of Mexico, the original cultures of Oaxaca, Chiapas and Yucatán, natural wonders, and finally a beach stay in the Mexican Caribbean.",
+      "es": "Programa de 12 noches y 13 días que incluye los sitios arqueológicos más visitados de México, culturas originarias de Oaxaca, Chiapas y Yucatán, maravillas naturales y finalmente una estancia de playa en el Caribe mexicano.",
+      "fr": "Programme de 12 nuits et 13 jours incluant les sites archéologiques les plus visités du Mexique, les cultures originaires d’Oaxaca, du Chiapas et du Yucatán, des merveilles naturelles et enfin un séjour balnéaire dans les Caraïbes mexicaines."
+    },
+    "highlights": {
+      "en": [
+        "Taxco and Cuernavaca",
+        "Oaxaca and the village of Alebrije makers",
+        "Living cultures of San Juan Chamula and Zinacantán",
+        "Agua Azul waterfalls",
+        "Mayan sites: Palenque, Uxmal and Chichén Itzá",
+        "The walled city of Campeche",
+        "Beach stay in Cancún or Playa del Carmen"
+      ],
+      "es": [
+        "Taxco y Cuernavaca",
+        "Oaxaca y el pueblo de artesanos de alebrijes",
+        "Culturas vivas de San Juan Chamula y Zinacantán",
+        "Cascadas de Agua Azul",
+        "Sitios mayas: Palenque, Uxmal y Chichén Itzá",
+        "La ciudad amurallada de Campeche",
+        "Estancia de playa en Cancún o Playa del Carmen"
+      ],
+      "fr": [
+        "Taxco et Cuernavaca",
+        "Oaxaca et le village des artisans d’alebrijes",
+        "Cultures vivantes de San Juan Chamula et Zinacantán",
+        "Cascades d’Agua Azul",
+        "Sites mayas : Palenque, Uxmal et Chichén Itzá",
+        "La ville fortifiée de Campeche",
+        "Séjour balnéaire à Cancún ou Playa del Carmen"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": "01",
+        "title": {
+          "en": "Arrival – Mexico City",
+          "es": "Llegada – Ciudad de México",
+          "fr": "Arrivée – Mexico"
+        },
+        "description": {
+          "en": "Arrival at the airport and transfer to the hotel of your selection.",
+          "es": "Llegada al aeropuerto y traslado al hotel seleccionado.",
+          "fr": "Arrivée à l’aéroport et transfert à l’hôtel sélectionné."
+        }
+      },
+      {
+        "day": "02",
+        "title": {
+          "en": "Mexico City – Teotihuacán – Mexico City",
+          "es": "Ciudad de México – Teotihuacán – Ciudad de México",
+          "fr": "Mexico – Teotihuacán – Mexico"
+        },
+        "description": {
+          "en": "Visit the Three Cultures Square, the Guadalupe Shrine and continue to Teotihuacán. Return to Mexico City.",
+          "es": "Visita a la Plaza de las Tres Culturas, la Basílica de Guadalupe y continuación hacia Teotihuacán. Regreso a Ciudad de México.",
+          "fr": "Visite de la Place des Trois Cultures, du sanctuaire de Guadalupe puis continuation vers Teotihuacán. Retour à Mexico."
+        }
+      },
+      {
+        "day": "03",
+        "title": {
+          "en": "Mexico City – Cuernavaca – Taxco – Mexico City",
+          "es": "Ciudad de México – Cuernavaca – Taxco – Ciudad de México",
+          "fr": "Mexico – Cuernavaca – Taxco – Mexico"
+        },
+        "description": {
+          "en": "Visit Taxco with a stop in Cuernavaca. Visit the Santa Prisca Cathedral. Return to Mexico City.",
+          "es": "Visita a Taxco con parada en Cuernavaca. Visita a la Catedral de Santa Prisca. Regreso a Ciudad de México.",
+          "fr": "Visite de Taxco avec arrêt à Cuernavaca. Visite de la cathédrale Santa Prisca. Retour à Mexico."
+        }
+      },
+      {
+        "day": "04",
+        "title": {
+          "en": "Mexico City – Oaxaca",
+          "es": "Ciudad de México – Oaxaca",
+          "fr": "Mexico – Oaxaca"
+        },
+        "description": {
+          "en": "Departure to Oaxaca, where you can admire the architecture of the Historic Centre. Overnight in Oaxaca.",
+          "es": "Salida hacia Oaxaca, donde podrá admirar la arquitectura del Centro Histórico. Noche en Oaxaca.",
+          "fr": "Départ vers Oaxaca, où vous pourrez admirer l’architecture du centre historique. Nuit à Oaxaca."
+        }
+      },
+      {
+        "day": "05",
+        "title": {
+          "en": "Oaxaca – Monte Albán – Oaxaca – Tuxtla Gutiérrez",
+          "es": "Oaxaca – Monte Albán – Oaxaca – Tuxtla Gutiérrez",
+          "fr": "Oaxaca – Monte Albán – Oaxaca – Tuxtla Gutiérrez"
+        },
+        "description": {
+          "en": "Visit Monte Albán archaeological site. Continue to Arrazola, town of alebrijes, Cuilapam and Coyotepec black clay producers. Departure to Tuxtla. Overnight on a first-class public bus to Tuxtla Gutiérrez.",
+          "es": "Visita al sitio arqueológico de Monte Albán. Continuación hacia Arrazola, pueblo de alebrijes, Cuilapam y productores de barro negro en Coyotepec. Salida hacia Tuxtla. Noche a bordo de autobús público de primera clase hacia Tuxtla Gutiérrez.",
+          "fr": "Visite du site archéologique de Monte Albán. Continuation vers Arrazola, village des alebrijes, Cuilapam et les producteurs de poterie noire de Coyotepec. Départ vers Tuxtla. Nuit en bus public de première classe vers Tuxtla Gutiérrez."
+        }
+      },
+      {
+        "day": "06",
+        "title": {
+          "en": "Tuxtla Gutiérrez – Sumidero Canyon – San Cristóbal",
+          "es": "Tuxtla Gutiérrez – Cañón del Sumidero – San Cristóbal",
+          "fr": "Tuxtla Gutiérrez – Canyon du Sumidero – San Cristóbal"
+        },
+        "description": {
+          "en": "Continue to Chiapa de Corzo to visit the Sumidero Canyon. Visit the Chorreadero waterfalls. Departure and overnight in San Cristóbal de las Casas.",
+          "es": "Continuación hacia Chiapa de Corzo para visitar el Cañón del Sumidero. Visita a las cascadas El Chorreadero. Salida y noche en San Cristóbal de las Casas.",
+          "fr": "Continuation vers Chiapa de Corzo pour visiter le canyon du Sumidero. Visite des cascades El Chorreadero. Départ et nuit à San Cristóbal de las Casas."
+        }
+      },
+      {
+        "day": "07",
+        "title": {
+          "en": "San Cristóbal – San Juan Chamula – San Cristóbal",
+          "es": "San Cristóbal – San Juan Chamula – San Cristóbal",
+          "fr": "San Cristóbal – San Juan Chamula – San Cristóbal"
+        },
+        "description": {
+          "en": "Visit San Cristóbal de las Casas, San Juan Chamula and Zinacantán. Overnight in San Cristóbal.",
+          "es": "Visita a San Cristóbal de las Casas, San Juan Chamula y Zinacantán. Noche en San Cristóbal.",
+          "fr": "Visite de San Cristóbal de las Casas, San Juan Chamula et Zinacantán. Nuit à San Cristóbal."
+        }
+      },
+      {
+        "day": "08",
+        "title": {
+          "en": "San Cristóbal de las Casas – Agua Azul – Palenque",
+          "es": "San Cristóbal de las Casas – Agua Azul – Palenque",
+          "fr": "San Cristóbal de las Casas – Agua Azul – Palenque"
+        },
+        "description": {
+          "en": "Transfer to Palenque with a stop at Agua Azul waterfalls. Overnight in Palenque.",
+          "es": "Traslado a Palenque con parada en las cascadas de Agua Azul. Noche en Palenque.",
+          "fr": "Transfert à Palenque avec arrêt aux cascades d’Agua Azul. Nuit à Palenque."
+        }
+      },
+      {
+        "day": "09",
+        "title": {
+          "en": "Palenque – Campeche",
+          "es": "Palenque – Campeche",
+          "fr": "Palenque – Campeche"
+        },
+        "description": {
+          "en": "Visit Palenque archaeological site. Departure and overnight in Campeche.",
+          "es": "Visita al sitio arqueológico de Palenque. Salida y noche en Campeche.",
+          "fr": "Visite du site archéologique de Palenque. Départ et nuit à Campeche."
+        }
+      },
+      {
+        "day": "10",
+        "title": {
+          "en": "Campeche – Uxmal – Mérida",
+          "es": "Campeche – Uxmal – Mérida",
+          "fr": "Campeche – Uxmal – Mérida"
+        },
+        "description": {
+          "en": "Visit Uxmal archaeological site. Continue and overnight in Mérida.",
+          "es": "Visita al sitio arqueológico de Uxmal. Continuación y noche en Mérida.",
+          "fr": "Visite du site archéologique d’Uxmal. Continuation et nuit à Mérida."
+        }
+      },
+      {
+        "day": "11",
+        "title": {
+          "en": "Mérida – Chichén Itzá – Cancún or Playa del Carmen",
+          "es": "Mérida – Chichén Itzá – Cancún o Playa del Carmen",
+          "fr": "Mérida – Chichén Itzá – Cancún ou Playa del Carmen"
+        },
+        "description": {
+          "en": "Visit Chichén Itzá. Continue to Playa del Carmen or Cancún, depending on your choice. Overnight.",
+          "es": "Visita a Chichén Itzá. Continuación hacia Playa del Carmen o Cancún, según su elección. Noche.",
+          "fr": "Visite de Chichén Itzá. Continuation vers Playa del Carmen ou Cancún, selon votre choix. Nuit."
+        }
+      },
+      {
+        "day": "12",
+        "title": {
+          "en": "Cancún or Playa del Carmen Beach Stay",
+          "es": "Estancia de playa en Cancún o Playa del Carmen",
+          "fr": "Séjour balnéaire à Cancún ou Playa del Carmen"
+        },
+        "description": {
+          "en": "Leisure at the beach with an all-inclusive program at the place of your choice.",
+          "es": "Día libre en la playa con programa todo incluido en el lugar de su elección.",
+          "fr": "Journée libre à la plage en formule tout compris dans le lieu de votre choix."
+        }
+      },
+      {
+        "day": "13",
+        "title": {
+          "en": "Cancún or Playa del Carmen – Departure",
+          "es": "Cancún o Playa del Carmen – Salida",
+          "fr": "Cancún ou Playa del Carmen – Départ"
+        },
+        "description": {
+          "en": "Transfer to Cancún International Airport for your flight home.",
+          "es": "Traslado al Aeropuerto Internacional de Cancún para tomar su vuelo de regreso.",
+          "fr": "Transfert à l’aéroport international de Cancún pour votre vol retour."
+        }
+      }
+    ],
+    "included": {
+      "en": [
+        "Airport – hotel – airport transfers on a seat-in-coach basis in English / Spanish",
+        "All tours mentioned in the program on a seat-in-coach basis in English / Spanish in air-conditioned minivan or vehicle",
+        "All entrance fees for the visits mentioned in the program",
+        "Breakfast from day 02 to day 13, except on day 06",
+        "Lunch on day 11",
+        "Maximum 2 children sharing the same room with 2 adults; no extra beds are guaranteed",
+        "Saturday and Sunday telephone assistance in English, based in Mexico City",
+        "Public bus transfer from Oaxaca to Tuxtla Gutiérrez by night bus",
+        "Accommodation in the hotels mentioned or similar, according to availability"
+      ],
+      "es": [
+        "Traslados aeropuerto – hotel – aeropuerto en servicio compartido en inglés / español",
+        "Todos los tours mencionados en el programa en servicio compartido en inglés / español en minivan o vehículo con aire acondicionado",
+        "Todas las entradas para las visitas mencionadas en el programa",
+        "Desayuno del día 02 al día 13, excepto el día 06",
+        "Almuerzo el día 11",
+        "Máximo 2 niños compartiendo habitación con 2 adultos; no se garantizan camas extra",
+        "Asistencia telefónica sábados y domingos en inglés, basada en Ciudad de México",
+        "Traslado en autobús público nocturno de Oaxaca a Tuxtla Gutiérrez",
+        "Hospedaje en los hoteles mencionados o similares, según disponibilidad"
+      ],
+      "fr": [
+        "Transferts aéroport – hôtel – aéroport en service partagé en anglais / espagnol",
+        "Toutes les excursions mentionnées au programme en service partagé en anglais / espagnol en minivan ou véhicule climatisé",
+        "Tous les frais d’entrée pour les visites mentionnées au programme",
+        "Petit-déjeuner du jour 02 au jour 13, sauf le jour 06",
+        "Déjeuner le jour 11",
+        "Maximum 2 enfants partageant la même chambre avec 2 adultes ; les lits supplémentaires ne sont pas garantis",
+        "Assistance téléphonique les samedis et dimanches en anglais, basée à Mexico",
+        "Transfert en bus public de nuit d’Oaxaca à Tuxtla Gutiérrez",
+        "Hébergement dans les hôtels mentionnés ou similaires, selon disponibilité"
+      ]
+    }
+  },
+  {
+    "slug": "backpack-mexico",
+    "category": "fits",
+    "image": "/images/trips/merida.jpg",
+    "duration": {
+      "en": "15 days",
+      "es": "15 días",
+      "fr": "15 jours"
+    },
+    "title": {
+      "en": "Backpack Mexico",
+      "es": "Backpack México",
+      "fr": "Backpack Mexique"
+    },
+    "summary": {
+      "en": "A low-cost roundtrip for independent travelers, combining history, nature, archaeology, beach stays, public buses, and centrally located hotels.",
+      "es": "Un recorrido económico para viajeros independientes, combinando historia, naturaleza, arqueología, playa, autobuses públicos y hoteles céntricos.",
+      "fr": "Un circuit économique pour voyageurs indépendants, combinant histoire, nature, archéologie, séjour balnéaire, bus publics et hôtels bien situés."
+    },
+    "description": {
+      "en": "Program of 15 days and 14 nights. Low-cost roundtrip for the free traveler, designed to travel in good quality public buses with centrally located hotels. Combines history, nature, archaeology and beach stay.",
+      "es": "Programa de 15 días y 14 noches. Recorrido económico para el viajero independiente, diseñado para viajar en autobuses públicos de buena calidad con hoteles céntricos. Combina historia, naturaleza, arqueología y playa.",
+      "fr": "Programme de 15 jours et 14 nuits. Circuit économique pour le voyageur indépendant, conçu avec des bus publics de bonne qualité et des hôtels centraux. Combine histoire, nature, archéologie et séjour balnéaire."
+    },
+    "highlights": {
+      "en": ["Mexico City", "Oaxaca with Huatulco beach", "San Cristóbal de las Casas", "Palenque", "Campeche", "Mérida", "Cancún"],
+      "es": ["Ciudad de México", "Oaxaca con playa en Huatulco", "San Cristóbal de las Casas", "Palenque", "Campeche", "Mérida", "Cancún"],
+      "fr": ["Mexico", "Oaxaca avec séjour à Huatulco", "San Cristóbal de las Casas", "Palenque", "Campeche", "Mérida", "Cancún"]
+    },
+    "itinerary": [
+      {
+        "day": "01",
+        "title": {
+          "en": "Arrival – Mexico City",
+          "es": "Llegada – Ciudad de México",
+          "fr": "Arrivée – Mexico"
+        },
+        "description": {
+          "en": "Arrival at the airport and transfer to the hotel of your selection.",
+          "es": "Llegada al aeropuerto y traslado al hotel seleccionado.",
+          "fr": "Arrivée à l’aéroport et transfert à l’hôtel sélectionné."
+        }
+      }
+    ],
+    "included": {
+      "en": [
+        "Arrival transfer on a seat-in-coach basis in English / Spanish",
+        "Transfer out from Cancún on a seat-in-coach basis in English / Spanish",
+        "Saturday and Sunday telephone assistance in English, based in Mexico City",
+        "Public bus tickets for the mentioned schedule",
+        "Maximum 2 children up to 5 years old sharing the same room with 2 adults free of charge",
+        "Breakfast is not included, except in Cancún where the hotel includes breakfast"
+      ],
+      "es": [
+        "Traslado de llegada en servicio compartido en inglés / español",
+        "Traslado de salida desde Cancún en servicio compartido en inglés / español",
+        "Asistencia telefónica sábados y domingos en inglés, basada en Ciudad de México",
+        "Boletos de autobús público para el horario mencionado",
+        "Máximo 2 niños de hasta 5 años compartiendo habitación con 2 adultos sin cargo",
+        "El desayuno no está incluido, excepto en Cancún donde el hotel incluye desayuno"
+      ],
+      "fr": [
+        "Transfert d’arrivée en service partagé en anglais / espagnol",
+        "Transfert de départ depuis Cancún en service partagé en anglais / espagnol",
+        "Assistance téléphonique les samedis et dimanches en anglais, basée à Mexico",
+        "Billets de bus public pour l’horaire mentionné",
+        "Maximum 2 enfants jusqu’à 5 ans partageant la même chambre avec 2 adultes sans supplément",
+        "Le petit-déjeuner n’est pas inclus, sauf à Cancún où l’hôtel l’inclut"
+      ]
+    }
+  }
+]
