@@ -62,7 +62,7 @@ export default async function TripsPage({
       </Stack>
 
       <SimpleGrid
-        cols={{ base: 1, md: 3 }}
+        cols={{ base: 1, md: 2 }}
         spacing={{ base: 'xl', md: 75 }}
         mt={{ base: 50, md: 80 }}
       >
