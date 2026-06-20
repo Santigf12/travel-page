@@ -26,17 +26,11 @@
       "es": "Este itinerario boutique recorre el corazón colonial de México, desde la Ciudad de México y Teotihuacán hasta San Miguel de Allende, Guanajuato, Guadalajara, Tequila, Punta Mita, Morelia y Pátzcuaro. El viaje combina hoteles históricos, galerías de arte, catas privadas, descanso costero y pueblos con mucho carácter.",
       "fr": "Cet itinéraire boutique traverse le cœur colonial du Mexique, de Mexico et Teotihuacán à San Miguel de Allende, Guanajuato, Guadalajara, Tequila, Punta Mita, Morelia et Pátzcuaro. Le voyage combine hôtels historiques, galeries d’art, dégustations privées, détente côtière et villages pleins de caractère."
     },
-    "heroImage": "/images/handpicked-travel/alicocasadesierranevada.jpg",
+    "heroImage": "/images/handpicked-travel/banderas.jpg",
     "gallery": [
-      "/images/handpicked-travel/alicocasadesierranevada.jpg",
-      "/images/handpicked-travel/CASAMAROMADELAMONTA.jpg",
-      "/images/handpicked-travel/colnialqueen_03.jpg",
-      "/images/handpicked-travel/HOTELCASADESIERRANEVADAVIEW.jpg",
-      "/images/handpicked-travel/puertadecieloviewalico.jpg",
-      "/images/handpicked-travel/tequilajaliscoalico.jpg",
-      "/images/handpicked-travel/Villa-Monta.jpg",
-      "/images/handpicked-travel/cunadetierraalicomexico.jpg",
-      "/images/handpicked-travel/teotihuacangloboalicomexico-1.jpg"
+      "/images/handpicked-travel/banderas.jpg",
+      "/images/handpicked-travel/descubre-la-magia-de.jpg",
+      "/images/handpicked-travel/hot-air.jpg"
     ],
     "highlights": {
       "en": [
@@ -96,15 +90,9 @@
           "fr": "Arrivée – Mexico"
         },
         "narrative": {
-          "en": [
-            "Arrive in Mexico City and transfer privately to your hotel in the historic centre."
-          ],
-          "es": [
-            "Llegada a la Ciudad de México y traslado privado al hotel en el centro histórico."
-          ],
-          "fr": [
-            "Arrivée à Mexico et transfert privé vers l’hôtel situé dans le centre historique."
-          ]
+          "en": ["Arrive in Mexico City and transfer privately to your hotel in the historic centre."],
+          "es": ["Llegada a la Ciudad de México y traslado privado al hotel en el centro histórico."],
+          "fr": ["Arrivée à Mexico et transfert privé vers l’hôtel situé dans le centre historique."]
         },
         "stay": {
           "hotel": {
@@ -127,7 +115,7 @@
             "es": "Colonial Queen",
             "fr": "Colonial Queen"
           },
-          "image": "/images/handpicked-travel/colnialqueen_03.jpg"
+          "image": "/images/handpicked-travel/descubre-la-magia-de.jpg"
         },
         "optional": null
       },
@@ -173,7 +161,7 @@
             "es": "Colonial Queen",
             "fr": "Colonial Queen"
           },
-          "image": "/images/handpicked-travel/teotihuacangloboalicomexico-1.jpg"
+          "image": "/images/handpicked-travel/hot-air.jpg"
         },
         "optional": {
           "en": "Hot air balloon ride over Teotihuacán",
@@ -223,7 +211,7 @@
             "es": "Superior Room",
             "fr": "Superior Room"
           },
-          "image": "/images/handpicked-travel/HOTELCASADESIERRANEVADAVIEW.jpg"
+          "image": "/images/handpicked-travel/hotel-san-miguel.avif"
         },
         "optional": {
           "en": "Cuna de Tierra vineyard with private tasting",
@@ -273,7 +261,7 @@
             "es": "Standard Classic Room",
             "fr": "Standard Classic Room"
           },
-          "image": "/images/handpicked-travel/CASAMAROMADELAMONTA.jpg"
+          "image": "/images/handpicked-travel/guanajuato-quinta-las-acacias-hotel-boutique.jpg"
         },
         "optional": null
       },
@@ -319,7 +307,7 @@
             "es": "Pedro Páramo Room",
             "fr": "Pedro Páramo Room"
           },
-          "image": "/images/handpicked-travel/Villa-Monta.jpg"
+          "image": "/images/handpicked-travel/villa-monta.jpg"
         },
         "optional": null
       },
@@ -331,18 +319,12 @@
           "fr": "Guadalajara – Tequila – Puerto Vallarta / Punta Mita"
         },
         "narrative": {
-          "en": [
-            "Depart toward the coast, visiting Tequila village along the route.",
-            "Continue to Punta Mita for a luxury coastal stay."
-          ],
+          "en": ["Depart toward the coast, visiting Tequila village along the route.", "Continue to Punta Mita for a luxury coastal stay."],
           "es": [
             "Salida hacia la costa, visitando el pueblo de Tequila en el camino.",
             "Continuación hacia Punta Mita para una estancia costera de lujo."
           ],
-          "fr": [
-            "Départ vers la côte, avec visite du village de Tequila en chemin.",
-            "Poursuite vers Punta Mita pour un séjour côtier de luxe."
-          ]
+          "fr": ["Départ vers la côte, avec visite du village de Tequila en chemin.", "Poursuite vers Punta Mita pour un séjour côtier de luxe."]
         },
         "stay": {
           "hotel": {
@@ -365,7 +347,7 @@
             "es": "Resort room according to availability",
             "fr": "Resort room according to availability"
           },
-          "image": "/images/handpicked-travel/tequilajaliscoalico.jpg"
+          "image": "/images/handpicked-travel/St-Regis-Punta-Mita-Resort.jpg"
         },
         "optional": {
           "en": "Blend your own tequila in Tequila",
@@ -381,15 +363,9 @@
           "fr": "Punta Mita"
         },
         "narrative": {
-          "en": [
-            "Day at leisure in Punta Mita, considered one of Latin America’s most exclusive coastal destinations."
-          ],
-          "es": [
-            "Día libre en Punta Mita, considerado uno de los destinos costeros más exclusivos de América Latina."
-          ],
-          "fr": [
-            "Journée libre à Punta Mita, considérée comme l’une des destinations côtières les plus exclusives d’Amérique latine."
-          ]
+          "en": ["Day at leisure in Punta Mita, considered one of Latin America’s most exclusive coastal destinations."],
+          "es": ["Día libre en Punta Mita, considerado uno de los destinos costeros más exclusivos de América Latina."],
+          "fr": ["Journée libre à Punta Mita, considérée comme l’une des destinations côtières les plus exclusives d’Amérique latine."]
         },
         "stay": {
           "hotel": {
@@ -412,7 +388,7 @@
             "es": "Resort room according to availability",
             "fr": "Resort room according to availability"
           },
-          "image": "/images/handpicked-travel/cunadetierraalicomexico.jpg"
+          "image": "/images/handpicked-travel/St-Regis-Punta-Mita-Resort-2.jpg"
         },
         "optional": null
       },
@@ -424,15 +400,9 @@
           "fr": "Punta Mita – Morelia"
         },
         "narrative": {
-          "en": [
-            "Depart to Morelia and visit the main square, Cathedral and Government Palace."
-          ],
-          "es": [
-            "Salida hacia Morelia y visita a la plaza principal, la Catedral y el Palacio de Gobierno."
-          ],
-          "fr": [
-            "Départ vers Morelia et visite de la place principale, de la cathédrale et du Palais du gouvernement."
-          ]
+          "en": ["Depart to Morelia and visit the main square, Cathedral and Government Palace."],
+          "es": ["Salida hacia Morelia y visita a la plaza principal, la Catedral y el Palacio de Gobierno."],
+          "fr": ["Départ vers Morelia et visite de la place principale, de la cathédrale et du Palais du gouvernement."]
         },
         "stay": {
           "hotel": {
@@ -455,7 +425,7 @@
             "es": "Cottage-style room or suite",
             "fr": "Cottage-style room or suite"
           },
-          "image": "/images/handpicked-travel/Villa-Monta.jpg"
+          "image": "/images/handpicked-travel/image-morelia-villa-montana-hotel.jpg"
         },
         "optional": null
       },
@@ -467,15 +437,9 @@
           "fr": "Morelia – Pátzcuaro"
         },
         "narrative": {
-          "en": [
-            "Visit Pátzcuaro and take a small boat tour near Janitzio on Lake Pátzcuaro."
-          ],
-          "es": [
-            "Visita a Pátzcuaro y paseo en lancha cerca de Janitzio, en el Lago de Pátzcuaro."
-          ],
-          "fr": [
-            "Visite de Pátzcuaro et balade en petit bateau près de Janitzio, sur le lac de Pátzcuaro."
-          ]
+          "en": ["Visit Pátzcuaro and take a small boat tour near Janitzio on Lake Pátzcuaro."],
+          "es": ["Visita a Pátzcuaro y paseo en lancha cerca de Janitzio, en el Lago de Pátzcuaro."],
+          "fr": ["Visite de Pátzcuaro et balade en petit bateau près de Janitzio, sur le lac de Pátzcuaro."]
         },
         "stay": {
           "hotel": {
@@ -498,7 +462,7 @@
             "es": "Room according to availability",
             "fr": "Room according to availability"
           },
-          "image": "/images/handpicked-travel/puertadecieloviewalico.jpg"
+          "image": "/images/handpicked-travel/porton-del-cielo.jpg"
         },
         "optional": null
       },
@@ -510,15 +474,9 @@
           "fr": "Pátzcuaro – Mexico"
         },
         "narrative": {
-          "en": [
-            "Continue back to Mexico City for the final night."
-          ],
-          "es": [
-            "Continuación del viaje de regreso a la Ciudad de México para la última noche."
-          ],
-          "fr": [
-            "Retour vers Mexico pour la dernière nuit du séjour."
-          ]
+          "en": ["Continue back to Mexico City for the final night."],
+          "es": ["Continuación del viaje de regreso a la Ciudad de México para la última noche."],
+          "fr": ["Retour vers Mexico pour la dernière nuit du séjour."]
         },
         "stay": null,
         "optional": null
@@ -531,15 +489,9 @@
           "fr": "Mexico – Départ"
         },
         "narrative": {
-          "en": [
-            "Private assisted transfer to the airport for the flight home."
-          ],
-          "es": [
-            "Traslado privado y asistido al aeropuerto para el vuelo de regreso."
-          ],
-          "fr": [
-            "Transfert privé et assisté vers l’aéroport pour le vol retour."
-          ]
+          "en": ["Private assisted transfer to the airport for the flight home."],
+          "es": ["Traslado privado y asistido al aeropuerto para el vuelo de regreso."],
+          "fr": ["Transfert privé et assisté vers l’aéroport pour le vol retour."]
         },
         "stay": null,
         "optional": null
@@ -641,9 +593,7 @@
           "fr": "Arrivée – Mexico"
         },
         "narrative": {
-          "en": [
-            "Arrive in Mexico City. Mexican refreshments await at the hotel: guacamole, chips, Mexican cheese, local beer and seasonal fruit."
-          ],
+          "en": ["Arrive in Mexico City. Mexican refreshments await at the hotel: guacamole, chips, Mexican cheese, local beer and seasonal fruit."],
           "es": [
             "Llegada a la Ciudad de México. Refrigerios mexicanos esperan en el hotel: guacamole, totopos, queso mexicano, cerveza local y fruta de temporada."
           ],
@@ -806,15 +756,9 @@
           "fr": "Oaxaca – Départ"
         },
         "narrative": {
-          "en": [
-            "Transfer to the airport for a connecting flight to Mexico City and onward flight home."
-          ],
-          "es": [
-            "Traslado al aeropuerto para vuelo de conexión a la Ciudad de México y vuelo de regreso."
-          ],
-          "fr": [
-            "Transfert vers l’aéroport pour un vol de correspondance à Mexico et le vol retour."
-          ]
+          "en": ["Transfer to the airport for a connecting flight to Mexico City and onward flight home."],
+          "es": ["Traslado al aeropuerto para vuelo de conexión a la Ciudad de México y vuelo de regreso."],
+          "fr": ["Transfert vers l’aéroport pour un vol de correspondance à Mexico et le vol retour."]
         },
         "stay": null,
         "optional": null
@@ -857,36 +801,12 @@
       "/images/handpicked-travel/Eventos-especiales-Incentivos-705x705.jpg"
     ],
     "highlights": {
-      "en": [
-        "Hot air balloon flight in Teotihuacán",
-        "Theme parties",
-        "Local musicians",
-        "Gala dinners",
-        "Special events"
-      ],
-      "es": [
-        "Vuelo en globo aerostático en Teotihuacán",
-        "Fiestas temáticas",
-        "Músicos locales",
-        "Cenas de gala",
-        "Eventos especiales"
-      ],
-      "fr": [
-        "Vol en montgolfière à Teotihuacán",
-        "Soirées à thème",
-        "Musiciens locaux",
-        "Dîners de gala",
-        "Événements spéciaux"
-      ]
+      "en": ["Hot air balloon flight in Teotihuacán", "Theme parties", "Local musicians", "Gala dinners", "Special events"],
+      "es": ["Vuelo en globo aerostático en Teotihuacán", "Fiestas temáticas", "Músicos locales", "Cenas de gala", "Eventos especiales"],
+      "fr": ["Vol en montgolfière à Teotihuacán", "Soirées à thème", "Musiciens locaux", "Dîners de gala", "Événements spéciaux"]
     },
     "included": {
-      "en": [
-        "Custom DMC planning",
-        "Creative incentive concepts",
-        "Ground logistics",
-        "Event coordination support",
-        "Specialist assistance"
-      ],
+      "en": ["Custom DMC planning", "Creative incentive concepts", "Ground logistics", "Event coordination support", "Specialist assistance"],
       "es": [
         "Planeación DMC a la medida",
         "Conceptos creativos de incentivo",
@@ -998,15 +918,9 @@
           "fr": "Arrivée – Cancún"
         },
         "narrative": {
-          "en": [
-            "Arrive at Cancún airport, enjoy a welcome dinner and overnight."
-          ],
-          "es": [
-            "Llegada al aeropuerto de Cancún, cena de bienvenida y pernocta."
-          ],
-          "fr": [
-            "Arrivée à l’aéroport de Cancún, dîner de bienvenue et nuitée."
-          ]
+          "en": ["Arrive at Cancún airport, enjoy a welcome dinner and overnight."],
+          "es": ["Llegada al aeropuerto de Cancún, cena de bienvenida y pernocta."],
+          "fr": ["Arrivée à l’aéroport de Cancún, dîner de bienvenue et nuitée."]
         },
         "stay": null,
         "optional": null
@@ -1019,15 +933,9 @@
           "fr": "Cancún – Ek Balam – Chichén Itzá"
         },
         "narrative": {
-          "en": [
-            "Visit Ek Balam and continue to Chichén Itzá, including the light and sound show."
-          ],
-          "es": [
-            "Visita a Ek Balam y continuación hacia Chichén Itzá, incluyendo el espectáculo de luz y sonido."
-          ],
-          "fr": [
-            "Visite d’Ek Balam, puis poursuite vers Chichén Itzá, avec le spectacle son et lumière."
-          ]
+          "en": ["Visit Ek Balam and continue to Chichén Itzá, including the light and sound show."],
+          "es": ["Visita a Ek Balam y continuación hacia Chichén Itzá, incluyendo el espectáculo de luz y sonido."],
+          "fr": ["Visite d’Ek Balam, puis poursuite vers Chichén Itzá, avec le spectacle son et lumière."]
         },
         "stay": null,
         "optional": null
@@ -1132,15 +1040,9 @@
           "fr": "Celestún – Hacienda Temozón"
         },
         "narrative": {
-          "en": [
-            "Experience an authentic Mexican hacienda, enjoy a couples massage at Hol-Be Spa and a romantic private dinner."
-          ],
-          "es": [
-            "Experiencia auténtica en una hacienda mexicana, masaje en pareja en el Hol-Be Spa y cena romántica privada."
-          ],
-          "fr": [
-            "Une expérience authentique dans une hacienda mexicaine, massage en couple au Hol-Be Spa et dîner romantique privé."
-          ]
+          "en": ["Experience an authentic Mexican hacienda, enjoy a couples massage at Hol-Be Spa and a romantic private dinner."],
+          "es": ["Experiencia auténtica en una hacienda mexicana, masaje en pareja en el Hol-Be Spa y cena romántica privada."],
+          "fr": ["Une expérience authentique dans une hacienda mexicaine, massage en couple au Hol-Be Spa et dîner romantique privé."]
         },
         "stay": {
           "hotel": {
@@ -1175,15 +1077,9 @@
           "fr": "Temozón – Valladolid"
         },
         "narrative": {
-          "en": [
-            "Take a bicycle ride in Valladolid, visit Cenotes Samulá and Xkekén, and enjoy lunch at Hacienda Selva Maya."
-          ],
-          "es": [
-            "Paseo en bicicleta por Valladolid, visita a los cenotes Samulá y Xkekén, y almuerzo en la Hacienda Selva Maya."
-          ],
-          "fr": [
-            "Balade à vélo à Valladolid, visite des cénotes Samulá et Xkekén, et déjeuner à la Hacienda Selva Maya."
-          ]
+          "en": ["Take a bicycle ride in Valladolid, visit Cenotes Samulá and Xkekén, and enjoy lunch at Hacienda Selva Maya."],
+          "es": ["Paseo en bicicleta por Valladolid, visita a los cenotes Samulá y Xkekén, y almuerzo en la Hacienda Selva Maya."],
+          "fr": ["Balade à vélo à Valladolid, visite des cénotes Samulá et Xkekén, et déjeuner à la Hacienda Selva Maya."]
         },
         "stay": null,
         "optional": null
@@ -1196,15 +1092,9 @@
           "fr": "Valladolid – Tulum"
         },
         "narrative": {
-          "en": [
-            "Day at leisure at Hotel Esencia, a refined luxury stay in Tulum."
-          ],
-          "es": [
-            "Día libre en el Hotel Esencia, una refinada estancia de lujo en Tulum."
-          ],
-          "fr": [
-            "Journée libre à l’Hotel Esencia, un séjour de luxe raffiné à Tulum."
-          ]
+          "en": ["Day at leisure at Hotel Esencia, a refined luxury stay in Tulum."],
+          "es": ["Día libre en el Hotel Esencia, una refinada estancia de lujo en Tulum."],
+          "fr": ["Journée libre à l’Hotel Esencia, un séjour de luxe raffiné à Tulum."]
         },
         "stay": {
           "hotel": {
@@ -1239,15 +1129,9 @@
           "fr": "Tulum – Cancún – Départ"
         },
         "narrative": {
-          "en": [
-            "Transfer to Cancún airport for the flight home."
-          ],
-          "es": [
-            "Traslado al aeropuerto de Cancún para el vuelo de regreso."
-          ],
-          "fr": [
-            "Transfert vers l’aéroport de Cancún pour le vol retour."
-          ]
+          "en": ["Transfer to Cancún airport for the flight home."],
+          "es": ["Traslado al aeropuerto de Cancún para el vuelo de regreso."],
+          "fr": ["Transfert vers l’aéroport de Cancún pour le vol retour."]
         },
         "stay": null,
         "optional": null
@@ -1369,15 +1253,9 @@
           "fr": "Sor Juana – Tlalmanalco / Nepantla"
         },
         "narrative": {
-          "en": [
-            "Visit churches and sanctuaries connected to Sor Juana and the Sor Juana Museum at Hacienda Panoaya. Overnight in Nepantla."
-          ],
-          "es": [
-            "Visita a iglesias y santuarios vinculados a Sor Juana y al Museo Sor Juana en la Hacienda Panoaya. Pernocta en Nepantla."
-          ],
-          "fr": [
-            "Visite d’églises et de sanctuaires liés à Sor Juana et au musée Sor Juana à la Hacienda Panoaya. Nuitée à Nepantla."
-          ]
+          "en": ["Visit churches and sanctuaries connected to Sor Juana and the Sor Juana Museum at Hacienda Panoaya. Overnight in Nepantla."],
+          "es": ["Visita a iglesias y santuarios vinculados a Sor Juana y al Museo Sor Juana en la Hacienda Panoaya. Pernocta en Nepantla."],
+          "fr": ["Visite d’églises et de sanctuaires liés à Sor Juana et au musée Sor Juana à la Hacienda Panoaya. Nuitée à Nepantla."]
         },
         "stay": null,
         "optional": null
@@ -1390,15 +1268,9 @@
           "fr": "Tlalmanalco – Mexico – Guadalajara"
         },
         "narrative": {
-          "en": [
-            "Transfer to Mexico City for the flight to Guadalajara, then visit the central square and cathedral."
-          ],
-          "es": [
-            "Traslado a la Ciudad de México para tomar el vuelo a Guadalajara, y visita a la plaza central y la catedral."
-          ],
-          "fr": [
-            "Transfert à Mexico pour le vol vers Guadalajara, puis visite de la place centrale et de la cathédrale."
-          ]
+          "en": ["Transfer to Mexico City for the flight to Guadalajara, then visit the central square and cathedral."],
+          "es": ["Traslado a la Ciudad de México para tomar el vuelo a Guadalajara, y visita a la plaza central y la catedral."],
+          "fr": ["Transfert à Mexico pour le vol vers Guadalajara, puis visite de la place centrale et de la cathédrale."]
         },
         "stay": null,
         "optional": null
@@ -1411,9 +1283,7 @@
           "fr": "Consuelo Velázquez – Guadalajara – Chapala"
         },
         "narrative": {
-          "en": [
-            "Walk the Chapala malecón, visit Lake Chapala and the Church of San Francisco de Asís, then continue to Ciudad Guzmán."
-          ],
+          "en": ["Walk the Chapala malecón, visit Lake Chapala and the Church of San Francisco de Asís, then continue to Ciudad Guzmán."],
           "es": [
             "Caminata por el malecón de Chapala, visita al Lago de Chapala y a la Iglesia de San Francisco de Asís, y continuación hacia Ciudad Guzmán."
           ],
@@ -1432,12 +1302,8 @@
           "fr": "Lola Álvarez Bravo – María Izquierdo"
         },
         "narrative": {
-          "en": [
-            "Visit Lagos de Moreno, birthplace of Lola Álvarez Bravo, the Cultural House of María Izquierdo and San Juan de los Lagos."
-          ],
-          "es": [
-            "Visita a Lagos de Moreno, cuna de Lola Álvarez Bravo, a la Casa de Cultura de María Izquierdo y a San Juan de los Lagos."
-          ],
+          "en": ["Visit Lagos de Moreno, birthplace of Lola Álvarez Bravo, the Cultural House of María Izquierdo and San Juan de los Lagos."],
+          "es": ["Visita a Lagos de Moreno, cuna de Lola Álvarez Bravo, a la Casa de Cultura de María Izquierdo y a San Juan de los Lagos."],
           "fr": [
             "Visite de Lagos de Moreno, ville natale de Lola Álvarez Bravo, de la Maison de la culture de María Izquierdo et de San Juan de los Lagos."
           ]
@@ -1453,15 +1319,9 @@
           "fr": "La Femme de la Tequila – San Miguel de Allende"
         },
         "narrative": {
-          "en": [
-            "Learn about Casa Dragones tequila and visit the artisan market and San Miguel Archangel Parish."
-          ],
-          "es": [
-            "Conozca el tequila Casa Dragones y visite el mercado de artesanías y la Parroquia de San Miguel Arcángel."
-          ],
-          "fr": [
-            "Découverte de la tequila Casa Dragones et visite du marché artisanal et de la paroisse San Miguel Arcángel."
-          ]
+          "en": ["Learn about Casa Dragones tequila and visit the artisan market and San Miguel Archangel Parish."],
+          "es": ["Conozca el tequila Casa Dragones y visite el mercado de artesanías y la Parroquia de San Miguel Arcángel."],
+          "fr": ["Découverte de la tequila Casa Dragones et visite du marché artisanal et de la paroisse San Miguel Arcángel."]
         },
         "stay": null,
         "optional": null
@@ -1474,15 +1334,9 @@
           "fr": "San Miguel de Allende – Mexico – Départ"
         },
         "narrative": {
-          "en": [
-            "Depart to the airport for a connecting flight to Mexico City and onward flight home."
-          ],
-          "es": [
-            "Salida hacia el aeropuerto para vuelo de conexión a la Ciudad de México y vuelo de regreso."
-          ],
-          "fr": [
-            "Départ vers l’aéroport pour un vol de correspondance à Mexico et le vol retour."
-          ]
+          "en": ["Depart to the airport for a connecting flight to Mexico City and onward flight home."],
+          "es": ["Salida hacia el aeropuerto para vuelo de conexión a la Ciudad de México y vuelo de regreso."],
+          "fr": ["Départ vers l’aéroport pour un vol de correspondance à Mexico et le vol retour."]
         },
         "stay": null,
         "optional": null
@@ -1582,15 +1436,9 @@
           "fr": "Mexico – Xochimilco"
         },
         "narrative": {
-          "en": [
-            "Nahua heritage introduction, Mexico City Historic Centre, Xochimilco trajinera ride and local market."
-          ],
-          "es": [
-            "Introducción al patrimonio nahua, Centro Histórico de la Ciudad de México, paseo en trajinera por Xochimilco y mercado local."
-          ],
-          "fr": [
-            "Introduction au patrimoine nahua, centre historique de Mexico, balade en trajinera à Xochimilco et marché local."
-          ]
+          "en": ["Nahua heritage introduction, Mexico City Historic Centre, Xochimilco trajinera ride and local market."],
+          "es": ["Introducción al patrimonio nahua, Centro Histórico de la Ciudad de México, paseo en trajinera por Xochimilco y mercado local."],
+          "fr": ["Introduction au patrimoine nahua, centre historique de Mexico, balade en trajinera à Xochimilco et marché local."]
         },
         "stay": null,
         "optional": null
@@ -1603,9 +1451,7 @@
           "fr": "Mexico – Puebla"
         },
         "narrative": {
-          "en": [
-            "Visit Cholula, the Great Pyramid, the church of Nuestra Señora de los Remedios, Puebla Cathedral, Rosario Chapel and Library."
-          ],
+          "en": ["Visit Cholula, the Great Pyramid, the church of Nuestra Señora de los Remedios, Puebla Cathedral, Rosario Chapel and Library."],
           "es": [
             "Visita a Cholula, la Gran Pirámide, la iglesia de Nuestra Señora de los Remedios, la Catedral de Puebla, la Capilla del Rosario y la Biblioteca."
           ],
@@ -1624,15 +1470,9 @@
           "fr": "Puebla – Pueblo Mágico de Cuetzalan"
         },
         "narrative": {
-          "en": [
-            "Transfer to Cuetzalan Magic Town and the hotel."
-          ],
-          "es": [
-            "Traslado al Pueblo Mágico de Cuetzalan y al hotel."
-          ],
-          "fr": [
-            "Transfert vers le Pueblo Mágico de Cuetzalan et l’hôtel."
-          ]
+          "en": ["Transfer to Cuetzalan Magic Town and the hotel."],
+          "es": ["Traslado al Pueblo Mágico de Cuetzalan y al hotel."],
+          "fr": ["Transfert vers le Pueblo Mágico de Cuetzalan et l’hôtel."]
         },
         "stay": null,
         "optional": null
@@ -1645,15 +1485,9 @@
           "fr": "Cuetzalan – El Tajín – Papantla"
         },
         "narrative": {
-          "en": [
-            "Visit El Tajín archaeological site and continue to Papantla, known for vanilla and the Voladores de Papantla."
-          ],
-          "es": [
-            "Visita al sitio arqueológico de El Tajín y continuación hacia Papantla, conocida por la vainilla y los Voladores de Papantla."
-          ],
-          "fr": [
-            "Visite du site archéologique d’El Tajín, puis poursuite vers Papantla, réputée pour la vanille et les Voladores de Papantla."
-          ]
+          "en": ["Visit El Tajín archaeological site and continue to Papantla, known for vanilla and the Voladores de Papantla."],
+          "es": ["Visita al sitio arqueológico de El Tajín y continuación hacia Papantla, conocida por la vainilla y los Voladores de Papantla."],
+          "fr": ["Visite du site archéologique d’El Tajín, puis poursuite vers Papantla, réputée pour la vanille et les Voladores de Papantla."]
         },
         "stay": null,
         "optional": null
@@ -1666,15 +1500,9 @@
           "fr": "Papantla – Coatepec"
         },
         "narrative": {
-          "en": [
-            "Travel to Coatepec, a Magic Town, and enjoy coffee tasting at a coffee estate."
-          ],
-          "es": [
-            "Viaje a Coatepec, Pueblo Mágico, y degustación de café en una finca cafetalera."
-          ],
-          "fr": [
-            "Trajet vers Coatepec, Pueblo Mágico, et dégustation de café dans une plantation caféière."
-          ]
+          "en": ["Travel to Coatepec, a Magic Town, and enjoy coffee tasting at a coffee estate."],
+          "es": ["Viaje a Coatepec, Pueblo Mágico, y degustación de café en una finca cafetalera."],
+          "fr": ["Trajet vers Coatepec, Pueblo Mágico, et dégustation de café dans une plantation caféière."]
         },
         "stay": null,
         "optional": null
@@ -1687,15 +1515,9 @@
           "fr": "Coatepec – Veracruz"
         },
         "narrative": {
-          "en": [
-            "Visit Veracruz, walk the main square and see the important port."
-          ],
-          "es": [
-            "Visita a Veracruz, paseo por la plaza principal y el importante puerto."
-          ],
-          "fr": [
-            "Visite de Veracruz, promenade sur la place principale et découverte de l’important port."
-          ]
+          "en": ["Visit Veracruz, walk the main square and see the important port."],
+          "es": ["Visita a Veracruz, paseo por la plaza principal y el importante puerto."],
+          "fr": ["Visite de Veracruz, promenade sur la place principale et découverte de l’important port."]
         },
         "stay": null,
         "optional": null
@@ -1708,15 +1530,9 @@
           "fr": "Veracruz – Tehuacán – Oaxaca"
         },
         "narrative": {
-          "en": [
-            "Stop in Tehuacán, visit the Municipal Palace and continue to Oaxaca."
-          ],
-          "es": [
-            "Parada en Tehuacán, visita al Palacio Municipal y continuación hacia Oaxaca."
-          ],
-          "fr": [
-            "Arrêt à Tehuacán, visite du palais municipal, puis poursuite vers Oaxaca."
-          ]
+          "en": ["Stop in Tehuacán, visit the Municipal Palace and continue to Oaxaca."],
+          "es": ["Parada en Tehuacán, visita al Palacio Municipal y continuación hacia Oaxaca."],
+          "fr": ["Arrêt à Tehuacán, visite du palais municipal, puis poursuite vers Oaxaca."]
         },
         "stay": null,
         "optional": null
@@ -1729,15 +1545,9 @@
           "fr": "Oaxaca – Sierra Norte"
         },
         "narrative": {
-          "en": [
-            "Visit Tlacolula market and Teotitlán del Valle, then continue to Latuvi for a community cabin overnight."
-          ],
-          "es": [
-            "Visita al mercado de Tlacolula y a Teotitlán del Valle, y continuación hacia Latuvi para pernoctar en cabañas comunitarias."
-          ],
-          "fr": [
-            "Visite du marché de Tlacolula et de Teotitlán del Valle, puis poursuite vers Latuvi pour une nuitée en cabane communautaire."
-          ]
+          "en": ["Visit Tlacolula market and Teotitlán del Valle, then continue to Latuvi for a community cabin overnight."],
+          "es": ["Visita al mercado de Tlacolula y a Teotitlán del Valle, y continuación hacia Latuvi para pernoctar en cabañas comunitarias."],
+          "fr": ["Visite du marché de Tlacolula et de Teotitlán del Valle, puis poursuite vers Latuvi pour une nuitée en cabane communautaire."]
         },
         "stay": {
           "hotel": {
@@ -1772,15 +1582,9 @@
           "fr": "Sierra Norte"
         },
         "narrative": {
-          "en": [
-            "Hiking tour to El Molcajete waterfall, with regional agriculture, trout farm and forest trail."
-          ],
-          "es": [
-            "Caminata hacia la cascada El Molcajete, con paisajes de agricultura regional, criadero de truchas y sendero forestal."
-          ],
-          "fr": [
-            "Randonnée vers la cascade El Molcajete, à travers l’agriculture régionale, une ferme piscicole de truites et un sentier forestier."
-          ]
+          "en": ["Hiking tour to El Molcajete waterfall, with regional agriculture, trout farm and forest trail."],
+          "es": ["Caminata hacia la cascada El Molcajete, con paisajes de agricultura regional, criadero de truchas y sendero forestal."],
+          "fr": ["Randonnée vers la cascade El Molcajete, à travers l’agriculture régionale, une ferme piscicole de truites et un sentier forestier."]
         },
         "stay": null,
         "optional": null
@@ -1793,9 +1597,7 @@
           "fr": "Sierra Norte – Oaxaca"
         },
         "narrative": {
-          "en": [
-            "Return to Oaxaca via the Mezcal route and visit Plaza de la Constitución, Government Palace, Cathedral, kiosk and Santo Domingo."
-          ],
+          "en": ["Return to Oaxaca via the Mezcal route and visit Plaza de la Constitución, Government Palace, Cathedral, kiosk and Santo Domingo."],
           "es": [
             "Regreso a Oaxaca por la ruta del mezcal, con visita a la Plaza de la Constitución, el Palacio de Gobierno, la Catedral, el quiosco y Santo Domingo."
           ],
@@ -1814,15 +1616,9 @@
           "fr": "Oaxaca – Départ"
         },
         "narrative": {
-          "en": [
-            "Transfer to the airport for the flight home."
-          ],
-          "es": [
-            "Traslado al aeropuerto para el vuelo de regreso."
-          ],
-          "fr": [
-            "Transfert vers l’aéroport pour le vol retour."
-          ]
+          "en": ["Transfer to the airport for the flight home."],
+          "es": ["Traslado al aeropuerto para el vuelo de regreso."],
+          "fr": ["Transfert vers l’aéroport pour le vol retour."]
         },
         "stay": null,
         "optional": null
@@ -1863,13 +1659,7 @@
       "/images/handpicked-travel/Uj-.jpg"
     ],
     "highlights": {
-      "en": [
-        "Ek Balam village",
-        "Cenote Xcanché",
-        "Hammock-making activity",
-        "Community image-improvement project",
-        "Ek Balam archaeological site"
-      ],
+      "en": ["Ek Balam village", "Cenote Xcanché", "Hammock-making activity", "Community image-improvement project", "Ek Balam archaeological site"],
       "es": [
         "Pueblo de Ek Balam",
         "Cenote Xcanché",
@@ -1886,24 +1676,9 @@
       ]
     },
     "included": {
-      "en": [
-        "Community visit and activities",
-        "Overnight in Uj-Nahil cabins",
-        "Archaeological site visit",
-        "Specialist coordination"
-      ],
-      "es": [
-        "Visita comunitaria y actividades",
-        "Pernocta en cabañas Uj-Nahil",
-        "Visita al sitio arqueológico",
-        "Coordinación especializada"
-      ],
-      "fr": [
-        "Visite communautaire et activités",
-        "Nuit dans les cabanes Uj-Nahil",
-        "Visite du site archéologique",
-        "Coordination spécialisée"
-      ]
+      "en": ["Community visit and activities", "Overnight in Uj-Nahil cabins", "Archaeological site visit", "Specialist coordination"],
+      "es": ["Visita comunitaria y actividades", "Pernocta en cabañas Uj-Nahil", "Visita al sitio arqueológico", "Coordinación especializada"],
+      "fr": ["Visite communautaire et activités", "Nuit dans les cabanes Uj-Nahil", "Visite du site archéologique", "Coordination spécialisée"]
     },
     "itinerary": [
       {
@@ -1914,12 +1689,8 @@
           "fr": "Arrivée – Village d’Ek Balam"
         },
         "narrative": {
-          "en": [
-            "Arrive in Ek Balam village, visit Cenote Xcanché and learn how to make hammocks. Overnight in Uj-Nahil cabins."
-          ],
-          "es": [
-            "Llegada al pueblo de Ek Balam, visita al cenote Xcanché y aprendizaje de elaboración de hamacas. Pernocta en cabañas Uj-Nahil."
-          ],
+          "en": ["Arrive in Ek Balam village, visit Cenote Xcanché and learn how to make hammocks. Overnight in Uj-Nahil cabins."],
+          "es": ["Llegada al pueblo de Ek Balam, visita al cenote Xcanché y aprendizaje de elaboración de hamacas. Pernocta en cabañas Uj-Nahil."],
           "fr": [
             "Arrivée au village d’Ek Balam, visite du cénote Xcanché et apprentissage de la fabrication de hamacs. Nuitée dans les cabanes Uj-Nahil."
           ]
@@ -1957,15 +1728,9 @@
           "fr": "Ek Balam"
         },
         "narrative": {
-          "en": [
-            "Participate in a local image-improvement project and visit the archaeological site of Ek Balam."
-          ],
-          "es": [
-            "Participación en un proyecto local de mejora de imagen y visita al sitio arqueológico de Ek Balam."
-          ],
-          "fr": [
-            "Participation à un projet local d’amélioration de l’image et visite du site archéologique d’Ek Balam."
-          ]
+          "en": ["Participate in a local image-improvement project and visit the archaeological site of Ek Balam."],
+          "es": ["Participación en un proyecto local de mejora de imagen y visita al sitio arqueológico de Ek Balam."],
+          "fr": ["Participation à un projet local d’amélioration de l’image et visite du site archéologique d’Ek Balam."]
         },
         "stay": null,
         "optional": null
@@ -2062,9 +1827,7 @@
           "fr": "Château de Mexico – Défilé du Jour des Morts"
         },
         "narrative": {
-          "en": [
-            "Visit National Palace, Zócalo, Metropolitan Cathedral, Postal Palace, Opera House, Anthropology Museum and Chapultepec Castle."
-          ],
+          "en": ["Visit National Palace, Zócalo, Metropolitan Cathedral, Postal Palace, Opera House, Anthropology Museum and Chapultepec Castle."],
           "es": [
             "Visita al Palacio Nacional, el Zócalo, la Catedral Metropolitana, el Palacio Postal, el Palacio de Bellas Artes y el Castillo de Chapultepec."
           ],
@@ -2083,9 +1846,7 @@
           "fr": "Mexico – Casa Azul de Frida Kahlo – Xochimilco"
         },
         "narrative": {
-          "en": [
-            "Visit Coyoacán, buy local handcrafts, visit Frida Kahlo’s house, shop for sugar skulls in Xochimilco and take a boat ride."
-          ],
+          "en": ["Visit Coyoacán, buy local handcrafts, visit Frida Kahlo’s house, shop for sugar skulls in Xochimilco and take a boat ride."],
           "es": [
             "Visita a Coyoacán, compra de artesanías locales, visita a la Casa de Frida Kahlo, compra de calaveras de azúcar en Xochimilco y paseo en lancha."
           ],
@@ -2104,15 +1865,9 @@
           "fr": "Mexique Ancien et Moderne – Teotihuacán – Tacos et Lucha Libre"
         },
         "narrative": {
-          "en": [
-            "Visit Teotihuacán, try tacos al pastor and attend Mexican wrestling on selected days."
-          ],
-          "es": [
-            "Visita a Teotihuacán, degustación de tacos al pastor y función de lucha libre en días seleccionados."
-          ],
-          "fr": [
-            "Visite de Teotihuacán, dégustation de tacos al pastor et spectacle de lucha libre certains jours."
-          ]
+          "en": ["Visit Teotihuacán, try tacos al pastor and attend Mexican wrestling on selected days."],
+          "es": ["Visita a Teotihuacán, degustación de tacos al pastor y función de lucha libre en días seleccionados."],
+          "fr": ["Visite de Teotihuacán, dégustation de tacos al pastor et spectacle de lucha libre certains jours."]
         },
         "stay": null,
         "optional": null
@@ -2125,15 +1880,9 @@
           "fr": "Mexico – Peña de Bernal – Querétaro"
         },
         "narrative": {
-          "en": [
-            "Depart to Peña de Bernal, continue to Querétaro, visit and overnight."
-          ],
-          "es": [
-            "Salida hacia la Peña de Bernal, continuación hacia Querétaro, visita y pernocta."
-          ],
-          "fr": [
-            "Départ vers la Peña de Bernal, poursuite vers Querétaro, visite et nuitée."
-          ]
+          "en": ["Depart to Peña de Bernal, continue to Querétaro, visit and overnight."],
+          "es": ["Salida hacia la Peña de Bernal, continuación hacia Querétaro, visita y pernocta."],
+          "fr": ["Départ vers la Peña de Bernal, poursuite vers Querétaro, visite et nuitée."]
         },
         "stay": null,
         "optional": null
@@ -2146,15 +1895,9 @@
           "fr": "Querétaro – San Miguel de Allende – Morelia"
         },
         "narrative": {
-          "en": [
-            "Visit San Miguel de Allende and the Santuario de Atotonilco, then continue to Morelia."
-          ],
-          "es": [
-            "Visita a San Miguel de Allende y al Santuario de Atotonilco, y continuación hacia Morelia."
-          ],
-          "fr": [
-            "Visite de San Miguel de Allende et du sanctuaire d’Atotonilco, puis poursuite vers Morelia."
-          ]
+          "en": ["Visit San Miguel de Allende and the Santuario de Atotonilco, then continue to Morelia."],
+          "es": ["Visita a San Miguel de Allende y al Santuario de Atotonilco, y continuación hacia Morelia."],
+          "fr": ["Visite de San Miguel de Allende et du sanctuaire d’Atotonilco, puis poursuite vers Morelia."]
         },
         "stay": null,
         "optional": null
@@ -2167,15 +1910,9 @@
           "fr": "Ville de Morelia"
         },
         "narrative": {
-          "en": [
-            "City tour of Morelia historic centre, Tarascan fountain and handcraft centre."
-          ],
-          "es": [
-            "Recorrido por el centro histórico de Morelia, la fuente Tarasca y el centro de artesanías."
-          ],
-          "fr": [
-            "Visite du centre historique de Morelia, de la fontaine tarasque et du centre artisanal."
-          ]
+          "en": ["City tour of Morelia historic centre, Tarascan fountain and handcraft centre."],
+          "es": ["Recorrido por el centro histórico de Morelia, la fuente Tarasca y el centro de artesanías."],
+          "fr": ["Visite du centre historique de Morelia, de la fontaine tarasque et du centre artisanal."]
         },
         "stay": null,
         "optional": null
@@ -2188,12 +1925,8 @@
           "fr": "Morelia – Pátzcuaro"
         },
         "narrative": {
-          "en": [
-            "Visit Pátzcuaro village and take a night tour to Ihuatzio, Lake Pátzcuaro, Pacanda Island and local cemeteries."
-          ],
-          "es": [
-            "Visita al pueblo de Pátzcuaro y recorrido nocturno a Ihuatzio, el Lago de Pátzcuaro, la Isla Pacanda y panteones locales."
-          ],
+          "en": ["Visit Pátzcuaro village and take a night tour to Ihuatzio, Lake Pátzcuaro, Pacanda Island and local cemeteries."],
+          "es": ["Visita al pueblo de Pátzcuaro y recorrido nocturno a Ihuatzio, el Lago de Pátzcuaro, la Isla Pacanda y panteones locales."],
           "fr": [
             "Visite du village de Pátzcuaro et excursion nocturne à Ihuatzio, sur le lac de Pátzcuaro, à l’île de Pacanda et dans les cimetières locaux."
           ]
@@ -2209,15 +1942,9 @@
           "fr": "Pátzcuaro"
         },
         "narrative": {
-          "en": [
-            "Visit Quiroga, Tzintzuntzan, Zirahuen and Santa Clara del Cobre."
-          ],
-          "es": [
-            "Visita a Quiroga, Tzintzuntzan, Zirahuén y Santa Clara del Cobre."
-          ],
-          "fr": [
-            "Visite de Quiroga, Tzintzuntzan, Zirahuén et Santa Clara del Cobre."
-          ]
+          "en": ["Visit Quiroga, Tzintzuntzan, Zirahuen and Santa Clara del Cobre."],
+          "es": ["Visita a Quiroga, Tzintzuntzan, Zirahuén y Santa Clara del Cobre."],
+          "fr": ["Visite de Quiroga, Tzintzuntzan, Zirahuén et Santa Clara del Cobre."]
         },
         "stay": null,
         "optional": null
@@ -2230,15 +1957,9 @@
           "fr": "Pátzcuaro – Départ"
         },
         "narrative": {
-          "en": [
-            "Transfer to the nearest airport for the flight home."
-          ],
-          "es": [
-            "Traslado al aeropuerto más cercano para el vuelo de regreso."
-          ],
-          "fr": [
-            "Transfert vers l’aéroport le plus proche pour le vol retour."
-          ]
+          "en": ["Transfer to the nearest airport for the flight home."],
+          "es": ["Traslado al aeropuerto más cercano para el vuelo de regreso."],
+          "fr": ["Transfert vers l’aéroport le plus proche pour le vol retour."]
         },
         "stay": null,
         "optional": null
@@ -2417,18 +2138,9 @@
           "fr": "Arrivée – Chihuahua"
         },
         "narrative": {
-          "en": [
-            "Arrive in Chihuahua, receive assistance and transfer to the hotel.",
-            "Overnight in Chihuahua."
-          ],
-          "es": [
-            "Llegada a Chihuahua, asistencia y traslado al hotel.",
-            "Noche en Chihuahua."
-          ],
-          "fr": [
-            "Arrivée à Chihuahua, assistance et transfert à l’hôtel.",
-            "Nuit à Chihuahua."
-          ]
+          "en": ["Arrive in Chihuahua, receive assistance and transfer to the hotel.", "Overnight in Chihuahua."],
+          "es": ["Llegada a Chihuahua, asistencia y traslado al hotel.", "Noche en Chihuahua."],
+          "fr": ["Arrivée à Chihuahua, assistance et transfert à l’hôtel.", "Nuit à Chihuahua."]
         },
         "stay": null,
         "optional": null
@@ -2523,18 +2235,9 @@
           "fr": "Divisadero – El Fuerte"
         },
         "narrative": {
-          "en": [
-            "Depart aboard the CHEPE train to El Fuerte, a sunny colonial town.",
-            "Overnight in El Fuerte."
-          ],
-          "es": [
-            "Salida a bordo del tren CHEPE hacia El Fuerte, un soleado pueblo colonial.",
-            "Noche en El Fuerte."
-          ],
-          "fr": [
-            "Départ à bord du train CHEPE vers El Fuerte, une ville coloniale ensoleillée.",
-            "Nuit à El Fuerte."
-          ]
+          "en": ["Depart aboard the CHEPE train to El Fuerte, a sunny colonial town.", "Overnight in El Fuerte."],
+          "es": ["Salida a bordo del tren CHEPE hacia El Fuerte, un soleado pueblo colonial.", "Noche en El Fuerte."],
+          "fr": ["Départ à bord du train CHEPE vers El Fuerte, une ville coloniale ensoleillée.", "Nuit à El Fuerte."]
         },
         "stay": null,
         "optional": null
@@ -2547,15 +2250,9 @@
           "fr": "El Fuerte – Départ"
         },
         "narrative": {
-          "en": [
-            "Transfer to the airport for a connecting flight to Mexico City and onward flight home."
-          ],
-          "es": [
-            "Traslado al aeropuerto para tomar un vuelo de conexión a la Ciudad de México y luego el vuelo de regreso."
-          ],
-          "fr": [
-            "Transfert vers l’aéroport pour un vol de correspondance vers Mexico, puis le vol retour."
-          ]
+          "en": ["Transfer to the airport for a connecting flight to Mexico City and onward flight home."],
+          "es": ["Traslado al aeropuerto para tomar un vuelo de conexión a la Ciudad de México y luego el vuelo de regreso."],
+          "fr": ["Transfert vers l’aéroport pour un vol de correspondance vers Mexico, puis le vol retour."]
         },
         "stay": null,
         "optional": null
