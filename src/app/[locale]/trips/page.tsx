@@ -45,7 +45,7 @@ export default async function TripsPage({ params }: { params: Promise<{ locale: 
       size={1500}
       px={{ base: 'md', md: 'xl' }}
       pt={{ base: 50, md: 65 }}
-      pb={{ base: 80, md: 120 }}
+      pb={{ base: 50, md: 65 }}
     >
       <Stack gap="xl">
         <Box>

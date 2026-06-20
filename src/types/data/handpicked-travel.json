@@ -1,0 +1,2565 @@
+[
+  {
+    "slug": "luxury-experiences",
+    "collection": {
+      "en": "Luxury Experiences",
+      "es": "Experiencias de Lujo",
+      "fr": "Expériences de Luxe"
+    },
+    "title": {
+      "en": "Boutique Colonial Treasures",
+      "es": "Tesoros Coloniales Boutique",
+      "fr": "Trésors Coloniaux Boutique"
+    },
+    "duration": {
+      "en": "11 Days / 10 Nights",
+      "es": "11 días / 10 noches",
+      "fr": "11 jours / 10 nuits"
+    },
+    "summary": {
+      "en": "A handpicked route through Mexico’s most storied colonial cities, staying in boutique and heritage hotels along the way.",
+      "es": "Una ruta seleccionada por las ciudades coloniales más emblemáticas de México, alojándose en hoteles boutique y de herencia histórica durante todo el recorrido.",
+      "fr": "Un itinéraire sélectionné à travers les villes coloniales les plus emblématiques du Mexique, avec des séjours en hôtels boutique et patrimoniaux tout au long du parcours."
+    },
+    "description": {
+      "en": "This boutique itinerary traces the colonial heart of Mexico, from Mexico City and Teotihuacán to San Miguel de Allende, Guanajuato, Guadalajara, Tequila, Punta Mita, Morelia and Pátzcuaro. The journey combines historic hotels, art galleries, private tastings, coastal leisure and heritage towns full of character.",
+      "es": "Este itinerario boutique recorre el corazón colonial de México, desde la Ciudad de México y Teotihuacán hasta San Miguel de Allende, Guanajuato, Guadalajara, Tequila, Punta Mita, Morelia y Pátzcuaro. El viaje combina hoteles históricos, galerías de arte, catas privadas, descanso costero y pueblos con mucho carácter.",
+      "fr": "Cet itinéraire boutique traverse le cœur colonial du Mexique, de Mexico et Teotihuacán à San Miguel de Allende, Guanajuato, Guadalajara, Tequila, Punta Mita, Morelia et Pátzcuaro. Le voyage combine hôtels historiques, galeries d’art, dégustations privées, détente côtière et villages pleins de caractère."
+    },
+    "heroImage": "/images/handpicked-travel/alicocasadesierranevada.jpg",
+    "gallery": [
+      "/images/handpicked-travel/alicocasadesierranevada.jpg",
+      "/images/handpicked-travel/CASAMAROMADELAMONTA.jpg",
+      "/images/handpicked-travel/colnialqueen_03.jpg",
+      "/images/handpicked-travel/HOTELCASADESIERRANEVADAVIEW.jpg",
+      "/images/handpicked-travel/puertadecieloviewalico.jpg",
+      "/images/handpicked-travel/tequilajaliscoalico.jpg",
+      "/images/handpicked-travel/Villa-Monta.jpg",
+      "/images/handpicked-travel/cunadetierraalicomexico.jpg",
+      "/images/handpicked-travel/teotihuacangloboalicomexico-1.jpg"
+    ],
+    "highlights": {
+      "en": [
+        "Boutique and heritage hotel stays in Mexico City, San Miguel de Allende, Guanajuato, Guadalajara, Punta Mita, Morelia and Pátzcuaro",
+        "Mexico City historic centre, Anthropology Museum and Teotihuacán",
+        "UNESCO World Heritage atmosphere in San Miguel de Allende",
+        "Colonial cities, art galleries and traditional villages",
+        "Tequila village visit and optional private tasting experiences",
+        "Beach leisure in exclusive Punta Mita"
+      ],
+      "es": [
+        "Estancias en hoteles boutique y de herencia histórica en la Ciudad de México, San Miguel de Allende, Guanajuato, Guadalajara, Punta Mita, Morelia y Pátzcuaro",
+        "Centro histórico de la Ciudad de México, Museo de Antropología y Teotihuacán",
+        "Ambiente Patrimonio de la Humanidad por la UNESCO en San Miguel de Allende",
+        "Ciudades coloniales, galerías de arte y pueblos tradicionales",
+        "Visita al pueblo de Tequila y experiencias opcionales de cata privada",
+        "Descanso de playa en la exclusiva Punta Mita"
+      ],
+      "fr": [
+        "Séjours en hôtels boutique et patrimoniaux à Mexico, San Miguel de Allende, Guanajuato, Guadalajara, Punta Mita, Morelia et Pátzcuaro",
+        "Centre historique de Mexico, Musée d’anthropologie et Teotihuacán",
+        "Ambiance Patrimoine mondial de l’UNESCO à San Miguel de Allende",
+        "Villes coloniales, galeries d’art et villages traditionnels",
+        "Visite du village de Tequila et expériences optionnelles de dégustation privée",
+        "Détente balnéaire dans l’exclusif Punta Mita"
+      ]
+    },
+    "included": {
+      "en": [
+        "Private transfers and guided visits according to the itinerary",
+        "Boutique and heritage accommodation where mentioned or similar",
+        "Suggested rooms listed in selected properties",
+        "Entrance fees for visits mentioned in the itinerary",
+        "Specialist assistance for optional experiences"
+      ],
+      "es": [
+        "Traslados privados y visitas guiadas según el itinerario",
+        "Alojamiento boutique y de herencia histórica donde se menciona o similar",
+        "Habitaciones sugeridas en las propiedades seleccionadas",
+        "Tarifas de entrada para las visitas mencionadas en el itinerario",
+        "Asistencia especializada para experiencias opcionales"
+      ],
+      "fr": [
+        "Transferts privés et visites guidées selon l’itinéraire",
+        "Hébergement boutique et patrimonial mentionné, ou équivalent",
+        "Chambres suggérées dans les établissements sélectionnés",
+        "Frais d’entrée pour les visites mentionnées dans l’itinéraire",
+        "Assistance spécialisée pour les expériences optionnelles"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "location": {
+          "en": "Arrival – Mexico City",
+          "es": "Llegada – Ciudad de México",
+          "fr": "Arrivée – Mexico"
+        },
+        "narrative": {
+          "en": [
+            "Arrive in Mexico City and transfer privately to your hotel in the historic centre."
+          ],
+          "es": [
+            "Llegada a la Ciudad de México y traslado privado al hotel en el centro histórico."
+          ],
+          "fr": [
+            "Arrivée à Mexico et transfert privé vers l’hôtel situé dans le centre historique."
+          ]
+        },
+        "stay": {
+          "hotel": {
+            "en": "Hotel Downtown",
+            "es": "Hotel Downtown",
+            "fr": "Hotel Downtown"
+          },
+          "tag": {
+            "en": "Boutique",
+            "es": "Boutique",
+            "fr": "Boutique"
+          },
+          "description": {
+            "en": "A 17th-century former palace turned boutique hotel with suites, rooftop bar and pool, located near the Zócalo.",
+            "es": "Un antiguo palacio del siglo XVII convertido en hotel boutique con suites, bar y alberca en la azotea, ubicado cerca del Zócalo.",
+            "fr": "Un ancien palais du XVIIe siècle transformé en hôtel boutique avec suites, bar et piscine sur le toit, situé près du Zócalo."
+          },
+          "room": {
+            "en": "Colonial Queen",
+            "es": "Colonial Queen",
+            "fr": "Colonial Queen"
+          },
+          "image": "/images/handpicked-travel/colnialqueen_03.jpg"
+        },
+        "optional": null
+      },
+      {
+        "day": 2,
+        "location": {
+          "en": "Mexico City – City Tour – Teotihuacán",
+          "es": "Ciudad de México – Recorrido por la Ciudad – Teotihuacán",
+          "fr": "Mexico – Visite de la ville – Teotihuacán"
+        },
+        "narrative": {
+          "en": [
+            "Visit the historic square, Anthropology Museum, National Palace, Metropolitan Cathedral and Zócalo.",
+            "Continue to Teotihuacán, one of the most important archaeological sites in the Americas."
+          ],
+          "es": [
+            "Visita a la plaza histórica, el Museo de Antropología, el Palacio Nacional, la Catedral Metropolitana y el Zócalo.",
+            "Continuación hacia Teotihuacán, uno de los sitios arqueológicos más importantes de América."
+          ],
+          "fr": [
+            "Visite de la place historique, du Musée d’anthropologie, du Palais national, de la cathédrale métropolitaine et du Zócalo.",
+            "Poursuite vers Teotihuacán, l’un des sites archéologiques les plus importants des Amériques."
+          ]
+        },
+        "stay": {
+          "hotel": {
+            "en": "Hotel Downtown",
+            "es": "Hotel Downtown",
+            "fr": "Hotel Downtown"
+          },
+          "tag": {
+            "en": "Boutique",
+            "es": "Boutique",
+            "fr": "Boutique"
+          },
+          "description": {
+            "en": "Second night at the same historic property in Mexico City.",
+            "es": "Segunda noche en la misma propiedad histórica en la Ciudad de México.",
+            "fr": "Deuxième nuit dans le même établissement historique à Mexico."
+          },
+          "room": {
+            "en": "Colonial Queen",
+            "es": "Colonial Queen",
+            "fr": "Colonial Queen"
+          },
+          "image": "/images/handpicked-travel/teotihuacangloboalicomexico-1.jpg"
+        },
+        "optional": {
+          "en": "Hot air balloon ride over Teotihuacán",
+          "es": "Vuelo en globo aerostático sobre Teotihuacán",
+          "fr": "Vol en montgolfière au-dessus de Teotihuacán"
+        }
+      },
+      {
+        "day": 3,
+        "location": {
+          "en": "Mexico City – Querétaro – San Miguel de Allende",
+          "es": "Ciudad de México – Querétaro – San Miguel de Allende",
+          "fr": "Mexico – Querétaro – San Miguel de Allende"
+        },
+        "narrative": {
+          "en": [
+            "Depart to Querétaro, founded in 1531, then continue to San Miguel de Allende.",
+            "Visit San Miguel de Allende and La Aurora art gallery."
+          ],
+          "es": [
+            "Salida hacia Querétaro, fundada en 1531, y continuación hacia San Miguel de Allende.",
+            "Visita a San Miguel de Allende y a la galería de arte La Aurora."
+          ],
+          "fr": [
+            "Départ vers Querétaro, fondée en 1531, puis poursuite vers San Miguel de Allende.",
+            "Visite de San Miguel de Allende et de la galerie d’art La Aurora."
+          ]
+        },
+        "stay": {
+          "hotel": {
+            "en": "Hotel Casa Sierra Nevada",
+            "es": "Hotel Casa Sierra Nevada",
+            "fr": "Hotel Casa Sierra Nevada"
+          },
+          "tag": {
+            "en": "Heritage",
+            "es": "Histórico",
+            "fr": "Patrimonial"
+          },
+          "description": {
+            "en": "A cluster of historic buildings in the centre of San Miguel de Allende.",
+            "es": "Un conjunto de edificios históricos en el centro de San Miguel de Allende.",
+            "fr": "Un ensemble de bâtiments historiques au cœur de San Miguel de Allende."
+          },
+          "room": {
+            "en": "Superior Room",
+            "es": "Superior Room",
+            "fr": "Superior Room"
+          },
+          "image": "/images/handpicked-travel/HOTELCASADESIERRANEVADAVIEW.jpg"
+        },
+        "optional": {
+          "en": "Cuna de Tierra vineyard with private tasting",
+          "es": "Viñedo Cuna de Tierra con cata privada",
+          "fr": "Vignoble Cuna de Tierra avec dégustation privée"
+        }
+      },
+      {
+        "day": 4,
+        "location": {
+          "en": "San Miguel de Allende – Dolores Hidalgo – Guanajuato",
+          "es": "San Miguel de Allende – Dolores Hidalgo – Guanajuato",
+          "fr": "San Miguel de Allende – Dolores Hidalgo – Guanajuato"
+        },
+        "narrative": {
+          "en": [
+            "Travel to Guanajuato via Dolores Hidalgo, where Mexico’s Independence movement began.",
+            "Tour Guanajuato including Union Garden, Juárez Theater, Peace Plaza, the University and the famous mummy museum."
+          ],
+          "es": [
+            "Viaje hacia Guanajuato pasando por Dolores Hidalgo, donde inició el movimiento de Independencia de México.",
+            "Recorrido por Guanajuato, incluyendo el Jardín de la Unión, el Teatro Juárez, la Plaza de la Paz, la Universidad y el famoso museo de las momias."
+          ],
+          "fr": [
+            "Trajet vers Guanajuato via Dolores Hidalgo, où débuta le mouvement d’indépendance du Mexique.",
+            "Visite de Guanajuato, dont le Jardin de l’Union, le théâtre Juárez, la Place de la Paix, l’université et le célèbre musée des momies."
+          ]
+        },
+        "stay": {
+          "hotel": {
+            "en": "Hotel Quinta Las Acacias",
+            "es": "Hotel Quinta Las Acacias",
+            "fr": "Hotel Quinta Las Acacias"
+          },
+          "tag": {
+            "en": "Boutique",
+            "es": "Boutique",
+            "fr": "Boutique"
+          },
+          "description": {
+            "en": "A carefully restored 19th-century French-style mansion and Mexico Boutique Hotel member.",
+            "es": "Una mansión de estilo francés del siglo XIX cuidadosamente restaurada y miembro de Mexico Boutique Hotels.",
+            "fr": "Une demeure de style français du XIXe siècle, soigneusement restaurée, membre de Mexico Boutique Hotels."
+          },
+          "room": {
+            "en": "Standard Classic Room",
+            "es": "Standard Classic Room",
+            "fr": "Standard Classic Room"
+          },
+          "image": "/images/handpicked-travel/CASAMAROMADELAMONTA.jpg"
+        },
+        "optional": null
+      },
+      {
+        "day": 5,
+        "location": {
+          "en": "Guanajuato – Guadalajara – Tlaquepaque – Guadalajara",
+          "es": "Guanajuato – Guadalajara – Tlaquepaque – Guadalajara",
+          "fr": "Guanajuato – Guadalajara – Tlaquepaque – Guadalajara"
+        },
+        "narrative": {
+          "en": [
+            "Depart for Guadalajara, a symbol of Mexican music, cuisine and traditions.",
+            "Visit Tlaquepaque, a centre of Mexican arts, galleries and restaurants."
+          ],
+          "es": [
+            "Salida hacia Guadalajara, símbolo de la música, gastronomía y tradiciones mexicanas.",
+            "Visita a Tlaquepaque, centro de las artes mexicanas, galerías y restaurantes."
+          ],
+          "fr": [
+            "Départ vers Guadalajara, symbole de la musique, de la gastronomie et des traditions mexicaines.",
+            "Visite de Tlaquepaque, centre des arts mexicains, de ses galeries et restaurants."
+          ]
+        },
+        "stay": {
+          "hotel": {
+            "en": "Hotel Villa Ganz",
+            "es": "Hotel Villa Ganz",
+            "fr": "Hotel Villa Ganz"
+          },
+          "tag": {
+            "en": "Luxury Boutique",
+            "es": "Boutique de lujo",
+            "fr": "Boutique de luxe"
+          },
+          "description": {
+            "en": "Recognized as one of Guadalajara’s first luxury boutique hotels.",
+            "es": "Reconocido como uno de los primeros hoteles boutique de lujo de Guadalajara.",
+            "fr": "Reconnu comme l’un des premiers hôtels boutique de luxe de Guadalajara."
+          },
+          "room": {
+            "en": "Pedro Páramo Room",
+            "es": "Pedro Páramo Room",
+            "fr": "Pedro Páramo Room"
+          },
+          "image": "/images/handpicked-travel/Villa-Monta.jpg"
+        },
+        "optional": null
+      },
+      {
+        "day": 6,
+        "location": {
+          "en": "Guadalajara – Tequila – Puerto Vallarta / Punta Mita",
+          "es": "Guadalajara – Tequila – Puerto Vallarta / Punta Mita",
+          "fr": "Guadalajara – Tequila – Puerto Vallarta / Punta Mita"
+        },
+        "narrative": {
+          "en": [
+            "Depart toward the coast, visiting Tequila village along the route.",
+            "Continue to Punta Mita for a luxury coastal stay."
+          ],
+          "es": [
+            "Salida hacia la costa, visitando el pueblo de Tequila en el camino.",
+            "Continuación hacia Punta Mita para una estancia costera de lujo."
+          ],
+          "fr": [
+            "Départ vers la côte, avec visite du village de Tequila en chemin.",
+            "Poursuite vers Punta Mita pour un séjour côtier de luxe."
+          ]
+        },
+        "stay": {
+          "hotel": {
+            "en": "The St. Regis Punta Mita",
+            "es": "The St. Regis Punta Mita",
+            "fr": "The St. Regis Punta Mita"
+          },
+          "tag": {
+            "en": "Luxury Resort",
+            "es": "Resort de lujo",
+            "fr": "Complexe hôtelier de luxe"
+          },
+          "description": {
+            "en": "An exclusive resort stay with opportunities for wellness and relaxation.",
+            "es": "Una estancia exclusiva en resort con oportunidades de bienestar y relajación.",
+            "fr": "Un séjour exclusif en resort, propice au bien-être et à la détente."
+          },
+          "room": {
+            "en": "Resort room according to availability",
+            "es": "Resort room according to availability",
+            "fr": "Resort room according to availability"
+          },
+          "image": "/images/handpicked-travel/tequilajaliscoalico.jpg"
+        },
+        "optional": {
+          "en": "Blend your own tequila in Tequila",
+          "es": "Mezcla tu propio tequila en Tequila",
+          "fr": "Composez votre propre tequila à Tequila"
+        }
+      },
+      {
+        "day": 7,
+        "location": {
+          "en": "Punta Mita",
+          "es": "Punta Mita",
+          "fr": "Punta Mita"
+        },
+        "narrative": {
+          "en": [
+            "Day at leisure in Punta Mita, considered one of Latin America’s most exclusive coastal destinations."
+          ],
+          "es": [
+            "Día libre en Punta Mita, considerado uno de los destinos costeros más exclusivos de América Latina."
+          ],
+          "fr": [
+            "Journée libre à Punta Mita, considérée comme l’une des destinations côtières les plus exclusives d’Amérique latine."
+          ]
+        },
+        "stay": {
+          "hotel": {
+            "en": "The St. Regis Punta Mita",
+            "es": "The St. Regis Punta Mita",
+            "fr": "The St. Regis Punta Mita"
+          },
+          "tag": {
+            "en": "Luxury Resort",
+            "es": "Resort de lujo",
+            "fr": "Complexe hôtelier de luxe"
+          },
+          "description": {
+            "en": "Second night at the beach.",
+            "es": "Segunda noche frente al mar.",
+            "fr": "Deuxième nuit en bord de mer."
+          },
+          "room": {
+            "en": "Resort room according to availability",
+            "es": "Resort room according to availability",
+            "fr": "Resort room according to availability"
+          },
+          "image": "/images/handpicked-travel/cunadetierraalicomexico.jpg"
+        },
+        "optional": null
+      },
+      {
+        "day": 8,
+        "location": {
+          "en": "Punta Mita – Morelia",
+          "es": "Punta Mita – Morelia",
+          "fr": "Punta Mita – Morelia"
+        },
+        "narrative": {
+          "en": [
+            "Depart to Morelia and visit the main square, Cathedral and Government Palace."
+          ],
+          "es": [
+            "Salida hacia Morelia y visita a la plaza principal, la Catedral y el Palacio de Gobierno."
+          ],
+          "fr": [
+            "Départ vers Morelia et visite de la place principale, de la cathédrale et du Palais du gouvernement."
+          ]
+        },
+        "stay": {
+          "hotel": {
+            "en": "Hotel Villa Montaña",
+            "es": "Hotel Villa Montaña",
+            "fr": "Hotel Villa Montaña"
+          },
+          "tag": {
+            "en": "Boutique Heritage",
+            "es": "Boutique histórico",
+            "fr": "Boutique patrimonial"
+          },
+          "description": {
+            "en": "A hillside property with views over Morelia and its baroque cathedral, arranged like an exclusive mini-village.",
+            "es": "Una propiedad en la ladera con vistas a Morelia y su catedral barroca, dispuesta como un exclusivo mini-pueblo.",
+            "fr": "Une propriété à flanc de colline offrant une vue sur Morelia et sa cathédrale baroque, organisée comme un mini-village exclusif."
+          },
+          "room": {
+            "en": "Cottage-style room or suite",
+            "es": "Cottage-style room or suite",
+            "fr": "Cottage-style room or suite"
+          },
+          "image": "/images/handpicked-travel/Villa-Monta.jpg"
+        },
+        "optional": null
+      },
+      {
+        "day": 9,
+        "location": {
+          "en": "Morelia – Pátzcuaro",
+          "es": "Morelia – Pátzcuaro",
+          "fr": "Morelia – Pátzcuaro"
+        },
+        "narrative": {
+          "en": [
+            "Visit Pátzcuaro and take a small boat tour near Janitzio on Lake Pátzcuaro."
+          ],
+          "es": [
+            "Visita a Pátzcuaro y paseo en lancha cerca de Janitzio, en el Lago de Pátzcuaro."
+          ],
+          "fr": [
+            "Visite de Pátzcuaro et balade en petit bateau près de Janitzio, sur le lac de Pátzcuaro."
+          ]
+        },
+        "stay": {
+          "hotel": {
+            "en": "Portón del Cielo",
+            "es": "Portón del Cielo",
+            "fr": "Portón del Cielo"
+          },
+          "tag": {
+            "en": "Boutique View Hotel",
+            "es": "Hotel boutique con vista",
+            "fr": "Hôtel boutique avec vue"
+          },
+          "description": {
+            "en": "A hilltop hotel overlooking Lake Pátzcuaro and the village, named as a gateway to heaven.",
+            "es": "Un hotel en lo alto de una colina con vista al Lago de Pátzcuaro y al pueblo, conocido como puerta al cielo.",
+            "fr": "Un hôtel perché sur une colline offrant une vue sur le lac de Pátzcuaro et le village, surnommé porte du ciel."
+          },
+          "room": {
+            "en": "Room according to availability",
+            "es": "Room according to availability",
+            "fr": "Room according to availability"
+          },
+          "image": "/images/handpicked-travel/puertadecieloviewalico.jpg"
+        },
+        "optional": null
+      },
+      {
+        "day": 10,
+        "location": {
+          "en": "Pátzcuaro – Mexico City",
+          "es": "Pátzcuaro – Ciudad de México",
+          "fr": "Pátzcuaro – Mexico"
+        },
+        "narrative": {
+          "en": [
+            "Continue back to Mexico City for the final night."
+          ],
+          "es": [
+            "Continuación del viaje de regreso a la Ciudad de México para la última noche."
+          ],
+          "fr": [
+            "Retour vers Mexico pour la dernière nuit du séjour."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 11,
+        "location": {
+          "en": "Mexico City – Departure",
+          "es": "Ciudad de México – Salida",
+          "fr": "Mexico – Départ"
+        },
+        "narrative": {
+          "en": [
+            "Private assisted transfer to the airport for the flight home."
+          ],
+          "es": [
+            "Traslado privado y asistido al aeropuerto para el vuelo de regreso."
+          ],
+          "fr": [
+            "Transfert privé et assisté vers l’aéroport pour le vol retour."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "slug": "gastronomic-tours",
+    "collection": {
+      "en": "Gastronomic Tours",
+      "es": "Tours Gastronómicos",
+      "fr": "Circuits Gastronomiques"
+    },
+    "title": {
+      "en": "The Real Mexican Cuisine",
+      "es": "La Auténtica Cocina Mexicana",
+      "fr": "L’Authentique Cuisine Mexicaine"
+    },
+    "duration": {
+      "en": "8 Days / 7 Nights",
+      "es": "8 días / 7 noches",
+      "fr": "8 jours / 7 nuits"
+    },
+    "summary": {
+      "en": "A food-focused journey through Mexico City, Puebla, Veracruz and Oaxaca, exploring markets, traditional dishes, regional ingredients and local cooking traditions.",
+      "es": "Un viaje gastronómico por la Ciudad de México, Puebla, Veracruz y Oaxaca, explorando mercados, platillos tradicionales, ingredientes regionales y tradiciones culinarias locales.",
+      "fr": "Un voyage gastronomique à travers Mexico, Puebla, Veracruz et Oaxaca, à la découverte des marchés, des plats traditionnels, des ingrédients régionaux et des traditions culinaires locales."
+    },
+    "description": {
+      "en": "Mexican food is more than a list of typical dishes: it is a reflection of ritual, culture, magic and art. This itinerary is designed for travelers who want to taste Mexico with expert foodie guides, from trajinera lunches and market sweets to mole, mezcal, grasshoppers, tlayudas and stone soup.",
+      "es": "La comida mexicana es mucho más que una lista de platillos típicos: es un reflejo de ritual, cultura, magia y arte. Este itinerario está diseñado para viajeros que desean saborear México junto a guías expertos en gastronomía, desde comidas en trajinera y dulces de mercado hasta mole, mezcal, chapulines, tlayudas y caldo de piedra.",
+      "fr": "La cuisine mexicaine est bien plus qu’une liste de plats typiques : c’est le reflet d’un rituel, d’une culture, d’une magie et d’un art. Cet itinéraire est conçu pour les voyageurs souhaitant savourer le Mexique aux côtés de guides gastronomiques experts, des déjeuners en trajinera et douceurs de marché au mole, au mezcal, aux sauterelles, aux tlayudas et à la soupe de pierre."
+    },
+    "heroImage": "/images/handpicked-travel/alico_gastronimico_01.jpg",
+    "gallery": [
+      "/images/handpicked-travel/alico_gastronimico_01.jpg",
+      "/images/handpicked-travel/alico_gastronimico_02.jpg",
+      "/images/handpicked-travel/alico_gastronimico_05.jpg",
+      "/images/handpicked-travel/xochimilcoalicomexico.jpg",
+      "/images/handpicked-travel/alicocooking.jpg",
+      "/images/handpicked-travel/alicotaste.jpg",
+      "/images/handpicked-travel/womanalico.jpg",
+      "/images/handpicked-travel/guacamolesconmexicoalico.jpg",
+      "/images/handpicked-travel/mercadomexicoalimentoalico.jpg",
+      "/images/handpicked-travel/olcajetemexicoalico.jpg"
+    ],
+    "highlights": {
+      "en": [
+        "Mexican welcome refreshments on arrival",
+        "Xochimilco trajinera ride with traditional lunch on board",
+        "Coyoacán market sweets and pre-Hispanic gastronomy context",
+        "Pulque and seasonal tasting experiences near Teotihuacán",
+        "Mole or chile en nogada cooking experience in Puebla",
+        "Mezcal, grasshoppers, black mole, tlayudas and Oaxacan markets"
+      ],
+      "es": [
+        "Bienvenida con refrigerios mexicanos a la llegada",
+        "Paseo en trajinera por Xochimilco con comida tradicional a bordo",
+        "Dulces de mercado en Coyoacán y contexto de gastronomía prehispánica",
+        "Pulque y experiencias de degustación de temporada cerca de Teotihuacán",
+        "Experiencia de cocina de mole o chile en nogada en Puebla",
+        "Mezcal, chapulines, mole negro, tlayudas y mercados oaxaqueños"
+      ],
+      "fr": [
+        "Accueil avec rafraîchissements mexicains à l’arrivée",
+        "Balade en trajinera à Xochimilco avec déjeuner traditionnel à bord",
+        "Douceurs du marché de Coyoacán et contexte de la gastronomie préhispanique",
+        "Pulque et dégustations de saison près de Teotihuacán",
+        "Expérience culinaire autour du mole ou du chile en nogada à Puebla",
+        "Mezcal, sauterelles, mole noir, tlayudas et marchés oaxaquéniens"
+      ]
+    },
+    "included": {
+      "en": [
+        "Foodie guide experiences according to the itinerary",
+        "Traditional tastings mentioned in the program",
+        "Lunches and dinners where specified",
+        "Suggested for groups of maximum 10 people"
+      ],
+      "es": [
+        "Experiencias con guía gastronómico según el itinerario",
+        "Degustaciones tradicionales mencionadas en el programa",
+        "Comidas y cenas donde se especifica",
+        "Recomendado para grupos de máximo 10 personas"
+      ],
+      "fr": [
+        "Expériences avec guide gastronomique selon l’itinéraire",
+        "Dégustations traditionnelles mentionnées dans le programme",
+        "Déjeuners et dîners lorsque indiqué",
+        "Recommandé pour des groupes de 10 personnes maximum"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "location": {
+          "en": "Arrival – Mexico City",
+          "es": "Llegada – Ciudad de México",
+          "fr": "Arrivée – Mexico"
+        },
+        "narrative": {
+          "en": [
+            "Arrive in Mexico City. Mexican refreshments await at the hotel: guacamole, chips, Mexican cheese, local beer and seasonal fruit."
+          ],
+          "es": [
+            "Llegada a la Ciudad de México. Refrigerios mexicanos esperan en el hotel: guacamole, totopos, queso mexicano, cerveza local y fruta de temporada."
+          ],
+          "fr": [
+            "Arrivée à Mexico. Des rafraîchissements mexicains attendent à l’hôtel : guacamole, chips, fromage mexicain, bière locale et fruits de saison."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 2,
+        "location": {
+          "en": "Mexico City – City Tour – Xochimilco",
+          "es": "Ciudad de México – Recorrido por la Ciudad – Xochimilco",
+          "fr": "Mexico – Visite de la ville – Xochimilco"
+        },
+        "narrative": {
+          "en": [
+            "Visit the Anthropology Museum for an introduction to pre-Hispanic gastronomy and agriculture.",
+            "Ride through Xochimilco on a trajinera with traditional lunch on board, then stop at the Coyoacán market for traditional Mexican candies."
+          ],
+          "es": [
+            "Visita al Museo de Antropología para una introducción a la gastronomía y agricultura prehispánicas.",
+            "Paseo en trajinera por Xochimilco con comida tradicional a bordo, con parada en el mercado de Coyoacán para probar dulces mexicanos tradicionales."
+          ],
+          "fr": [
+            "Visite du Musée d’anthropologie pour une introduction à la gastronomie et à l’agriculture préhispaniques.",
+            "Balade en trajinera à Xochimilco avec déjeuner traditionnel à bord, puis arrêt au marché de Coyoacán pour déguster des bonbons mexicains traditionnels."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 3,
+        "location": {
+          "en": "Mexico City – Teotihuacán – Puebla",
+          "es": "Ciudad de México – Teotihuacán – Puebla",
+          "fr": "Mexico – Teotihuacán – Puebla"
+        },
+        "narrative": {
+          "en": [
+            "Visit Teotihuacán, with seasonal worm tasting during the rainy season and pulque tasting from maguey leaves.",
+            "Continue to Puebla for the night."
+          ],
+          "es": [
+            "Visita a Teotihuacán, con degustación de gusanos de temporada durante la época de lluvias y cata de pulque a partir de hojas de maguey.",
+            "Continuación hacia Puebla para pernoctar."
+          ],
+          "fr": [
+            "Visite de Teotihuacán, avec dégustation saisonnière de vers durant la saison des pluies et dégustation de pulque à partir de feuilles d’agave.",
+            "Poursuite vers Puebla pour la nuit."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 4,
+        "location": {
+          "en": "Puebla – Veracruz",
+          "es": "Puebla – Veracruz",
+          "fr": "Puebla – Veracruz"
+        },
+        "narrative": {
+          "en": [
+            "In Puebla, learn to prepare mole with its blend of Indigenous and Spanish ingredients, or chile en nogada from July to September.",
+            "Visit the main square, Cathedral and Rosario Chapel, then continue to Veracruz for a traditional dinner and possible Danzón night in the Zócalo."
+          ],
+          "es": [
+            "En Puebla, aprenda a preparar mole con su mezcla de ingredientes indígenas y españoles, o chile en nogada de julio a septiembre.",
+            "Visita a la plaza principal, la Catedral y la Capilla del Rosario, y continuación hacia Veracruz para una cena tradicional y posible noche de danzón en el Zócalo."
+          ],
+          "fr": [
+            "À Puebla, apprenez à préparer le mole avec son mélange d’ingrédients indigènes et espagnols, ou le chile en nogada de juillet à septembre.",
+            "Visite de la place principale, de la cathédrale et de la chapelle du Rosaire, puis poursuite vers Veracruz pour un dîner traditionnel et une possible soirée de danzón sur le Zócalo."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 5,
+        "location": {
+          "en": "Veracruz – Tlacotalpan – Oaxaca",
+          "es": "Veracruz – Tlacotalpan – Oaxaca",
+          "fr": "Veracruz – Tlacotalpan – Oaxaca"
+        },
+        "narrative": {
+          "en": [
+            "Visit Tlacotalpan and taste local sweets such as oranges stuffed with coconut or fresh bread with coffee.",
+            "Stop in Calpulalpam de Méndez for lunch in the local market and continue toward Oaxaca with roadside tastings, grasshoppers with guacamole and mezcal."
+          ],
+          "es": [
+            "Visita a Tlacotalpan y degustación de dulces locales como naranjas rellenas de coco o pan fresco con café.",
+            "Parada en Calpulalpam de Méndez para almorzar en el mercado local y continuación hacia Oaxaca con degustaciones en el camino, chapulines con guacamole y mezcal."
+          ],
+          "fr": [
+            "Visite de Tlacotalpan et dégustation de douceurs locales comme les oranges fourrées à la noix de coco ou le pain frais accompagné de café.",
+            "Arrêt à Calpulalpam de Méndez pour déjeuner au marché local, puis poursuite vers Oaxaca avec dégustations en chemin, sauterelles au guacamole et mezcal."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 6,
+        "location": {
+          "en": "Oaxaca",
+          "es": "Oaxaca",
+          "fr": "Oaxaca"
+        },
+        "narrative": {
+          "en": [
+            "Visit Monte Albán, enjoy lunch in an open-air traditional restaurant and taste black mole and tlayudas.",
+            "Continue to San Martín Tilcajete to see artisans making alebrijes, then return to Oaxaca City and Santo Domingo Church."
+          ],
+          "es": [
+            "Visita a Monte Albán, almuerzo en un restaurante tradicional al aire libre y degustación de mole negro y tlayudas.",
+            "Continuación hacia San Martín Tilcajete para ver a los artesanos elaborar alebrijes, y regreso a la ciudad de Oaxaca para visitar el Templo de Santo Domingo."
+          ],
+          "fr": [
+            "Visite de Monte Albán, déjeuner dans un restaurant traditionnel en plein air et dégustation de mole noir et de tlayudas.",
+            "Poursuite vers San Martín Tilcajete pour observer les artisans fabriquer des alebrijes, puis retour à Oaxaca pour visiter l’église de Santo Domingo."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 7,
+        "location": {
+          "en": "Oaxaca – Tlacolula / Teotitlán del Valle",
+          "es": "Oaxaca – Tlacolula / Teotitlán del Valle",
+          "fr": "Oaxaca – Tlacolula / Teotitlán del Valle"
+        },
+        "narrative": {
+          "en": [
+            "Visit the colorful Tlacolula Sunday market and Teotitlán del Valle.",
+            "Lunch in Santa María del Tule with caldo de piedra, or stone soup, prepared by the Velasco family tradition."
+          ],
+          "es": [
+            "Visita al colorido mercado dominical de Tlacolula y a Teotitlán del Valle.",
+            "Almuerzo en Santa María del Tule con caldo de piedra, preparado según la tradición de la familia Velasco."
+          ],
+          "fr": [
+            "Visite du marché dominical haut en couleur de Tlacolula et de Teotitlán del Valle.",
+            "Déjeuner à Santa María del Tule avec le caldo de piedra, ou soupe de pierre, préparé selon la tradition de la famille Velasco."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 8,
+        "location": {
+          "en": "Oaxaca – Departure",
+          "es": "Oaxaca – Salida",
+          "fr": "Oaxaca – Départ"
+        },
+        "narrative": {
+          "en": [
+            "Transfer to the airport for a connecting flight to Mexico City and onward flight home."
+          ],
+          "es": [
+            "Traslado al aeropuerto para vuelo de conexión a la Ciudad de México y vuelo de regreso."
+          ],
+          "fr": [
+            "Transfert vers l’aéroport pour un vol de correspondance à Mexico et le vol retour."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "slug": "incentives",
+    "collection": {
+      "en": "Incentives",
+      "es": "Incentivos",
+      "fr": "Voyages de Motivation"
+    },
+    "title": {
+      "en": "Incentive Travel in Mexico",
+      "es": "Viajes de Incentivo en México",
+      "fr": "Voyages de Motivation au Mexique"
+    },
+    "duration": {
+      "en": "Custom Program",
+      "es": "Programa a la medida",
+      "fr": "Programme sur mesure"
+    },
+    "summary": {
+      "en": "Creative incentive travel programs in Mexico with memorable experiences, event logistics and destination expertise.",
+      "es": "Programas creativos de viajes de incentivo en México con experiencias memorables, logística de eventos y conocimiento experto del destino.",
+      "fr": "Des programmes créatifs de voyages de motivation au Mexique, avec des expériences mémorables, une logistique d’événements et une expertise approfondie de la destination."
+    },
+    "description": {
+      "en": "Mexico is an excellent destination for incentive travel thanks to its tourism infrastructure and experience hosting international events. Alico Tours supports creative ideas, logistics, destination knowledge and memorable experiences for corporate groups.",
+      "es": "México es un destino excelente para viajes de incentivo gracias a su infraestructura turística y su experiencia organizando eventos internacionales. Alico Tours aporta ideas creativas, logística, conocimiento del destino y experiencias memorables para grupos corporativos.",
+      "fr": "Le Mexique est une destination idéale pour les voyages de motivation grâce à ses infrastructures touristiques et à son expérience dans l’organisation d’événements internationaux. Alico Tours propose des idées créatives, une logistique complète, une connaissance fine de la destination et des expériences mémorables pour les groupes d’entreprise."
+    },
+    "heroImage": "/images/handpicked-travel/incentive_teotihuacan-705x705.jpg",
+    "gallery": [
+      "/images/handpicked-travel/incentive_teotihuacan-705x705.jpg",
+      "/images/handpicked-travel/incentive_diamuertos-705x705.jpg",
+      "/images/handpicked-travel/incentive_mariachi-705x705.jpg",
+      "/images/handpicked-travel/Cena-de-gala-incentivos-705x705.jpg",
+      "/images/handpicked-travel/Eventos-especiales-Incentivos-705x705.jpg"
+    ],
+    "highlights": {
+      "en": [
+        "Hot air balloon flight in Teotihuacán",
+        "Theme parties",
+        "Local musicians",
+        "Gala dinners",
+        "Special events"
+      ],
+      "es": [
+        "Vuelo en globo aerostático en Teotihuacán",
+        "Fiestas temáticas",
+        "Músicos locales",
+        "Cenas de gala",
+        "Eventos especiales"
+      ],
+      "fr": [
+        "Vol en montgolfière à Teotihuacán",
+        "Soirées à thème",
+        "Musiciens locaux",
+        "Dîners de gala",
+        "Événements spéciaux"
+      ]
+    },
+    "included": {
+      "en": [
+        "Custom DMC planning",
+        "Creative incentive concepts",
+        "Ground logistics",
+        "Event coordination support",
+        "Specialist assistance"
+      ],
+      "es": [
+        "Planeación DMC a la medida",
+        "Conceptos creativos de incentivo",
+        "Logística en destino",
+        "Apoyo en coordinación de eventos",
+        "Asistencia especializada"
+      ],
+      "fr": [
+        "Planification DMC sur mesure",
+        "Concepts créatifs de motivation",
+        "Logistique terrestre",
+        "Soutien à la coordination d’événements",
+        "Assistance spécialisée"
+      ]
+    },
+    "itinerary": []
+  },
+  {
+    "slug": "weddings",
+    "collection": {
+      "en": "Weddings",
+      "es": "Bodas",
+      "fr": "Mariages"
+    },
+    "title": {
+      "en": "Weddings & Honeymooners Program",
+      "es": "Programa de Bodas y Luna de Miel",
+      "fr": "Programme Mariages et Lune de Miel"
+    },
+    "duration": {
+      "en": "Custom Weddings / 8-Day Honeymoon Program",
+      "es": "Bodas a la medida / Programa de luna de miel de 8 días",
+      "fr": "Mariages sur mesure / Programme lune de miel de 8 jours"
+    },
+    "summary": {
+      "en": "Romantic wedding celebrations, Mayan ceremonies, Xcaret venues and a private honeymoon route through the Yucatán Peninsula.",
+      "es": "Celebraciones de boda románticas, ceremonias mayas, sedes en Xcaret y una ruta privada de luna de miel por la Península de Yucatán.",
+      "fr": "Des célébrations de mariage romantiques, des cérémonies mayas, des lieux de réception à Xcaret et un itinéraire privé de lune de miel à travers la péninsule du Yucatán."
+    },
+    "description": {
+      "en": "Mexico offers romantic scenery, luxury resorts, traditional ceremonies and unique celebration locations. This collection includes Mayan ceremony concepts, Xcaret wedding venues and an eight-day honeymooners program from Cancún through Chichén Itzá, Mérida, Celestún, haciendas, Valladolid and Tulum.",
+      "es": "México ofrece paisajes románticos, resorts de lujo, ceremonias tradicionales y locaciones únicas para celebrar. Esta colección incluye conceptos de ceremonia maya, sedes de boda en Xcaret y un programa de luna de miel de ocho días desde Cancún pasando por Chichén Itzá, Mérida, Celestún, haciendas, Valladolid y Tulum.",
+      "fr": "Le Mexique offre des paysages romantiques, des resorts de luxe, des cérémonies traditionnelles et des lieux de célébration uniques. Cette collection comprend des concepts de cérémonie maya, des lieux de mariage à Xcaret et un programme de lune de miel de huit jours depuis Cancún, en passant par Chichén Itzá, Mérida, Celestún, des haciendas, Valladolid et Tulum."
+    },
+    "heroImage": "/images/handpicked-travel/alico_maya_boda.jpg",
+    "gallery": [
+      "/images/handpicked-travel/alico_maya_boda.jpg",
+      "/images/handpicked-travel/alico_boda_xcaret.jpg",
+      "/images/handpicked-travel/xcaret_pool_wedding.jpg",
+      "/images/handpicked-travel/honey_galeria_alico_01.jpg",
+      "/images/handpicked-travel/cenote-samulayucatan-alico-mexico.jpg",
+      "/images/handpicked-travel/honey_galeria_alico_02.jpg",
+      "/images/handpicked-travel/honey_galeria_alico_04.jpg",
+      "/images/handpicked-travel/honey_galeria_alico_05.jpg",
+      "/images/handpicked-travel/honey_galeria_alico_06.jpg"
+    ],
+    "highlights": {
+      "en": [
+        "Mayan ceremony with pre-Hispanic priest or shaman",
+        "Xcaret wine cellar and natural pool venues",
+        "Romantic Yucatán honeymoon route",
+        "Cenotes, haciendas and Mayan archaeological sites",
+        "Private services and selected romantic stays"
+      ],
+      "es": [
+        "Ceremonia maya con sacerdote o chamán prehispánico",
+        "Cava de vinos y sedes de alberca natural en Xcaret",
+        "Romántica ruta de luna de miel por Yucatán",
+        "Cenotes, haciendas y sitios arqueológicos mayas",
+        "Servicios privados y estancias románticas seleccionadas"
+      ],
+      "fr": [
+        "Cérémonie maya avec prêtre ou chaman préhispanique",
+        "Cave à vin et lieux de réception en piscine naturelle à Xcaret",
+        "Itinéraire romantique de lune de miel à travers le Yucatán",
+        "Cénotes, haciendas et sites archéologiques mayas",
+        "Services privés et séjours romantiques sélectionnés"
+      ]
+    },
+    "included": {
+      "en": [
+        "Wedding and ceremony planning assistance",
+        "Venue coordination according to availability",
+        "Private services for the honeymoon program",
+        "Romantic experiences listed in the itinerary",
+        "Specialist support for legal wedding requirements"
+      ],
+      "es": [
+        "Asistencia en la planeación de la boda y la ceremonia",
+        "Coordinación de la sede según disponibilidad",
+        "Servicios privados para el programa de luna de miel",
+        "Experiencias románticas indicadas en el itinerario",
+        "Apoyo especializado para los requisitos legales de la boda"
+      ],
+      "fr": [
+        "Assistance pour la planification du mariage et de la cérémonie",
+        "Coordination du lieu selon disponibilité",
+        "Services privés pour le programme de lune de miel",
+        "Expériences romantiques indiquées dans l’itinéraire",
+        "Accompagnement spécialisé pour les démarches légales du mariage"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "location": {
+          "en": "Arrival – Cancún",
+          "es": "Llegada – Cancún",
+          "fr": "Arrivée – Cancún"
+        },
+        "narrative": {
+          "en": [
+            "Arrive at Cancún airport, enjoy a welcome dinner and overnight."
+          ],
+          "es": [
+            "Llegada al aeropuerto de Cancún, cena de bienvenida y pernocta."
+          ],
+          "fr": [
+            "Arrivée à l’aéroport de Cancún, dîner de bienvenue et nuitée."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 2,
+        "location": {
+          "en": "Cancún – Ek Balam – Chichén Itzá",
+          "es": "Cancún – Ek Balam – Chichén Itzá",
+          "fr": "Cancún – Ek Balam – Chichén Itzá"
+        },
+        "narrative": {
+          "en": [
+            "Visit Ek Balam and continue to Chichén Itzá, including the light and sound show."
+          ],
+          "es": [
+            "Visita a Ek Balam y continuación hacia Chichén Itzá, incluyendo el espectáculo de luz y sonido."
+          ],
+          "fr": [
+            "Visite d’Ek Balam, puis poursuite vers Chichén Itzá, avec le spectacle son et lumière."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 3,
+        "location": {
+          "en": "Chichén Itzá – Izamal – Mérida",
+          "es": "Chichén Itzá – Izamal – Mérida",
+          "fr": "Chichén Itzá – Izamal – Mérida"
+        },
+        "narrative": {
+          "en": [
+            "Visit Izamal, enjoy a calesa ride, continue to Mérida and dine at Ek Chuah.",
+            "Overnight at Rosas y Xocolate with a chocolate treatment using pure Mayan cocoa."
+          ],
+          "es": [
+            "Visita a Izamal, paseo en calesa, continuación hacia Mérida y cena en Ek Chuah.",
+            "Pernocta en Rosas y Xocolate con tratamiento de chocolate elaborado con cacao maya puro."
+          ],
+          "fr": [
+            "Visite d’Izamal, balade en calèche, poursuite vers Mérida et dîner chez Ek Chuah.",
+            "Nuitée à Rosas y Xocolate avec un soin au chocolat à base de cacao maya pur."
+          ]
+        },
+        "stay": {
+          "hotel": {
+            "en": "Rosas y Xocolate",
+            "es": "Rosas y Xocolate",
+            "fr": "Rosas y Xocolate"
+          },
+          "tag": {
+            "en": "Romantic Boutique",
+            "es": "Romantic Boutique",
+            "fr": "Romantic Boutique"
+          },
+          "description": {
+            "en": "A romantic Mérida property designed around roses and chocolate.",
+            "es": "Una propiedad romántica en Mérida diseñada en torno a las rosas y el chocolate.",
+            "fr": "Un établissement romantique à Mérida conçu autour des roses et du chocolat."
+          },
+          "room": {
+            "en": "Room according to availability",
+            "es": "Room according to availability",
+            "fr": "Room according to availability"
+          },
+          "image": "/images/handpicked-travel/honey_galeria_alico_02.jpg"
+        },
+        "optional": null
+      },
+      {
+        "day": 4,
+        "location": {
+          "en": "Mérida – Celestún",
+          "es": "Mérida – Celestún",
+          "fr": "Mérida – Celestún"
+        },
+        "narrative": {
+          "en": [
+            "Visit the Celestún Biosphere Reserve and take a boat ride through the reserve.",
+            "Continue to Hotel Xixim for lunch and leisure in a romantic beachfront Mayan bungalow."
+          ],
+          "es": [
+            "Visita a la Reserva de la Biosfera de Celestún y paseo en lancha por la reserva.",
+            "Continuación hacia el Hotel Xixim para almorzar y disfrutar de un romántico bungaló maya frente al mar."
+          ],
+          "fr": [
+            "Visite de la réserve de biosphère de Celestún et balade en bateau dans la réserve.",
+            "Poursuite vers l’Hotel Xixim pour déjeuner et profiter d’un romantique bungalow maya en bord de mer."
+          ]
+        },
+        "stay": {
+          "hotel": {
+            "en": "Hotel Xixim",
+            "es": "Hotel Xixim",
+            "fr": "Hotel Xixim"
+          },
+          "tag": {
+            "en": "Beachfront Nature Stay",
+            "es": "Beachfront Nature Stay",
+            "fr": "Beachfront Nature Stay"
+          },
+          "description": {
+            "en": "A beachfront stay surrounded by tropical birds and gentle waves.",
+            "es": "Una estancia frente al mar rodeada de aves tropicales y olas tranquilas.",
+            "fr": "Un séjour en bord de mer entouré d’oiseaux tropicaux et de vagues douces."
+          },
+          "room": {
+            "en": "Mayan bungalow",
+            "es": "Mayan bungalow",
+            "fr": "Mayan bungalow"
+          },
+          "image": "/images/handpicked-travel/honey_galeria_alico_04.jpg"
+        },
+        "optional": null
+      },
+      {
+        "day": 5,
+        "location": {
+          "en": "Celestún – Hacienda Temozón",
+          "es": "Celestún – Hacienda Temozón",
+          "fr": "Celestún – Hacienda Temozón"
+        },
+        "narrative": {
+          "en": [
+            "Experience an authentic Mexican hacienda, enjoy a couples massage at Hol-Be Spa and a romantic private dinner."
+          ],
+          "es": [
+            "Experiencia auténtica en una hacienda mexicana, masaje en pareja en el Hol-Be Spa y cena romántica privada."
+          ],
+          "fr": [
+            "Une expérience authentique dans une hacienda mexicaine, massage en couple au Hol-Be Spa et dîner romantique privé."
+          ]
+        },
+        "stay": {
+          "hotel": {
+            "en": "Hacienda Temozón",
+            "es": "Hacienda Temozón",
+            "fr": "Hacienda Temozón"
+          },
+          "tag": {
+            "en": "Historic Hacienda",
+            "es": "Historic Hacienda",
+            "fr": "Historic Hacienda"
+          },
+          "description": {
+            "en": "A historic hacienda with spa experiences and peaceful gardens.",
+            "es": "Una hacienda histórica con experiencias de spa y jardines apacibles.",
+            "fr": "Une hacienda historique offrant des expériences de spa et des jardins paisibles."
+          },
+          "room": {
+            "en": "Room according to availability",
+            "es": "Room according to availability",
+            "fr": "Room according to availability"
+          },
+          "image": "/images/handpicked-travel/honey_galeria_alico_05.jpg"
+        },
+        "optional": null
+      },
+      {
+        "day": 6,
+        "location": {
+          "en": "Temozón – Valladolid",
+          "es": "Temozón – Valladolid",
+          "fr": "Temozón – Valladolid"
+        },
+        "narrative": {
+          "en": [
+            "Take a bicycle ride in Valladolid, visit Cenotes Samulá and Xkekén, and enjoy lunch at Hacienda Selva Maya."
+          ],
+          "es": [
+            "Paseo en bicicleta por Valladolid, visita a los cenotes Samulá y Xkekén, y almuerzo en la Hacienda Selva Maya."
+          ],
+          "fr": [
+            "Balade à vélo à Valladolid, visite des cénotes Samulá et Xkekén, et déjeuner à la Hacienda Selva Maya."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 7,
+        "location": {
+          "en": "Valladolid – Tulum",
+          "es": "Valladolid – Tulum",
+          "fr": "Valladolid – Tulum"
+        },
+        "narrative": {
+          "en": [
+            "Day at leisure at Hotel Esencia, a refined luxury stay in Tulum."
+          ],
+          "es": [
+            "Día libre en el Hotel Esencia, una refinada estancia de lujo en Tulum."
+          ],
+          "fr": [
+            "Journée libre à l’Hotel Esencia, un séjour de luxe raffiné à Tulum."
+          ]
+        },
+        "stay": {
+          "hotel": {
+            "en": "Hotel Esencia",
+            "es": "Hotel Esencia",
+            "fr": "Hotel Esencia"
+          },
+          "tag": {
+            "en": "Luxury Beach Hotel",
+            "es": "Luxury Beach Hotel",
+            "fr": "Luxury Beach Hotel"
+          },
+          "description": {
+            "en": "A refined Tulum-area property with personal service and beach leisure.",
+            "es": "Una propiedad refinada en la zona de Tulum, con servicio personalizado y descanso de playa.",
+            "fr": "Un établissement raffiné dans la région de Tulum, avec service personnalisé et détente balnéaire."
+          },
+          "room": {
+            "en": "Room according to availability",
+            "es": "Room according to availability",
+            "fr": "Room according to availability"
+          },
+          "image": "/images/handpicked-travel/honey_galeria_alico_06.jpg"
+        },
+        "optional": null
+      },
+      {
+        "day": 8,
+        "location": {
+          "en": "Tulum – Cancún – Departure",
+          "es": "Tulum – Cancún – Salida",
+          "fr": "Tulum – Cancún – Départ"
+        },
+        "narrative": {
+          "en": [
+            "Transfer to Cancún airport for the flight home."
+          ],
+          "es": [
+            "Traslado al aeropuerto de Cancún para el vuelo de regreso."
+          ],
+          "fr": [
+            "Transfert vers l’aéroport de Cancún pour le vol retour."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "slug": "mexican-women-trails",
+    "collection": {
+      "en": "Mexican Women Trails",
+      "es": "Rutas de Mujeres Mexicanas",
+      "fr": "Routes des Femmes Mexicaines"
+    },
+    "title": {
+      "en": "Mexican Women Trails",
+      "es": "Rutas de Mujeres Mexicanas",
+      "fr": "Routes des Femmes Mexicaines"
+    },
+    "duration": {
+      "en": "7 Days / 6 Nights",
+      "es": "7 días / 6 noches",
+      "fr": "7 jours / 6 nuits"
+    },
+    "summary": {
+      "en": "A cultural route following the legacy of remarkable Mexican women in literature, art, photography, music and entrepreneurship.",
+      "es": "Una ruta cultural que sigue el legado de mujeres mexicanas notables en la literatura, el arte, la fotografía, la música y el emprendimiento.",
+      "fr": "Un itinéraire culturel qui retrace l’héritage de femmes mexicaines remarquables dans la littérature, l’art, la photographie, la musique et l’entrepreneuriat."
+    },
+    "description": {
+      "en": "This journey follows the stories of Sor Juana, Nahui Olin, Frida Kahlo, Dolores Olmedo, Consuelo Velázquez, Lola Álvarez Bravo, María Izquierdo and Brenda González Nieves through museums, galleries, historic towns and cultural sites.",
+      "es": "Este viaje sigue las historias de Sor Juana, Nahui Olin, Frida Kahlo, Dolores Olmedo, Consuelo Velázquez, Lola Álvarez Bravo, María Izquierdo y Brenda González Nieves a través de museos, galerías, pueblos históricos y sitios culturales.",
+      "fr": "Ce voyage suit les histoires de Sor Juana, Nahui Olin, Frida Kahlo, Dolores Olmedo, Consuelo Velázquez, Lola Álvarez Bravo, María Izquierdo et Brenda González Nieves à travers musées, galeries, villages historiques et sites culturels."
+    },
+    "heroImage": "/images/handpicked-travel/dolores2.jpg",
+    "gallery": [
+      "/images/handpicked-travel/10.jpg",
+      "/images/handpicked-travel/2-1.jpg",
+      "/images/handpicked-travel/3-1.jpg",
+      "/images/handpicked-travel/4-1.jpg",
+      "/images/handpicked-travel/6.jpg",
+      "/images/handpicked-travel/7-1.jpg",
+      "/images/handpicked-travel/8-1.jpg",
+      "/images/handpicked-travel/dolores2.jpg",
+      "/images/handpicked-travel/Imagen1.jpg"
+    ],
+    "highlights": {
+      "en": [
+        "Sor Juana and the Ex Convent of San Jerónimo",
+        "Frida Kahlo’s Blue House",
+        "Dolores Olmedo Museum",
+        "Consuelo Velázquez and Lake Chapala",
+        "Lola Álvarez Bravo and María Izquierdo heritage sites",
+        "Casa Dragones tequila project in San Miguel de Allende"
+      ],
+      "es": [
+        "Sor Juana y el Ex Convento de San Jerónimo",
+        "La Casa Azul de Frida Kahlo",
+        "Museo Dolores Olmedo",
+        "Consuelo Velázquez y el Lago de Chapala",
+        "Sitios del legado de Lola Álvarez Bravo y María Izquierdo",
+        "Proyecto de tequila Casa Dragones en San Miguel de Allende"
+      ],
+      "fr": [
+        "Sor Juana et l’ancien couvent de San Jerónimo",
+        "La Casa Azul de Frida Kahlo",
+        "Musée Dolores Olmedo",
+        "Consuelo Velázquez et le lac de Chapala",
+        "Sites du patrimoine de Lola Álvarez Bravo et María Izquierdo",
+        "Projet de tequila Casa Dragones à San Miguel de Allende"
+      ]
+    },
+    "included": {
+      "en": [
+        "Guided cultural visits according to itinerary",
+        "Museum and gallery visits listed in the program",
+        "Transfers between cities",
+        "Specialist cultural interpretation"
+      ],
+      "es": [
+        "Visitas culturales guiadas según el itinerario",
+        "Visitas a museos y galerías indicadas en el programa",
+        "Traslados entre ciudades",
+        "Interpretación cultural especializada"
+      ],
+      "fr": [
+        "Visites culturelles guidées selon l’itinéraire",
+        "Visites de musées et galeries indiquées dans le programme",
+        "Transferts entre les villes",
+        "Interprétation culturelle spécialisée"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "location": {
+          "en": "Sor Juana – Nahui Olin – Frida Kahlo – Dolores Olmedo",
+          "es": "Sor Juana – Nahui Olin – Frida Kahlo – Dolores Olmedo",
+          "fr": "Sor Juana – Nahui Olin – Frida Kahlo – Dolores Olmedo"
+        },
+        "narrative": {
+          "en": [
+            "Visit López de Quiroga Gallery, MUNAL, the Ex Convent of San Jerónimo, the Woman Museum, Frida Kahlo’s Casa Azul and the Dolores Olmedo Museum."
+          ],
+          "es": [
+            "Visita a la Galería López de Quiroga, el MUNAL, el Ex Convento de San Jerónimo, el Museo de la Mujer, la Casa Azul de Frida Kahlo y el Museo Dolores Olmedo."
+          ],
+          "fr": [
+            "Visite de la galerie López de Quiroga, du MUNAL, de l’ancien couvent de San Jerónimo, du Musée de la Femme, de la Casa Azul de Frida Kahlo et du Musée Dolores Olmedo."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 2,
+        "location": {
+          "en": "Sor Juana – Tlalmanalco / Nepantla",
+          "es": "Sor Juana – Tlalmanalco / Nepantla",
+          "fr": "Sor Juana – Tlalmanalco / Nepantla"
+        },
+        "narrative": {
+          "en": [
+            "Visit churches and sanctuaries connected to Sor Juana and the Sor Juana Museum at Hacienda Panoaya. Overnight in Nepantla."
+          ],
+          "es": [
+            "Visita a iglesias y santuarios vinculados a Sor Juana y al Museo Sor Juana en la Hacienda Panoaya. Pernocta en Nepantla."
+          ],
+          "fr": [
+            "Visite d’églises et de sanctuaires liés à Sor Juana et au musée Sor Juana à la Hacienda Panoaya. Nuitée à Nepantla."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 3,
+        "location": {
+          "en": "Tlalmanalco – Mexico City – Guadalajara",
+          "es": "Tlalmanalco – Ciudad de México – Guadalajara",
+          "fr": "Tlalmanalco – Mexico – Guadalajara"
+        },
+        "narrative": {
+          "en": [
+            "Transfer to Mexico City for the flight to Guadalajara, then visit the central square and cathedral."
+          ],
+          "es": [
+            "Traslado a la Ciudad de México para tomar el vuelo a Guadalajara, y visita a la plaza central y la catedral."
+          ],
+          "fr": [
+            "Transfert à Mexico pour le vol vers Guadalajara, puis visite de la place centrale et de la cathédrale."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 4,
+        "location": {
+          "en": "Consuelo Velázquez – Guadalajara – Chapala",
+          "es": "Consuelo Velázquez – Guadalajara – Chapala",
+          "fr": "Consuelo Velázquez – Guadalajara – Chapala"
+        },
+        "narrative": {
+          "en": [
+            "Walk the Chapala malecón, visit Lake Chapala and the Church of San Francisco de Asís, then continue to Ciudad Guzmán."
+          ],
+          "es": [
+            "Caminata por el malecón de Chapala, visita al Lago de Chapala y a la Iglesia de San Francisco de Asís, y continuación hacia Ciudad Guzmán."
+          ],
+          "fr": [
+            "Promenade sur le malecón de Chapala, visite du lac de Chapala et de l’église San Francisco de Asís, puis poursuite vers Ciudad Guzmán."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 5,
+        "location": {
+          "en": "Lola Álvarez Bravo – María Izquierdo",
+          "es": "Lola Álvarez Bravo – María Izquierdo",
+          "fr": "Lola Álvarez Bravo – María Izquierdo"
+        },
+        "narrative": {
+          "en": [
+            "Visit Lagos de Moreno, birthplace of Lola Álvarez Bravo, the Cultural House of María Izquierdo and San Juan de los Lagos."
+          ],
+          "es": [
+            "Visita a Lagos de Moreno, cuna de Lola Álvarez Bravo, a la Casa de Cultura de María Izquierdo y a San Juan de los Lagos."
+          ],
+          "fr": [
+            "Visite de Lagos de Moreno, ville natale de Lola Álvarez Bravo, de la Maison de la culture de María Izquierdo et de San Juan de los Lagos."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 6,
+        "location": {
+          "en": "The Tequila Woman – San Miguel de Allende",
+          "es": "La Mujer del Tequila – San Miguel de Allende",
+          "fr": "La Femme de la Tequila – San Miguel de Allende"
+        },
+        "narrative": {
+          "en": [
+            "Learn about Casa Dragones tequila and visit the artisan market and San Miguel Archangel Parish."
+          ],
+          "es": [
+            "Conozca el tequila Casa Dragones y visite el mercado de artesanías y la Parroquia de San Miguel Arcángel."
+          ],
+          "fr": [
+            "Découverte de la tequila Casa Dragones et visite du marché artisanal et de la paroisse San Miguel Arcángel."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 7,
+        "location": {
+          "en": "San Miguel de Allende – Mexico City – Departure",
+          "es": "San Miguel de Allende – Ciudad de México – Salida",
+          "fr": "San Miguel de Allende – Mexico – Départ"
+        },
+        "narrative": {
+          "en": [
+            "Depart to the airport for a connecting flight to Mexico City and onward flight home."
+          ],
+          "es": [
+            "Salida hacia el aeropuerto para vuelo de conexión a la Ciudad de México y vuelo de regreso."
+          ],
+          "fr": [
+            "Départ vers l’aéroport pour un vol de correspondance à Mexico et le vol retour."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "slug": "native-cultures",
+    "collection": {
+      "en": "Native Cultures",
+      "es": "Culturas Originarias",
+      "fr": "Cultures Autochtones"
+    },
+    "title": {
+      "en": "Native Cultures",
+      "es": "Culturas Originarias",
+      "fr": "Cultures Autochtones"
+    },
+    "duration": {
+      "en": "11 Days / 10 Nights",
+      "es": "11 días / 10 noches",
+      "fr": "11 jours / 10 nuits"
+    },
+    "summary": {
+      "en": "A route through Nahua, Totonac and Zapotec regions, combining markets, archaeological sites, villages, coffee, crafts and community stays.",
+      "es": "Una ruta por las regiones nahua, totonaca y zapoteca, combinando mercados, sitios arqueológicos, pueblos, café, artesanías y estancias comunitarias.",
+      "fr": "Un itinéraire à travers les régions nahua, totonaque et zapotèque, combinant marchés, sites archéologiques, villages, café, artisanat et séjours communautaires."
+    },
+    "description": {
+      "en": "This itinerary explores Indigenous heritage across Mexico City, Puebla, Cuetzalan, El Tajín, Papantla, Coatepec, Veracruz, Oaxaca and the Sierra Norte, highlighting Nahua, Totonac and Zapotec cultures.",
+      "es": "Este itinerario explora el patrimonio indígena de la Ciudad de México, Puebla, Cuetzalan, El Tajín, Papantla, Coatepec, Veracruz, Oaxaca y la Sierra Norte, destacando las culturas nahua, totonaca y zapoteca.",
+      "fr": "Cet itinéraire explore le patrimoine autochtone de Mexico, Puebla, Cuetzalan, El Tajín, Papantla, Coatepec, Veracruz, Oaxaca et la Sierra Norte, en mettant en lumière les cultures nahua, totonaque et zapotèque."
+    },
+    "heroImage": "/images/handpicked-travel/xochimilconahuasalico.jpg",
+    "gallery": [
+      "/images/handpicked-travel/xochimilconahuasalico.jpg",
+      "/images/handpicked-travel/papantlatotonacasalico.jpg",
+      "/images/handpicked-travel/totonacasalicomexico.jpg",
+      "/images/handpicked-travel/zapotecalicomexico.jpg",
+      "/images/handpicked-travel/EthnicgroupNahuasalico.jpg"
+    ],
+    "highlights": {
+      "en": [
+        "Xochimilco and Mexico City Historic Centre",
+        "Cholula and Puebla",
+        "Cuetzalan Magic Town",
+        "El Tajín and Papantla",
+        "Coffee tasting in Coatepec",
+        "Zapotec communities and Sierra Norte cabins"
+      ],
+      "es": [
+        "Xochimilco y el Centro Histórico de la Ciudad de México",
+        "Cholula y Puebla",
+        "Pueblo Mágico de Cuetzalan",
+        "El Tajín y Papantla",
+        "Cata de café en Coatepec",
+        "Comunidades zapotecas y cabañas en la Sierra Norte"
+      ],
+      "fr": [
+        "Xochimilco et le centre historique de Mexico",
+        "Cholula et Puebla",
+        "Pueblo Mágico de Cuetzalan",
+        "El Tajín et Papantla",
+        "Dégustation de café à Coatepec",
+        "Communautés zapotèques et cabanes dans la Sierra Norte"
+      ]
+    },
+    "included": {
+      "en": [
+        "Guided visits according to the itinerary",
+        "Community and cultural visits listed",
+        "Coffee tasting",
+        "Local transport and transfers",
+        "Cabin stay in Sierra Norte where indicated"
+      ],
+      "es": [
+        "Visitas guiadas según el itinerario",
+        "Visitas comunitarias y culturales indicadas",
+        "Cata de café",
+        "Transporte local y traslados",
+        "Estancia en cabañas en la Sierra Norte donde se indica"
+      ],
+      "fr": [
+        "Visites guidées selon l’itinéraire",
+        "Visites communautaires et culturelles indiquées",
+        "Dégustation de café",
+        "Transport local et transferts",
+        "Séjour en cabane dans la Sierra Norte lorsque indiqué"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "location": {
+          "en": "Mexico City – Xochimilco",
+          "es": "Ciudad de México – Xochimilco",
+          "fr": "Mexico – Xochimilco"
+        },
+        "narrative": {
+          "en": [
+            "Nahua heritage introduction, Mexico City Historic Centre, Xochimilco trajinera ride and local market."
+          ],
+          "es": [
+            "Introducción al patrimonio nahua, Centro Histórico de la Ciudad de México, paseo en trajinera por Xochimilco y mercado local."
+          ],
+          "fr": [
+            "Introduction au patrimoine nahua, centre historique de Mexico, balade en trajinera à Xochimilco et marché local."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 2,
+        "location": {
+          "en": "Mexico City – Puebla",
+          "es": "Ciudad de México – Puebla",
+          "fr": "Mexico – Puebla"
+        },
+        "narrative": {
+          "en": [
+            "Visit Cholula, the Great Pyramid, the church of Nuestra Señora de los Remedios, Puebla Cathedral, Rosario Chapel and Library."
+          ],
+          "es": [
+            "Visita a Cholula, la Gran Pirámide, la iglesia de Nuestra Señora de los Remedios, la Catedral de Puebla, la Capilla del Rosario y la Biblioteca."
+          ],
+          "fr": [
+            "Visite de Cholula, de la Grande Pyramide, de l’église Nuestra Señora de los Remedios, de la cathédrale de Puebla, de la chapelle du Rosaire et de la bibliothèque."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 3,
+        "location": {
+          "en": "Puebla – Cuetzalan Magic Town",
+          "es": "Puebla – Pueblo Mágico de Cuetzalan",
+          "fr": "Puebla – Pueblo Mágico de Cuetzalan"
+        },
+        "narrative": {
+          "en": [
+            "Transfer to Cuetzalan Magic Town and the hotel."
+          ],
+          "es": [
+            "Traslado al Pueblo Mágico de Cuetzalan y al hotel."
+          ],
+          "fr": [
+            "Transfert vers le Pueblo Mágico de Cuetzalan et l’hôtel."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 4,
+        "location": {
+          "en": "Cuetzalan – El Tajín – Papantla",
+          "es": "Cuetzalan – El Tajín – Papantla",
+          "fr": "Cuetzalan – El Tajín – Papantla"
+        },
+        "narrative": {
+          "en": [
+            "Visit El Tajín archaeological site and continue to Papantla, known for vanilla and the Voladores de Papantla."
+          ],
+          "es": [
+            "Visita al sitio arqueológico de El Tajín y continuación hacia Papantla, conocida por la vainilla y los Voladores de Papantla."
+          ],
+          "fr": [
+            "Visite du site archéologique d’El Tajín, puis poursuite vers Papantla, réputée pour la vanille et les Voladores de Papantla."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 5,
+        "location": {
+          "en": "Papantla – Coatepec",
+          "es": "Papantla – Coatepec",
+          "fr": "Papantla – Coatepec"
+        },
+        "narrative": {
+          "en": [
+            "Travel to Coatepec, a Magic Town, and enjoy coffee tasting at a coffee estate."
+          ],
+          "es": [
+            "Viaje a Coatepec, Pueblo Mágico, y degustación de café en una finca cafetalera."
+          ],
+          "fr": [
+            "Trajet vers Coatepec, Pueblo Mágico, et dégustation de café dans une plantation caféière."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 6,
+        "location": {
+          "en": "Coatepec – Veracruz",
+          "es": "Coatepec – Veracruz",
+          "fr": "Coatepec – Veracruz"
+        },
+        "narrative": {
+          "en": [
+            "Visit Veracruz, walk the main square and see the important port."
+          ],
+          "es": [
+            "Visita a Veracruz, paseo por la plaza principal y el importante puerto."
+          ],
+          "fr": [
+            "Visite de Veracruz, promenade sur la place principale et découverte de l’important port."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 7,
+        "location": {
+          "en": "Veracruz – Tehuacán – Oaxaca",
+          "es": "Veracruz – Tehuacán – Oaxaca",
+          "fr": "Veracruz – Tehuacán – Oaxaca"
+        },
+        "narrative": {
+          "en": [
+            "Stop in Tehuacán, visit the Municipal Palace and continue to Oaxaca."
+          ],
+          "es": [
+            "Parada en Tehuacán, visita al Palacio Municipal y continuación hacia Oaxaca."
+          ],
+          "fr": [
+            "Arrêt à Tehuacán, visite du palais municipal, puis poursuite vers Oaxaca."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 8,
+        "location": {
+          "en": "Oaxaca – Sierra Norte",
+          "es": "Oaxaca – Sierra Norte",
+          "fr": "Oaxaca – Sierra Norte"
+        },
+        "narrative": {
+          "en": [
+            "Visit Tlacolula market and Teotitlán del Valle, then continue to Latuvi for a community cabin overnight."
+          ],
+          "es": [
+            "Visita al mercado de Tlacolula y a Teotitlán del Valle, y continuación hacia Latuvi para pernoctar en cabañas comunitarias."
+          ],
+          "fr": [
+            "Visite du marché de Tlacolula et de Teotitlán del Valle, puis poursuite vers Latuvi pour une nuitée en cabane communautaire."
+          ]
+        },
+        "stay": {
+          "hotel": {
+            "en": "Community cabins in Latuvi",
+            "es": "Community cabins in Latuvi",
+            "fr": "Community cabins in Latuvi"
+          },
+          "tag": {
+            "en": "Community Stay",
+            "es": "Community Stay",
+            "fr": "Community Stay"
+          },
+          "description": {
+            "en": "Simple cabins attended by local people in the Sierra Norte.",
+            "es": "Cabañas sencillas atendidas por la comunidad local en la Sierra Norte.",
+            "fr": "Cabanes simples gérées par la communauté locale dans la Sierra Norte."
+          },
+          "room": {
+            "en": "Cabin",
+            "es": "Cabin",
+            "fr": "Cabin"
+          },
+          "image": "/images/handpicked-travel/zapotecalicomexico.jpg"
+        },
+        "optional": null
+      },
+      {
+        "day": 9,
+        "location": {
+          "en": "Sierra Norte",
+          "es": "Sierra Norte",
+          "fr": "Sierra Norte"
+        },
+        "narrative": {
+          "en": [
+            "Hiking tour to El Molcajete waterfall, with regional agriculture, trout farm and forest trail."
+          ],
+          "es": [
+            "Caminata hacia la cascada El Molcajete, con paisajes de agricultura regional, criadero de truchas y sendero forestal."
+          ],
+          "fr": [
+            "Randonnée vers la cascade El Molcajete, à travers l’agriculture régionale, une ferme piscicole de truites et un sentier forestier."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 10,
+        "location": {
+          "en": "Sierra Norte – Oaxaca",
+          "es": "Sierra Norte – Oaxaca",
+          "fr": "Sierra Norte – Oaxaca"
+        },
+        "narrative": {
+          "en": [
+            "Return to Oaxaca via the Mezcal route and visit Plaza de la Constitución, Government Palace, Cathedral, kiosk and Santo Domingo."
+          ],
+          "es": [
+            "Regreso a Oaxaca por la ruta del mezcal, con visita a la Plaza de la Constitución, el Palacio de Gobierno, la Catedral, el quiosco y Santo Domingo."
+          ],
+          "fr": [
+            "Retour à Oaxaca par la route du mezcal, avec visite de la Plaza de la Constitución, du palais du gouvernement, de la cathédrale, du kiosque et de Santo Domingo."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 11,
+        "location": {
+          "en": "Oaxaca – Departure",
+          "es": "Oaxaca – Salida",
+          "fr": "Oaxaca – Départ"
+        },
+        "narrative": {
+          "en": [
+            "Transfer to the airport for the flight home."
+          ],
+          "es": [
+            "Traslado al aeropuerto para el vuelo de regreso."
+          ],
+          "fr": [
+            "Transfert vers l’aéroport pour le vol retour."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "slug": "social-awareness",
+    "collection": {
+      "en": "Social Awareness",
+      "es": "Conciencia Social",
+      "fr": "Sensibilisation Sociale"
+    },
+    "title": {
+      "en": "Social Awareness",
+      "es": "Conciencia Social",
+      "fr": "Sensibilisation Sociale"
+    },
+    "duration": {
+      "en": "2 Days / 1 Night",
+      "es": "2 días / 1 noche",
+      "fr": "2 jours / 1 nuit"
+    },
+    "summary": {
+      "en": "A short community-based experience in Ek Balam village focused on local learning, participation and cultural exchange.",
+      "es": "Una breve experiencia comunitaria en el pueblo de Ek Balam, centrada en el aprendizaje local, la participación y el intercambio cultural.",
+      "fr": "Une brève expérience communautaire dans le village d’Ek Balam, axée sur l’apprentissage local, la participation et l’échange culturel."
+    },
+    "description": {
+      "en": "This program introduces travelers to Ek Balam village through local activities, cenote visits, hammock-making and a community improvement project before visiting the archaeological site.",
+      "es": "Este programa acerca a los viajeros al pueblo de Ek Balam a través de actividades locales, visitas a cenotes, elaboración de hamacas y un proyecto de mejora comunitaria, antes de visitar el sitio arqueológico.",
+      "fr": "Ce programme initie les voyageurs au village d’Ek Balam à travers des activités locales, des visites de cénotes, la confection de hamacs et un projet d’amélioration communautaire, avant la visite du site archéologique."
+    },
+    "heroImage": "/images/handpicked-travel/AcropolisEKBALAM.jpg",
+    "gallery": [
+      "/images/handpicked-travel/AcropolisEKBALAM.jpg",
+      "/images/handpicked-travel/cenoteyucatanxcanche.jpg",
+      "/images/handpicked-travel/Uj-.jpg"
+    ],
+    "highlights": {
+      "en": [
+        "Ek Balam village",
+        "Cenote Xcanché",
+        "Hammock-making activity",
+        "Community image-improvement project",
+        "Ek Balam archaeological site"
+      ],
+      "es": [
+        "Pueblo de Ek Balam",
+        "Cenote Xcanché",
+        "Actividad de elaboración de hamacas",
+        "Proyecto comunitario de mejora de imagen",
+        "Sitio arqueológico de Ek Balam"
+      ],
+      "fr": [
+        "Village d’Ek Balam",
+        "Cénote Xcanché",
+        "Atelier de fabrication de hamacs",
+        "Projet communautaire d’amélioration de l’image",
+        "Site archéologique d’Ek Balam"
+      ]
+    },
+    "included": {
+      "en": [
+        "Community visit and activities",
+        "Overnight in Uj-Nahil cabins",
+        "Archaeological site visit",
+        "Specialist coordination"
+      ],
+      "es": [
+        "Visita comunitaria y actividades",
+        "Pernocta en cabañas Uj-Nahil",
+        "Visita al sitio arqueológico",
+        "Coordinación especializada"
+      ],
+      "fr": [
+        "Visite communautaire et activités",
+        "Nuit dans les cabanes Uj-Nahil",
+        "Visite du site archéologique",
+        "Coordination spécialisée"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "location": {
+          "en": "Arrival – Ek Balam Village",
+          "es": "Llegada – Pueblo de Ek Balam",
+          "fr": "Arrivée – Village d’Ek Balam"
+        },
+        "narrative": {
+          "en": [
+            "Arrive in Ek Balam village, visit Cenote Xcanché and learn how to make hammocks. Overnight in Uj-Nahil cabins."
+          ],
+          "es": [
+            "Llegada al pueblo de Ek Balam, visita al cenote Xcanché y aprendizaje de elaboración de hamacas. Pernocta en cabañas Uj-Nahil."
+          ],
+          "fr": [
+            "Arrivée au village d’Ek Balam, visite du cénote Xcanché et apprentissage de la fabrication de hamacs. Nuitée dans les cabanes Uj-Nahil."
+          ]
+        },
+        "stay": {
+          "hotel": {
+            "en": "Uj-Nahil cabins",
+            "es": "Uj-Nahil cabins",
+            "fr": "Uj-Nahil cabins"
+          },
+          "tag": {
+            "en": "Community Cabins",
+            "es": "Community Cabins",
+            "fr": "Community Cabins"
+          },
+          "description": {
+            "en": "Simple local cabins in Ek Balam village.",
+            "es": "Cabañas locales sencillas en el pueblo de Ek Balam.",
+            "fr": "Cabanes locales simples dans le village d’Ek Balam."
+          },
+          "room": {
+            "en": "Cabin",
+            "es": "Cabin",
+            "fr": "Cabin"
+          },
+          "image": "/images/handpicked-travel/Uj-.jpg"
+        },
+        "optional": null
+      },
+      {
+        "day": 2,
+        "location": {
+          "en": "Ek Balam",
+          "es": "Ek Balam",
+          "fr": "Ek Balam"
+        },
+        "narrative": {
+          "en": [
+            "Participate in a local image-improvement project and visit the archaeological site of Ek Balam."
+          ],
+          "es": [
+            "Participación en un proyecto local de mejora de imagen y visita al sitio arqueológico de Ek Balam."
+          ],
+          "fr": [
+            "Participation à un projet local d’amélioration de l’image et visite du site archéologique d’Ek Balam."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "slug": "day-of-the-dead",
+    "collection": {
+      "en": "Day of the Dead",
+      "es": "Día de Muertos",
+      "fr": "Jour des Morts"
+    },
+    "title": {
+      "en": "Day of the Dead",
+      "es": "Día de Muertos",
+      "fr": "Jour des Morts"
+    },
+    "duration": {
+      "en": "9 Days / 8 Nights",
+      "es": "9 días / 8 noches",
+      "fr": "9 jours / 8 nuits"
+    },
+    "summary": {
+      "en": "A seasonal route through Mexico City, Querétaro, San Miguel de Allende, Morelia and Pátzcuaro during Día de Muertos.",
+      "es": "Una ruta de temporada por la Ciudad de México, Querétaro, San Miguel de Allende, Morelia y Pátzcuaro durante el Día de Muertos.",
+      "fr": "Un itinéraire saisonnier à travers Mexico, Querétaro, San Miguel de Allende, Morelia et Pátzcuaro pendant le Jour des Morts."
+    },
+    "description": {
+      "en": "This itinerary combines Mexico City museums, Frida Kahlo’s home, Xochimilco, Teotihuacán, tacos and lucha libre with the deeply atmospheric Day of the Dead traditions of Morelia and Pátzcuaro.",
+      "es": "Este itinerario combina los museos de la Ciudad de México, la Casa Azul de Frida Kahlo, Xochimilco, Teotihuacán, tacos y lucha libre con las tradiciones llenas de atmósfera del Día de Muertos en Morelia y Pátzcuaro.",
+      "fr": "Cet itinéraire combine les musées de Mexico, la Casa Azul de Frida Kahlo, Xochimilco, Teotihuacán, les tacos et la lucha libre avec les traditions empreintes d’atmosphère du Jour des Morts à Morelia et Pátzcuaro."
+    },
+    "heroImage": "/images/handpicked-travel/37293162944_7210065542_o.jpg",
+    "gallery": [
+      "/images/handpicked-travel/37293162944_7210065542_o.jpg",
+      "/images/handpicked-travel/37948808206_6c18430a99_o.jpg",
+      "/images/handpicked-travel/37948806886_5993f5199f_o.jpg",
+      "/images/handpicked-travel/37948806396_1d9bff42f9_o.jpg",
+      "/images/handpicked-travel/37948806146_1a759a8ac6_o.jpg"
+    ],
+    "highlights": {
+      "en": [
+        "Mexico City Day of the Dead parade atmosphere",
+        "Chapultepec Castle and Anthropology Museum",
+        "Frida Kahlo’s Casa Azul and Xochimilco",
+        "Teotihuacán, tacos al pastor and lucha libre",
+        "Night visits around Lake Pátzcuaro and cemeteries",
+        "Quiroga, Tzintzuntzan, Zirahuen and Santa Clara del Cobre"
+      ],
+      "es": [
+        "Ambiente del desfile de Día de Muertos en la Ciudad de México",
+        "Castillo de Chapultepec y Museo de Antropología",
+        "Casa Azul de Frida Kahlo y Xochimilco",
+        "Teotihuacán, tacos al pastor y lucha libre",
+        "Visitas nocturnas por el Lago de Pátzcuaro y panteones",
+        "Quiroga, Tzintzuntzan, Zirahuén y Santa Clara del Cobre"
+      ],
+      "fr": [
+        "Ambiance du défilé du Jour des Morts à Mexico",
+        "Château de Chapultepec et Musée d’anthropologie",
+        "Casa Azul de Frida Kahlo et Xochimilco",
+        "Teotihuacán, tacos al pastor et lucha libre",
+        "Visites nocturnes autour du lac de Pátzcuaro et des cimetières",
+        "Quiroga, Tzintzuntzan, Zirahuén et Santa Clara del Cobre"
+      ]
+    },
+    "included": {
+      "en": [
+        "Seasonal guided visits according to itinerary",
+        "Museum and cultural visits",
+        "Transfers between cities",
+        "Specialist Day of the Dead program coordination"
+      ],
+      "es": [
+        "Visitas guiadas de temporada según el itinerario",
+        "Visitas a museos y sitios culturales",
+        "Traslados entre ciudades",
+        "Coordinación especializada del programa de Día de Muertos"
+      ],
+      "fr": [
+        "Visites guidées saisonnières selon l’itinéraire",
+        "Visites de musées et de sites culturels",
+        "Transferts entre les villes",
+        "Coordination spécialisée du programme du Jour des Morts"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "location": {
+          "en": "Mexico City’s Castle – Day of the Dead Parade",
+          "es": "Castillo de la Ciudad de México – Desfile de Día de Muertos",
+          "fr": "Château de Mexico – Défilé du Jour des Morts"
+        },
+        "narrative": {
+          "en": [
+            "Visit National Palace, Zócalo, Metropolitan Cathedral, Postal Palace, Opera House, Anthropology Museum and Chapultepec Castle."
+          ],
+          "es": [
+            "Visita al Palacio Nacional, el Zócalo, la Catedral Metropolitana, el Palacio Postal, el Palacio de Bellas Artes y el Castillo de Chapultepec."
+          ],
+          "fr": [
+            "Visite du Palais national, du Zócalo, de la cathédrale métropolitaine, du Palais postal, du Palacio de Bellas Artes et du château de Chapultepec."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 2,
+        "location": {
+          "en": "Mexico City – Frida Kahlo’s Home – Xochimilco",
+          "es": "Ciudad de México – Casa Azul de Frida Kahlo – Xochimilco",
+          "fr": "Mexico – Casa Azul de Frida Kahlo – Xochimilco"
+        },
+        "narrative": {
+          "en": [
+            "Visit Coyoacán, buy local handcrafts, visit Frida Kahlo’s house, shop for sugar skulls in Xochimilco and take a boat ride."
+          ],
+          "es": [
+            "Visita a Coyoacán, compra de artesanías locales, visita a la Casa de Frida Kahlo, compra de calaveras de azúcar en Xochimilco y paseo en lancha."
+          ],
+          "fr": [
+            "Visite de Coyoacán, achat d’artisanat local, visite de la maison de Frida Kahlo, achat de têtes de mort en sucre à Xochimilco et balade en bateau."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 3,
+        "location": {
+          "en": "Ancient and Modern Mexico – Teotihuacán – Tacos and Lucha Libre",
+          "es": "México Antiguo y Moderno – Teotihuacán – Tacos y Lucha Libre",
+          "fr": "Mexique Ancien et Moderne – Teotihuacán – Tacos et Lucha Libre"
+        },
+        "narrative": {
+          "en": [
+            "Visit Teotihuacán, try tacos al pastor and attend Mexican wrestling on selected days."
+          ],
+          "es": [
+            "Visita a Teotihuacán, degustación de tacos al pastor y función de lucha libre en días seleccionados."
+          ],
+          "fr": [
+            "Visite de Teotihuacán, dégustation de tacos al pastor et spectacle de lucha libre certains jours."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 4,
+        "location": {
+          "en": "Mexico City – Peña de Bernal – Querétaro",
+          "es": "Ciudad de México – Peña de Bernal – Querétaro",
+          "fr": "Mexico – Peña de Bernal – Querétaro"
+        },
+        "narrative": {
+          "en": [
+            "Depart to Peña de Bernal, continue to Querétaro, visit and overnight."
+          ],
+          "es": [
+            "Salida hacia la Peña de Bernal, continuación hacia Querétaro, visita y pernocta."
+          ],
+          "fr": [
+            "Départ vers la Peña de Bernal, poursuite vers Querétaro, visite et nuitée."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 5,
+        "location": {
+          "en": "Querétaro – San Miguel de Allende – Morelia",
+          "es": "Querétaro – San Miguel de Allende – Morelia",
+          "fr": "Querétaro – San Miguel de Allende – Morelia"
+        },
+        "narrative": {
+          "en": [
+            "Visit San Miguel de Allende and the Santuario de Atotonilco, then continue to Morelia."
+          ],
+          "es": [
+            "Visita a San Miguel de Allende y al Santuario de Atotonilco, y continuación hacia Morelia."
+          ],
+          "fr": [
+            "Visite de San Miguel de Allende et du sanctuaire d’Atotonilco, puis poursuite vers Morelia."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 6,
+        "location": {
+          "en": "Morelia City",
+          "es": "Ciudad de Morelia",
+          "fr": "Ville de Morelia"
+        },
+        "narrative": {
+          "en": [
+            "City tour of Morelia historic centre, Tarascan fountain and handcraft centre."
+          ],
+          "es": [
+            "Recorrido por el centro histórico de Morelia, la fuente Tarasca y el centro de artesanías."
+          ],
+          "fr": [
+            "Visite du centre historique de Morelia, de la fontaine tarasque et du centre artisanal."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 7,
+        "location": {
+          "en": "Morelia – Pátzcuaro",
+          "es": "Morelia – Pátzcuaro",
+          "fr": "Morelia – Pátzcuaro"
+        },
+        "narrative": {
+          "en": [
+            "Visit Pátzcuaro village and take a night tour to Ihuatzio, Lake Pátzcuaro, Pacanda Island and local cemeteries."
+          ],
+          "es": [
+            "Visita al pueblo de Pátzcuaro y recorrido nocturno a Ihuatzio, el Lago de Pátzcuaro, la Isla Pacanda y panteones locales."
+          ],
+          "fr": [
+            "Visite du village de Pátzcuaro et excursion nocturne à Ihuatzio, sur le lac de Pátzcuaro, à l’île de Pacanda et dans les cimetières locaux."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 8,
+        "location": {
+          "en": "Pátzcuaro",
+          "es": "Pátzcuaro",
+          "fr": "Pátzcuaro"
+        },
+        "narrative": {
+          "en": [
+            "Visit Quiroga, Tzintzuntzan, Zirahuen and Santa Clara del Cobre."
+          ],
+          "es": [
+            "Visita a Quiroga, Tzintzuntzan, Zirahuén y Santa Clara del Cobre."
+          ],
+          "fr": [
+            "Visite de Quiroga, Tzintzuntzan, Zirahuén et Santa Clara del Cobre."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 9,
+        "location": {
+          "en": "Pátzcuaro – Departure",
+          "es": "Pátzcuaro – Salida",
+          "fr": "Pátzcuaro – Départ"
+        },
+        "narrative": {
+          "en": [
+            "Transfer to the nearest airport for the flight home."
+          ],
+          "es": [
+            "Traslado al aeropuerto más cercano para el vuelo de regreso."
+          ],
+          "fr": [
+            "Transfert vers l’aéroport le plus proche pour le vol retour."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "slug": "architecture",
+    "collection": {
+      "en": "Architecture",
+      "es": "Arquitectura",
+      "fr": "Architecture"
+    },
+    "title": {
+      "en": "Architecture in Mexico City",
+      "es": "Arquitectura en la Ciudad de México",
+      "fr": "Architecture à Mexico"
+    },
+    "duration": {
+      "en": "Custom Program",
+      "es": "Programa a la medida",
+      "fr": "Programme sur mesure"
+    },
+    "summary": {
+      "en": "A curated architecture-focused selection featuring major museums, churches, libraries and modern landmarks in Mexico City.",
+      "es": "Una selección curada centrada en arquitectura, con los principales museos, iglesias, bibliotecas y emblemas modernos de la Ciudad de México.",
+      "fr": "Une sélection organisée autour de l’architecture, mettant en avant les principaux musées, églises, bibliothèques et emblèmes modernes de Mexico."
+    },
+    "description": {
+      "en": "This architecture collection highlights emblematic works in Mexico City, from the Anthropology Museum and Palacio de Bellas Artes to Soumaya Museum, Biblioteca Vasconcelos, San Josemaría Escrivá Church and Casa Luis Barragán.",
+      "es": "Esta colección de arquitectura destaca obras emblemáticas de la Ciudad de México, desde el Museo de Antropología y el Palacio de Bellas Artes hasta el Museo Soumaya, la Biblioteca Vasconcelos, la Parroquia de San Josemaría Escrivá y la Casa Luis Barragán.",
+      "fr": "Cette collection d’architecture met en lumière des œuvres emblématiques de Mexico, du Musée d’anthropologie et du Palacio de Bellas Artes au Musée Soumaya, à la Bibliothèque Vasconcelos, à l’église San Josemaría Escrivá et à la Casa Luis Barragán."
+    },
+    "heroImage": "/images/handpicked-travel/museo-de-antropolog.jpg",
+    "gallery": [
+      "/images/handpicked-travel/museo-de-antropolog.jpg",
+      "/images/handpicked-travel/Museo-soumaya.jpg",
+      "/images/handpicked-travel/Parroquia-San-Josemar.jpg",
+      "/images/handpicked-travel/Bellas-artes-705x705.jpg",
+      "/images/handpicked-travel/Biblioteca-Jose-Vasconcelos-arq.jpg",
+      "/images/handpicked-travel/Casa-Luis-Barraga.jpg"
+    ],
+    "highlights": {
+      "en": [
+        "Anthropology Museum by Pedro Ramírez",
+        "Soumaya Museum by Fernando Romero",
+        "San Josemaría Escrivá Church by Sordo Madaleno Arquitectos",
+        "Palacio de Bellas Artes by Adamo Boari and Federico Ernesto Mariscal Piña",
+        "Biblioteca José Vasconcelos by Alberto Kalach",
+        "Luis Barragán House by Luis Barragán Morfín"
+      ],
+      "es": [
+        "Museo de Antropología de Pedro Ramírez",
+        "Museo Soumaya de Fernando Romero",
+        "Parroquia de San Josemaría Escrivá de Sordo Madaleno Arquitectos",
+        "Palacio de Bellas Artes de Adamo Boari y Federico Ernesto Mariscal Piña",
+        "Biblioteca José Vasconcelos de Alberto Kalach",
+        "Casa Luis Barragán de Luis Barragán Morfín"
+      ],
+      "fr": [
+        "Musée d’anthropologie de Pedro Ramírez",
+        "Musée Soumaya de Fernando Romero",
+        "Église San Josemaría Escrivá de Sordo Madaleno Arquitectos",
+        "Palacio de Bellas Artes d’Adamo Boari et Federico Ernesto Mariscal Piña",
+        "Bibliothèque José Vasconcelos d’Alberto Kalach",
+        "Maison Luis Barragán de Luis Barragán Morfín"
+      ]
+    },
+    "included": {
+      "en": [
+        "Custom architecture route planning",
+        "Specialist guide or interpretation on request",
+        "Visits arranged according to opening hours and availability"
+      ],
+      "es": [
+        "Planeación de ruta de arquitectura a la medida",
+        "Guía especializado o interpretación bajo solicitud",
+        "Visitas organizadas según horarios y disponibilidad"
+      ],
+      "fr": [
+        "Planification d’itinéraire architectural sur mesure",
+        "Guide spécialisé ou interprétation sur demande",
+        "Visites organisées selon les horaires et la disponibilité"
+      ]
+    },
+    "itinerary": []
+  },
+  {
+    "slug": "photographic-tours",
+    "collection": {
+      "en": "Photographic Tours",
+      "es": "Tours Fotográficos",
+      "fr": "Circuits Photographiques"
+    },
+    "title": {
+      "en": "Photographic Tour: Copper Canyon",
+      "es": "Tour Fotográfico: Barrancas del Cobre",
+      "fr": "Circuit Photographique : Canyon du Cuivre"
+    },
+    "duration": {
+      "en": "6 Days / 5 Nights",
+      "es": "6 días / 5 noches",
+      "fr": "6 jours / 5 nuits"
+    },
+    "summary": {
+      "en": "A photography-focused journey through Chihuahua, Basaseachic Waterfall, Creel, Divisadero, the Copper Canyon and El Fuerte.",
+      "es": "Un viaje enfocado en fotografía por Chihuahua, la Cascada de Basaseachic, Creel, Divisadero, las Barrancas del Cobre y El Fuerte.",
+      "fr": "Un voyage axé sur la photographie à travers Chihuahua, la cascade de Basaseachic, Creel, Divisadero, le Canyon du Cuivre et El Fuerte."
+    },
+    "description": {
+      "en": "This photographic route follows some of northern Mexico’s most dramatic landscapes, from the waterfalls of Basaseachic to Tarahumara communities, Arareko Lake, the Valley of the Monks and the famous CHEPE train through the Copper Canyon.",
+      "es": "Esta ruta fotográfica recorre algunos de los paisajes más impactantes del norte de México, desde las cascadas de Basaseachic hasta comunidades tarahumaras, el Lago Arareko, el Valle de los Monjes y el famoso tren CHEPE por las Barrancas del Cobre.",
+      "fr": "Cet itinéraire photographique traverse quelques-uns des paysages les plus spectaculaires du nord du Mexique, des cascades de Basaseachic aux communautés tarahumaras, au lac Arareko, à la Vallée des Moines et au célèbre train CHEPE à travers le Canyon du Cuivre."
+    },
+    "heroImage": "/images/handpicked-travel/alico_cascada.jpg",
+    "gallery": [
+      "/images/handpicked-travel/alico_cascada.jpg",
+      "/images/handpicked-travel/alico_cree.jpg",
+      "/images/handpicked-travel/alico_elfuerte.jpg",
+      "/images/handpicked-travel/lagoararekoalicochihuahua.jpg",
+      "/images/handpicked-travel/the-Valley-of-the-monksalicomexico.jpg",
+      "/images/handpicked-travel/thepiedravoladaalicomexico.jpg"
+    ],
+    "highlights": {
+      "en": [
+        "Basaseachic and Piedra Volada waterfalls during the best season",
+        "Creel village and Tarahumara communities",
+        "Valley of the Monks, Arareko Lake and San Ignacio Mission",
+        "CHEPE train journey to Divisadero",
+        "Views of three canyons and Piedra Volada",
+        "Sunny colonial atmosphere in El Fuerte"
+      ],
+      "es": [
+        "Cascadas de Basaseachic y Piedra Volada durante la mejor temporada",
+        "Pueblo de Creel y comunidades tarahumaras",
+        "Valle de los Monjes, Lago Arareko y Misión de San Ignacio",
+        "Viaje en tren CHEPE hacia Divisadero",
+        "Vistas de tres barrancas y Piedra Volada",
+        "Ambiente colonial soleado en El Fuerte"
+      ],
+      "fr": [
+        "Cascades de Basaseachic et de Piedra Volada à la meilleure saison",
+        "Village de Creel et communautés tarahumaras",
+        "Vallée des Moines, lac Arareko et mission San Ignacio",
+        "Trajet en train CHEPE vers Divisadero",
+        "Vues sur trois canyons et Piedra Volada",
+        "Atmosphère coloniale ensoleillée à El Fuerte"
+      ]
+    },
+    "included": {
+      "en": [
+        "Assistance and transfers according to the itinerary",
+        "Visits mentioned in the program",
+        "CHEPE train segment to Divisadero and El Fuerte",
+        "Specialist route planning for photography-focused travel"
+      ],
+      "es": [
+        "Asistencia y traslados según el itinerario",
+        "Visitas mencionadas en el programa",
+        "Tramos en tren CHEPE hacia Divisadero y El Fuerte",
+        "Planeación especializada para viajes enfocados en fotografía"
+      ],
+      "fr": [
+        "Assistance et transferts selon l’itinéraire",
+        "Visites mentionnées au programme",
+        "Segments en train CHEPE vers Divisadero et El Fuerte",
+        "Planification spécialisée pour les voyages axés sur la photographie"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "location": {
+          "en": "Arrival – Chihuahua",
+          "es": "Llegada – Chihuahua",
+          "fr": "Arrivée – Chihuahua"
+        },
+        "narrative": {
+          "en": [
+            "Arrive in Chihuahua, receive assistance and transfer to the hotel.",
+            "Overnight in Chihuahua."
+          ],
+          "es": [
+            "Llegada a Chihuahua, asistencia y traslado al hotel.",
+            "Noche en Chihuahua."
+          ],
+          "fr": [
+            "Arrivée à Chihuahua, assistance et transfert à l’hôtel.",
+            "Nuit à Chihuahua."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 2,
+        "location": {
+          "en": "Chihuahua – Basaseachic Waterfall – Creel",
+          "es": "Chihuahua – Cascada de Basaseachic – Creel",
+          "fr": "Chihuahua – Cascade de Basaseachic – Creel"
+        },
+        "narrative": {
+          "en": [
+            "Depart to Basaseachic Waterfall, home to two of Mexico’s highest waterfalls: Piedra Volada and Basaseachic.",
+            "Continue to Creel for the night."
+          ],
+          "es": [
+            "Salida hacia la Cascada de Basaseachic, donde se encuentran dos de las cascadas más altas de México: Piedra Volada y Basaseachic.",
+            "Continuación hacia Creel para pasar la noche."
+          ],
+          "fr": [
+            "Départ vers la cascade de Basaseachic, qui abrite deux des plus hautes cascades du Mexique : Piedra Volada et Basaseachic.",
+            "Continuation vers Creel pour la nuit."
+          ]
+        },
+        "stay": null,
+        "optional": {
+          "en": "Best visited during the rainy season",
+          "es": "Mejor durante la temporada de lluvias",
+          "fr": "À privilégier pendant la saison des pluies"
+        }
+      },
+      {
+        "day": 3,
+        "location": {
+          "en": "Creel",
+          "es": "Creel",
+          "fr": "Creel"
+        },
+        "narrative": {
+          "en": [
+            "Visit the community of Cusárare.",
+            "Continue to the Valley of the Monks, known as Gonogochi or “place of giants,” and visit an inhabited cave in San Ignacio.",
+            "Visit Tarahumara communities, admire local arts and crafts, then visit Arareko Lake and San Ignacio Mission."
+          ],
+          "es": [
+            "Visita a la comunidad de Cusárare.",
+            "Continuación hacia el Valle de los Monjes, conocido como Gonogochi o “lugar de gigantes,” y visita a una cueva habitada en San Ignacio.",
+            "Visita a comunidades tarahumaras, apreciación de artesanías locales, y visita al Lago Arareko y la Misión de San Ignacio."
+          ],
+          "fr": [
+            "Visite de la communauté de Cusárare.",
+            "Continuation vers la Vallée des Moines, appelée Gonogochi ou « lieu des géants », et visite d’une grotte habitée à San Ignacio.",
+            "Visite de communautés tarahumaras, découverte de l’artisanat local, puis visite du lac Arareko et de la mission San Ignacio."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 4,
+        "location": {
+          "en": "Creel – Divisadero",
+          "es": "Creel – Divisadero",
+          "fr": "Creel – Divisadero"
+        },
+        "narrative": {
+          "en": [
+            "Morning walk through Creel village, with time around the tree-lined Plaza de Armas and Cristo Rey Church.",
+            "Depart to Divisadero aboard the CHEPE train. Visit the three canyons and Piedra Volada.",
+            "Overnight in Divisadero."
+          ],
+          "es": [
+            "Caminata matutina por el pueblo de Creel, con tiempo en la Plaza de Armas arbolada y la iglesia Cristo Rey.",
+            "Salida hacia Divisadero a bordo del tren CHEPE. Visita a las tres barrancas y Piedra Volada.",
+            "Noche en Divisadero."
+          ],
+          "fr": [
+            "Promenade matinale dans le village de Creel, avec du temps sur la Plaza de Armas arborée et à l’église Cristo Rey.",
+            "Départ vers Divisadero à bord du train CHEPE. Visite des trois canyons et de Piedra Volada.",
+            "Nuit à Divisadero."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 5,
+        "location": {
+          "en": "Divisadero – El Fuerte",
+          "es": "Divisadero – El Fuerte",
+          "fr": "Divisadero – El Fuerte"
+        },
+        "narrative": {
+          "en": [
+            "Depart aboard the CHEPE train to El Fuerte, a sunny colonial town.",
+            "Overnight in El Fuerte."
+          ],
+          "es": [
+            "Salida a bordo del tren CHEPE hacia El Fuerte, un soleado pueblo colonial.",
+            "Noche en El Fuerte."
+          ],
+          "fr": [
+            "Départ à bord du train CHEPE vers El Fuerte, une ville coloniale ensoleillée.",
+            "Nuit à El Fuerte."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      },
+      {
+        "day": 6,
+        "location": {
+          "en": "El Fuerte – Departure",
+          "es": "El Fuerte – Salida",
+          "fr": "El Fuerte – Départ"
+        },
+        "narrative": {
+          "en": [
+            "Transfer to the airport for a connecting flight to Mexico City and onward flight home."
+          ],
+          "es": [
+            "Traslado al aeropuerto para tomar un vuelo de conexión a la Ciudad de México y luego el vuelo de regreso."
+          ],
+          "fr": [
+            "Transfert vers l’aéroport pour un vol de correspondance vers Mexico, puis le vol retour."
+          ]
+        },
+        "stay": null,
+        "optional": null
+      }
+    ]
+  }
+]

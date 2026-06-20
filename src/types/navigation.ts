@@ -21,21 +21,9 @@ export type NavLabels = {
       groups: string;
       oneDayTours: string;
     };
-    handpickedTravel: {
-      luxuryExperiences: string;
-      gastronomicTours: string;
-      photographicTours: string;
-      incentives: string;
-      weddings: string;
-      mexicanWomenTrails: string;
-      nativeCultures: string;
-      socialAwareness: string;
-      dayOfTheDead: string;
-      architecture: string;
-    };
     whoWeAre: {
       aboutUs: string;
-      newsletter: string;
+      newsletter?: string;
       careers: string;
     };
   };

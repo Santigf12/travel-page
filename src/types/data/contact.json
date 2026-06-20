@@ -1,0 +1,353 @@
+{
+  "en": {
+    "eyebrow": "Contact",
+    "title": "Contact Us",
+    "subtitle": "Do you need a quotation, prices or itineraries for a trip to Mexico? Our team will route your request to the right specialist.",
+    "primaryCta": "Send us an email",
+    "secondaryCta": "Call Alico Tours",
+    "generalTitle": "General contact",
+    "generalDescription": "For general inquiries, travel programs, partnerships, or routing your request to the correct department.",
+    "tourOperator": "Tour Operator",
+    "quotationTitle": "Quotations, prices & itineraries",
+    "quotationDescription": "For wholesalers, agencies and partners requesting travel programs, net rates or tailored Mexico itineraries.",
+    "operationsTitle": "Operations",
+    "operationsDescription": "For reservations, confirmations and operational follow-up.",
+    "supplierTitle": "Suppliers in Mexico",
+    "supplierDescription": "For service providers in Mexico who want to contact Alico Tours.",
+    "accountingTitle": "Accounting & payments",
+    "accountingDescription": "For invoices, payments and accounting follow-up.",
+    "office": "Office",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "generalContact": {
+      "email": "alico@alico.com.mx",
+      "phone": "+52 (55) 5575-1774"
+    },
+    "sections": [
+      {
+        "title": "quotationTitle",
+        "description": "quotationDescription",
+        "icon": "sparkles",
+        "contacts": [
+          {
+            "name": "Sales",
+            "role": "Quotations, prices and itineraries",
+            "email": "sales5@alico.com.mx",
+            "office": "+52 55 55 59 00 35",
+            "whatsapp": "+52 55 28 49 41 74"
+          },
+          {
+            "name": "Operations",
+            "role": "Quotations, prices and itineraries",
+            "email": "operations1@alico.com.mx",
+            "office": "+52 55 55 75 17 74",
+            "whatsapp": "+52 55 36 68 58 52"
+          }
+        ]
+      },
+      {
+        "title": "operationsTitle",
+        "description": "operationsDescription",
+        "icon": "users",
+        "contacts": [
+          {
+            "name": "Operations",
+            "role": "Reservations and confirmations",
+            "email": "operaciones@alico.com.mx",
+            "whatsapp": "+52 55 72 01 86 80"
+          },
+          {
+            "name": "Operations 2",
+            "role": "Reservations and confirmations",
+            "email": "operations2@alico.com.mx",
+            "office": "+52 55 55 75 17 74",
+            "whatsapp": "+52 55 27 07 26 13"
+          },
+          {
+            "name": "Operations 3",
+            "role": "Reservations and confirmations",
+            "email": "operations3@alico.com.mx",
+            "office": "+52 55 55 75 17 74",
+            "whatsapp": "+52 55 31 02 78 86"
+          },
+          {
+            "name": "Operations 5",
+            "role": "Reservations and confirmations",
+            "email": "operations5@alico.com.mx",
+            "office": "+52 55 55 75 17 45",
+            "whatsapp": "+52 55 65 40 55 05"
+          }
+        ]
+      },
+      {
+        "title": "supplierTitle",
+        "description": "supplierDescription",
+        "icon": "buildingStore",
+        "contacts": [
+          {
+            "name": "Product Department",
+            "role": "Service providers in Mexico",
+            "email": "producto@alico.com.mx",
+            "office": "+52 55 89 26 44 31",
+            "whatsapp": "+52 56 18 91 12 45"
+          }
+        ]
+      },
+      {
+        "title": "accountingTitle",
+        "description": "accountingDescription",
+        "icon": "calculator",
+        "contacts": [
+          {
+            "name": "Accounting",
+            "role": "Accounting and payments",
+            "email": "contabilidad@alico.com.mx",
+            "office": "+52 55 55 75 70 64",
+            "whatsapp": "+52 56 13 37 79 78"
+          },
+          {
+            "name": "Accounting Assistant",
+            "role": "Payment follow-up",
+            "email": "auxiliar1@alico.com.mx",
+            "office": "+52 55 55 75 70 64",
+            "whatsapp": "+52 55 62 20 93 77"
+          }
+        ]
+      }
+    ]
+  },
+  "es": {
+    "eyebrow": "Contacto",
+    "title": "Contáctanos",
+    "subtitle": "¿Necesitas una cotización, precios o itinerarios para un viaje a México? Nuestro equipo dirigirá tu solicitud al especialista adecuado.",
+    "primaryCta": "Enviar correo",
+    "secondaryCta": "Llamar a Alico Tours",
+    "generalTitle": "Contacto general",
+    "generalDescription": "Para consultas generales, programas de viaje, alianzas o para dirigir tu solicitud al departamento correcto.",
+    "tourOperator": "Operador Turístico",
+    "quotationTitle": "Cotizaciones, precios e itinerarios",
+    "quotationDescription": "Para mayoristas, agencias y socios que solicitan programas de viaje, tarifas netas o itinerarios personalizados en México.",
+    "operationsTitle": "Operaciones",
+    "operationsDescription": "Para reservaciones, confirmaciones y seguimiento operativo.",
+    "supplierTitle": "Proveedores en México",
+    "supplierDescription": "Para proveedores de servicios en México que desean contactar a Alico Tours.",
+    "accountingTitle": "Contabilidad y pagos",
+    "accountingDescription": "Para facturas, pagos y seguimiento contable.",
+    "office": "Oficina",
+    "whatsapp": "WhatsApp",
+    "email": "Correo",
+    "generalContact": {
+      "email": "alico@alico.com.mx",
+      "phone": "+52 (55) 5575-1774"
+    },
+    "sections": [
+      {
+        "title": "quotationTitle",
+        "description": "quotationDescription",
+        "icon": "sparkles",
+        "contacts": [
+          {
+            "name": "Ventas",
+            "role": "Cotizaciones, precios e itinerarios",
+            "email": "sales5@alico.com.mx",
+            "office": "+52 55 55 59 00 35",
+            "whatsapp": "+52 55 28 49 41 74"
+          },
+          {
+            "name": "Operaciones",
+            "role": "Cotizaciones, precios e itinerarios",
+            "email": "operations1@alico.com.mx",
+            "office": "+52 55 55 75 17 74",
+            "whatsapp": "+52 55 36 68 58 52"
+          }
+        ]
+      },
+      {
+        "title": "operationsTitle",
+        "description": "operationsDescription",
+        "icon": "users",
+        "contacts": [
+          {
+            "name": "Operaciones",
+            "role": "Reservaciones y confirmaciones",
+            "email": "operaciones@alico.com.mx",
+            "whatsapp": "+52 55 72 01 86 80"
+          },
+          {
+            "name": "Operaciones 2",
+            "role": "Reservaciones y confirmaciones",
+            "email": "operations2@alico.com.mx",
+            "office": "+52 55 55 75 17 74",
+            "whatsapp": "+52 55 27 07 26 13"
+          },
+          {
+            "name": "Operaciones 3",
+            "role": "Reservaciones y confirmaciones",
+            "email": "operations3@alico.com.mx",
+            "office": "+52 55 55 75 17 74",
+            "whatsapp": "+52 55 31 02 78 86"
+          },
+          {
+            "name": "Operaciones 5",
+            "role": "Reservaciones y confirmaciones",
+            "email": "operations5@alico.com.mx",
+            "office": "+52 55 55 75 17 45",
+            "whatsapp": "+52 55 65 40 55 05"
+          }
+        ]
+      },
+      {
+        "title": "supplierTitle",
+        "description": "supplierDescription",
+        "icon": "buildingStore",
+        "contacts": [
+          {
+            "name": "Departamento de producto",
+            "role": "Proveedores de servicios en México",
+            "email": "producto@alico.com.mx",
+            "office": "+52 55 89 26 44 31",
+            "whatsapp": "+52 56 18 91 12 45"
+          }
+        ]
+      },
+      {
+        "title": "accountingTitle",
+        "description": "accountingDescription",
+        "icon": "calculator",
+        "contacts": [
+          {
+            "name": "Contabilidad",
+            "role": "Contabilidad y pagos",
+            "email": "contabilidad@alico.com.mx",
+            "office": "+52 55 55 75 70 64",
+            "whatsapp": "+52 56 13 37 79 78"
+          },
+          {
+            "name": "Auxiliar contable",
+            "role": "Seguimiento de pagos",
+            "email": "auxiliar1@alico.com.mx",
+            "office": "+52 55 55 75 70 64",
+            "whatsapp": "+52 55 62 20 93 77"
+          }
+        ]
+      }
+    ]
+  },
+  "fr": {
+    "eyebrow": "Contact",
+    "title": "Contactez-nous",
+    "subtitle": "Besoin d’un devis, de prix ou d’itinéraires pour un voyage au Mexique ? Notre équipe dirigera votre demande vers le bon spécialiste.",
+    "primaryCta": "Envoyer un e-mail",
+    "secondaryCta": "Appeler Alico Tours",
+    "generalTitle": "Contact général",
+    "generalDescription": "Pour les demandes générales, programmes de voyage, partenariats ou pour diriger votre demande vers le bon service.",
+    "tourOperator": "Opérateur Touristique",
+    "quotationTitle": "Devis, prix et itinéraires",
+    "quotationDescription": "Pour les grossistes, agences et partenaires demandant des programmes de voyage, tarifs nets ou itinéraires personnalisés au Mexique.",
+    "operationsTitle": "Opérations",
+    "operationsDescription": "Pour les réservations, confirmations et suivi opérationnel.",
+    "supplierTitle": "Fournisseurs au Mexique",
+    "supplierDescription": "Pour les prestataires de services au Mexique souhaitant contacter Alico Tours.",
+    "accountingTitle": "Comptabilité et paiements",
+    "accountingDescription": "Pour les factures, paiements et suivi comptable.",
+    "office": "Bureau",
+    "whatsapp": "WhatsApp",
+    "email": "E-mail",
+    "generalContact": {
+      "email": "alico@alico.com.mx",
+      "phone": "+52 (55) 5575-1774"
+    },
+    "sections": [
+      {
+        "title": "quotationTitle",
+        "description": "quotationDescription",
+        "icon": "sparkles",
+        "contacts": [
+          {
+            "name": "Ventes",
+            "role": "Devis, prix et itinéraires",
+            "email": "sales5@alico.com.mx",
+            "office": "+52 55 55 59 00 35",
+            "whatsapp": "+52 55 28 49 41 74"
+          },
+          {
+            "name": "Opérations",
+            "role": "Devis, prix et itinéraires",
+            "email": "operations1@alico.com.mx",
+            "office": "+52 55 55 75 17 74",
+            "whatsapp": "+52 55 36 68 58 52"
+          }
+        ]
+      },
+      {
+        "title": "operationsTitle",
+        "description": "operationsDescription",
+        "icon": "users",
+        "contacts": [
+          {
+            "name": "Opérations",
+            "role": "Réservations et confirmations",
+            "email": "operaciones@alico.com.mx",
+            "whatsapp": "+52 55 72 01 86 80"
+          },
+          {
+            "name": "Opérations 2",
+            "role": "Réservations et confirmations",
+            "email": "operations2@alico.com.mx",
+            "office": "+52 55 55 75 17 74",
+            "whatsapp": "+52 55 27 07 26 13"
+          },
+          {
+            "name": "Opérations 3",
+            "role": "Réservations et confirmations",
+            "email": "operations3@alico.com.mx",
+            "office": "+52 55 55 75 17 74",
+            "whatsapp": "+52 55 31 02 78 86"
+          },
+          {
+            "name": "Opérations 5",
+            "role": "Réservations et confirmations",
+            "email": "operations5@alico.com.mx",
+            "office": "+52 55 55 75 17 45",
+            "whatsapp": "+52 55 65 40 55 05"
+          }
+        ]
+      },
+      {
+        "title": "supplierTitle",
+        "description": "supplierDescription",
+        "icon": "buildingStore",
+        "contacts": [
+          {
+            "name": "Département produit",
+            "role": "Prestataires de services au Mexique",
+            "email": "producto@alico.com.mx",
+            "office": "+52 55 89 26 44 31",
+            "whatsapp": "+52 56 18 91 12 45"
+          }
+        ]
+      },
+      {
+        "title": "accountingTitle",
+        "description": "accountingDescription",
+        "icon": "calculator",
+        "contacts": [
+          {
+            "name": "Comptabilité",
+            "role": "Comptabilité et paiements",
+            "email": "contabilidad@alico.com.mx",
+            "office": "+52 55 55 75 70 64",
+            "whatsapp": "+52 56 13 37 79 78"
+          },
+          {
+            "name": "Assistant comptable",
+            "role": "Suivi des paiements",
+            "email": "auxiliar1@alico.com.mx",
+            "office": "+52 55 55 75 70 64",
+            "whatsapp": "+52 55 62 20 93 77"
+          }
+        ]
+      }
+    ]
+  }
+}

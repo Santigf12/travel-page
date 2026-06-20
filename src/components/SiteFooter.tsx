@@ -1,6 +1,7 @@
 // src/components/SiteFooter.tsx
 
 import type { Locale } from '@/i18n/dictionaries';
+import { getAllHandpickedTravelItems } from '@/types/handpicked-travel';
 import type { FooterLabels, NavLabels } from '@/types/navigation';
 import { Anchor, Box, Container, Group, SimpleGrid, Stack, Text } from '@mantine/core';
 import Link from 'next/link';
@@ -9,6 +10,16 @@ type SiteFooterProps = {
   locale: Locale;
   nav: NavLabels;
   labels: FooterLabels;
+};
+
+type FooterLinkItem = {
+  label: string;
+  href: string;
+};
+
+type FooterSection = {
+  title: string;
+  links: FooterLinkItem[];
 };
 
 function FooterLink({ href, label }: { href: string; label: string }) {
@@ -42,25 +53,32 @@ function FooterLink({ href, label }: { href: string; label: string }) {
   );
 }
 
+function getHandpickedTravelFooterLinks(locale: Locale): FooterLinkItem[] {
+  return getAllHandpickedTravelItems().map((item) => ({
+    label: item.title[locale],
+    href: `/${locale}/handpicked-travel/${item.slug}`,
+  }));
+}
+
 export function SiteFooter({ locale, nav, labels }: SiteFooterProps) {
   const s = nav.submenus;
 
-  const columns = [
+  const columns: FooterSection[][] = [
     [
       {
         title: nav.aboutMexico,
         links: [
           {
             label: s.aboutMexico.whereToGo,
-            href: `/${locale}/about-mexico/where-to-go`,
+            href: `/${locale}/about-mexico#where-to-go`,
           },
           {
             label: s.aboutMexico.whenToGo,
-            href: `/${locale}/about-mexico/when-to-go`,
+            href: `/${locale}/about-mexico#when-to-go`,
           },
           {
             label: s.aboutMexico.howToGo,
-            href: `/${locale}/about-mexico/how-to-go`,
+            href: `/${locale}/about-mexico#how-to-go`,
           },
         ],
       },
@@ -69,15 +87,15 @@ export function SiteFooter({ locale, nav, labels }: SiteFooterProps) {
         links: [
           {
             label: s.trips.fits,
-            href: `/${locale}/trips`,
+            href: `/${locale}/trips#fits`,
           },
           {
             label: s.trips.groups,
-            href: `/${locale}/trips/groups`,
+            href: `/${locale}/trips#groups`,
           },
           {
             label: s.trips.oneDayTours,
-            href: `/${locale}/trips/one-day-tours`,
+            href: `/${locale}/trips#one-day-tours`,
           },
         ],
       },
@@ -85,48 +103,7 @@ export function SiteFooter({ locale, nav, labels }: SiteFooterProps) {
     [
       {
         title: nav.handpickedTravel,
-        links: [
-          {
-            label: s.handpickedTravel.luxuryExperiences,
-            href: `/${locale}/handpicked-travel/luxury-experiences`,
-          },
-          {
-            label: s.handpickedTravel.gastronomicTours,
-            href: `/${locale}/handpicked-travel/gastronomic-tours`,
-          },
-          {
-            label: s.handpickedTravel.photographicTours,
-            href: `/${locale}/handpicked-travel/photographic-tours`,
-          },
-          {
-            label: s.handpickedTravel.incentives,
-            href: `/${locale}/handpicked-travel/incentives`,
-          },
-          {
-            label: s.handpickedTravel.weddings,
-            href: `/${locale}/handpicked-travel/weddings`,
-          },
-          {
-            label: s.handpickedTravel.mexicanWomenTrails,
-            href: `/${locale}/handpicked-travel/mexican-women-trails`,
-          },
-          {
-            label: s.handpickedTravel.nativeCultures,
-            href: `/${locale}/handpicked-travel/native-cultures`,
-          },
-          {
-            label: s.handpickedTravel.socialAwareness,
-            href: `/${locale}/handpicked-travel/social-awareness`,
-          },
-          {
-            label: s.handpickedTravel.dayOfTheDead,
-            href: `/${locale}/handpicked-travel/day-of-the-dead`,
-          },
-          {
-            label: s.handpickedTravel.architecture,
-            href: `/${locale}/handpicked-travel/architecture`,
-          },
-        ],
+        links: getHandpickedTravelFooterLinks(locale),
       },
     ],
     [
@@ -135,15 +112,11 @@ export function SiteFooter({ locale, nav, labels }: SiteFooterProps) {
         links: [
           {
             label: s.whoWeAre.aboutUs,
-            href: `/${locale}/who-we-are/about-us`,
-          },
-          {
-            label: s.whoWeAre.newsletter,
-            href: `/${locale}/who-we-are/newsletter`,
+            href: `/${locale}/who-we-are#about-us`,
           },
           {
             label: s.whoWeAre.careers,
-            href: `/${locale}/who-we-are/careers`,
+            href: `/${locale}/who-we-are#careers`,
           },
         ],
       },
@@ -171,19 +144,19 @@ export function SiteFooter({ locale, nav, labels }: SiteFooterProps) {
         links: [
           {
             label: labels.legal.privacyPolicy,
-            href: '#',
+            href: `/${locale}/private-policy`,
           },
           {
             label: labels.legal.profecoFolio,
-            href: '#',
+            href: '#profeco',
           },
           {
             label: labels.legal.expediente,
-            href: '#',
+            href: '#record',
           },
           {
             label: labels.legal.contrato,
-            href: '#',
+            href: '#contract',
           },
         ],
       },
@@ -196,7 +169,7 @@ export function SiteFooter({ locale, nav, labels }: SiteFooterProps) {
       pt={{ base: 60, md: 90 }}
       pb="xl"
       style={{
-        borderTop: '1px solid rgba(44, 43, 40, 0.18)'
+        borderTop: '1px solid rgba(44, 43, 40, 0.18)',
       }}
     >
       <Container size="xl">
@@ -214,7 +187,7 @@ export function SiteFooter({ locale, nav, labels }: SiteFooterProps) {
 
                   {section.links.map((link) => (
                     <FooterLink
-                      key={`${section.title}-${link.label}`}
+                      key={`${section.title}-${link.href}`}
                       href={link.href}
                       label={link.label}
                     />

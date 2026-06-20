@@ -3,6 +3,7 @@
 'use client';
 
 import type { Locale } from '@/i18n/dictionaries';
+import { getAllHandpickedTravelItems } from '@/types/handpicked-travel';
 import type { NavLabels } from '@/types/navigation';
 import { Anchor, Menu, Stack } from '@mantine/core';
 import Link from 'next/link';
@@ -24,6 +25,13 @@ type SiteNavigationProps = {
   orientation?: 'horizontal' | 'vertical';
   onNavigate?: () => void;
 };
+
+function getHandpickedTravelNavItems(locale: Locale): NavChild[] {
+  return getAllHandpickedTravelItems().map((item) => ({
+    label: item.title[locale],
+    href: `/${locale}/handpicked-travel/${item.slug}`,
+  }));
+}
 
 function getNavItems(locale: Locale, labels: NavLabels): NavItem[] {
   const s = labels.submenus;
@@ -68,48 +76,7 @@ function getNavItems(locale: Locale, labels: NavLabels): NavItem[] {
     {
       label: labels.handpickedTravel,
       href: `/${locale}/handpicked-travel`,
-      children: [
-        {
-          label: s.handpickedTravel.luxuryExperiences,
-          href: `/${locale}/handpicked-travel/luxury-experiences`,
-        },
-        {
-          label: s.handpickedTravel.gastronomicTours,
-          href: `/${locale}/handpicked-travel/gastronomic-tours`,
-        },
-        {
-          label: s.handpickedTravel.photographicTours,
-          href: `/${locale}/handpicked-travel/photographic-tours`,
-        },
-        {
-          label: s.handpickedTravel.incentives,
-          href: `/${locale}/handpicked-travel/incentives`,
-        },
-        {
-          label: s.handpickedTravel.weddings,
-          href: `/${locale}/handpicked-travel/weddings`,
-        },
-        {
-          label: s.handpickedTravel.mexicanWomenTrails,
-          href: `/${locale}/handpicked-travel/mexican-women-trails`,
-        },
-        {
-          label: s.handpickedTravel.nativeCultures,
-          href: `/${locale}/handpicked-travel/native-cultures`,
-        },
-        {
-          label: s.handpickedTravel.socialAwareness,
-          href: `/${locale}/handpicked-travel/social-awareness`,
-        },
-        {
-          label: s.handpickedTravel.dayOfTheDead,
-          href: `/${locale}/handpicked-travel/day-of-the-dead`,
-        },
-        {
-          label: s.handpickedTravel.architecture,
-          href: `/${locale}/handpicked-travel/architecture`,
-        },
-      ],
+      children: getHandpickedTravelNavItems(locale),
     },
     {
       label: labels.whoWeAre,
@@ -117,15 +84,11 @@ function getNavItems(locale: Locale, labels: NavLabels): NavItem[] {
       children: [
         {
           label: s.whoWeAre.aboutUs,
-          href: `/${locale}/who-we-are/about-us`,
-        },
-        {
-          label: s.whoWeAre.newsletter,
-          href: `/${locale}/who-we-are/newsletter`,
+          href: `/${locale}/who-we-are#about-us`,
         },
         {
           label: s.whoWeAre.careers,
-          href: `/${locale}/who-we-are/careers`,
+          href: `/${locale}/who-we-are#careers`,
         },
       ],
     },

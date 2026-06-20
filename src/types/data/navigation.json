@@ -18,21 +18,9 @@
           "groups": "Groups",
           "oneDayTours": "One day tours"
         },
-        "handpickedTravel": {
-          "luxuryExperiences": "Luxury Experiences",
-          "gastronomicTours": "Gastronomic tours",
-          "photographicTours": "Photographic tours",
-          "incentives": "Incentives",
-          "weddings": "Weddings",
-          "mexicanWomenTrails": "Mexican women trails",
-          "nativeCultures": "Native cultures",
-          "socialAwareness": "Social awareness",
-          "dayOfTheDead": "Day of the Dead",
-          "architecture": "Architecture"
-        },
+        "handpickedTravel": "Handpicked Travel",
         "whoWeAre": {
           "aboutUs": "About Us",
-          "newsletter": "Subscribe to our newsletters",
           "careers": "Careers"
         }
       }
@@ -86,7 +74,6 @@
         },
         "whoWeAre": {
           "aboutUs": "Sobre nosotros",
-          "newsletter": "Suscríbete a nuestros boletines",
           "careers": "Empleo"
         }
       }
@@ -140,7 +127,6 @@
         },
         "whoWeAre": {
           "aboutUs": "À propos de nous",
-          "newsletter": "S'abonner à nos newsletters",
           "careers": "Carrières"
         }
       }
