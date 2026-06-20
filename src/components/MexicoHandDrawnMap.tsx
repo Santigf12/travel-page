@@ -10,7 +10,7 @@ import { feature } from 'topojson-client';
 
 const WIDTH = 1000;
 const HEIGHT = 700;
-const MAP_PADDING = 30;
+const MAP_PADDING = 0;
 
 const featuredDestinationIds = new Set([
   'cancun',
@@ -164,31 +164,8 @@ export function MexicoHandDrawnMap() {
   }, []);
 
   return (
-    <section style={{ width: '100%', padding: '5rem 1rem' }}>
+    <section style={{ width: '100%' }}>
       <div style={{ maxWidth: 1100, margin: '0 auto', textAlign: 'center' }}>
-        <h2
-          style={{
-            fontFamily: 'Cormorant Garamond, Georgia, serif',
-            fontSize: 'clamp(1.8rem, 4vw, 3rem)',
-            fontWeight: 400,
-            color: '#0E4A62',
-            marginBottom: 0,
-          }}
-        >
-          Where to go in Mexico
-        </h2>
-
-        <p
-          style={{
-            maxWidth: 620,
-            margin: '0 auto 0',
-            color: '#6b6560',
-            fontSize: '1.05rem',
-          }}
-        >
-          Explore some of our favourite destinations across Mexico.
-        </p>
-
         {error && (
           <p style={{ color: 'red', marginBottom: 0 }}>
             Map failed to load: {error}

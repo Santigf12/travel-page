@@ -30,14 +30,14 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
   return (
     <AppShell
       padding={0}
-      header={{ height: 132, offset: false }}
+      header={{ height: 132 }}
       navbar={{
         width: 300,
         breakpoint: 'sm',
         collapsed: { mobile: !opened, desktop: true },
       }}
     >
-      <AppShell.Header withBorder={false}>
+      <AppShell.Header>
         <Container size="xl" h="100%">
           <Group h="100%" justify="space-between" align="center">
             <Anchor component={Link} href={`/${locale}`} underline="never">

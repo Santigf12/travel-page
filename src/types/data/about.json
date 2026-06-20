@@ -1,0 +1,698 @@
+{
+  "en": {
+    "whereToGo": {
+      "id": "where-to-go",
+      "badge": "Where to go",
+      "title": "Where to go in Mexico",
+      "description": "Explore some of our favourite destinations across Mexico."
+    },
+    "whenToGo": {
+      "id": "when-to-go",
+      "badge": "When to go",
+      "title": "Weather & Best Time to Visit Mexico",
+      "description": "Mexico can be visited throughout the year thanks to its varied geography and generally pleasant climate. From tropical beaches to colonial mountain cities, each region offers a different travel experience.",
+      "cards": [
+        {
+          "icon": "sun",
+          "title": "Weather overview",
+          "description": "Mexico can be visited all year round. Because of its varied geography, the climate changes by region, from warm coastal areas to cooler mountain cities."
+        },
+        {
+          "icon": "cloudRain",
+          "title": "Rainy season",
+          "description": "The rainy season usually runs from late May to mid-September. Rain often comes in the late afternoon or evening, while mornings are usually sunny."
+        },
+        {
+          "icon": "mapPin",
+          "title": "Mountain cities",
+          "description": "Mexico City, Puebla, Oaxaca and San Cristóbal can feel cool in the morning and at night because of their altitude, while daytime is usually warm."
+        },
+        {
+          "icon": "hanger",
+          "title": "What to pack",
+          "description": "A light sweater or jacket is recommended for mornings and evenings. During rainy season, bring a raincoat or compact umbrella."
+        },
+        {
+          "icon": "users",
+          "title": "Busy seasons",
+          "description": "Mexico is usually busier in June, July, mid-December to mid-January, Easter holidays, and school vacation periods in July and August."
+        },
+        {
+          "icon": "calendar",
+          "title": "Spring Break",
+          "description": "Beach destinations can be busier from late February through April, especially popular coastal areas such as Cancún and the Mexican Caribbean."
+        }
+      ],
+      "quickNotes": {
+        "title": "Quick travel notes",
+        "paragraphs": [
+          "Average temperatures in many parts of Mexico are around 25°C to 30°C. Coastal areas and southern Mexico tend to be warmer and more humid from May to September.",
+          "Even during rainy season, travel is still very possible. Most days remain sunny for a large part of the day, with showers more common later in the afternoon."
+        ],
+        "packingTitle": "Recommended packing",
+        "packing": [
+          "Light clothes for warm daytime weather",
+          "A sweater or light jacket for higher-altitude cities",
+          "Raincoat or compact umbrella from late May to September",
+          "Comfortable shoes for archaeological sites and city tours",
+          "Sun protection for beach, desert and outdoor destinations"
+        ],
+        "tip": "Travel tip: for a quieter experience, avoid peak national vacation periods such as Easter, July and August school holidays, and the Christmas/New Year travel season."
+      }
+    },
+    "howToGo": {
+      "id": "how-to-go",
+      "badge": "How to go",
+      "title": "Everything to know before your trip",
+      "description": "Practical details on packing, money, safety and entry requirements, organised so you can find exactly what you need.",
+      "groups": [
+        {
+          "icon": "hanger",
+          "title": "Pack & prepare",
+          "items": [
+            {
+              "value": "clothes",
+              "title": "Clothes & footwear",
+              "content": [
+                "Temperatures vary widely by region, so light clothing in linen or cotton is best for daytime visits, along with comfortable walking or sports shoes.",
+                "For archaeological sites, wear comfortable shoes, long sleeves and a hat for sun protection.",
+                "Mornings and evenings can be cool, especially during the rainy season, so pack a light sweater or jacket.",
+                "Visiting in winter, or spending time in Mexico City, Puebla or San Cristóbal de las Casas, calls for a warmer jacket or thermal layers, as temperatures run cooler there."
+              ]
+            },
+            {
+              "value": "luggage",
+              "title": "Luggage",
+              "content": [
+                "One large suitcase per person is permitted aboard the Alico Tours bus.",
+                "Hand luggage allowances range from 5 kg to 10 kg depending on the airline."
+              ]
+            },
+            {
+              "value": "do-not-forget",
+              "title": "Don't forget",
+              "content": [
+                "A few extras worth packing: a small medicine kit, accident or sickness insurance, a small lock for baggage, mosquito repellent, a map if needed, a guide to Mexico, a camera, your cell phone and a backup battery, sun protection and sunglasses.",
+                "If you plan to rent a car, bring official documents including a valid driver’s license and a credit card."
+              ]
+            }
+          ]
+        },
+        {
+          "icon": "creditCard",
+          "title": "Money & connectivity",
+          "items": [
+            {
+              "value": "currency",
+              "title": "Currency",
+              "content": [
+                "The currency is the Mexican peso, with an exchange rate that varies; as a general guide, one US dollar is worth around 19 pesos.",
+                "US dollars are widely accepted in major cities, and euros are taken at some airports, banks and exchange houses. Traveller’s checks are not easily accepted and aren’t recommended.",
+                "We strongly recommend changing some money into pesos, since paying in foreign currency at local stores and restaurants isn’t always straightforward."
+              ]
+            },
+            {
+              "value": "cards",
+              "title": "International credit cards",
+              "content": [
+                "Visa, MasterCard and American Express are all widely accepted.",
+                "ATM withdrawals are available up to a maximum of 450 USD."
+              ]
+            },
+            {
+              "value": "telephone",
+              "title": "Telephone",
+              "content": [
+                "National and international calls from hotels tend to be expensive, so check the rate at the front desk before calling.",
+                "A local SIM card, or an app like Skype, is the most convenient option. Public phones using a LADATEL card are available if you don’t have a smartphone."
+              ]
+            },
+            {
+              "value": "hours",
+              "title": "Opening hours",
+              "content": [
+                "Department stores and supermarkets are typically open daily from 9:00 am to 8:00 pm.",
+                "Banks open Monday to Friday, 9:00 am to 4:00 pm.",
+                "Exchange houses open Monday to Friday from 9:00 am to 6:00 pm, and weekends from 9:00 am to 2:00 pm; airport exchanges run 24 hours."
+              ]
+            }
+          ]
+        },
+        {
+          "icon": "shieldCheck",
+          "title": "Safety & health",
+          "items": [
+            {
+              "value": "safety",
+              "title": "Staying safe",
+              "content": [
+                "Mexico is a warm and rewarding place to visit, and a few simple precautions go a long way: keep luggage close at airports, avoid flashy jewellery or watches, and carry only a credit card rather than large amounts of cash.",
+                "Avoid walking alone on dark streets, and never carry illegal drugs, as Mexican law is strict; if you need controlled medication for health reasons, always travel with the prescription.",
+                "For taxis, a hotel taxi, radio taxi or Uber is recommended. If using a street taxi, check the driver’s ID near the passenger door and confirm the plate before getting in.",
+                "Women travelling alone may occasionally receive comments from men on the street; this is best met by simply moving along without engaging.",
+                "In the rare event of a natural phenomenon, follow local safety guidance and stay calm."
+              ]
+            },
+            {
+              "value": "health",
+              "title": "Health & hygiene",
+              "content": [
+                "No vaccinations are required to enter Mexico, though hepatitis A, tetanus and dengue protection are recommended.",
+                "Street food is best approached with caution due to variable hygiene standards. Drink only purified or bottled water.",
+                "Pack mosquito repellent and sun protection for outdoor days."
+              ]
+            }
+          ]
+        },
+        {
+          "icon": "steam",
+          "title": "Entry & culture",
+          "items": [
+            {
+              "value": "procedures",
+              "title": "Visa & entry procedures",
+              "content": [
+                "Requirements vary by country, so check with the Mexican consulate where you live before travelling.",
+                "A migratory tourist form, available through travel agencies or airlines, is required on arrival and is valid for up to 30 days. A passport valid for at least 6 months beyond your stay is also required.",
+                "Full details are available at inm.gob.mx."
+              ]
+            },
+            {
+              "value": "language-population",
+              "title": "Language & population",
+              "content": [
+                "Spanish is the official language, though 58 Indigenous languages are also spoken across the country.",
+                "The population reflects three broad groups: those of European descent, mestizos of mixed Spanish and Indigenous heritage, and Indigenous communities."
+              ]
+            },
+            {
+              "value": "practical",
+              "title": "Electricity, time zones & dialing",
+              "content": [
+                "Electrical current runs at 110V, 60Hz, using flat American-style plugs, so bring an adapter if needed.",
+                "Mexico spans four time zones: Southeast (Quintana Roo), Central (including Mexico City, Guadalajara and Monterrey), Pacific (Baja California Sur, Chihuahua, Nayarit, Sinaloa and Sonora), and Northwest (Baja California, including Tijuana).",
+                "The country calling code is +52."
+              ]
+            },
+            {
+              "value": "tipping",
+              "title": "Tipping",
+              "content": [
+                "Tipping isn’t mandatory in Mexico, but it’s appreciated, as many hotel and restaurant workers rely on it given modest wages.",
+                "For local guides and drivers, tips are customary when service has been good: around 2 USD per person per day for a guide, and 1 USD per person per day for a driver."
+              ]
+            },
+            {
+              "value": "handcrafts",
+              "title": "Handcrafts",
+              "content": [
+                "Look for woven baskets, bags and rugs made from natural fibres, along with pottery and ceramics including Talavera tableware and pieces in black clay.",
+                "Metalwork and stones such as silver, gold and onyx are also widely available."
+              ]
+            },
+            {
+              "value": "photography",
+              "title": "Photography & video",
+              "content": [
+                "Archaeological sites and museums typically charge a video camera fee, around 4 USD per site.",
+                "Please ask before photographing local people, and note that photography is strictly prohibited inside the church of San Juan Chamula in Chiapas."
+              ]
+            },
+            {
+              "value": "cuisine",
+              "title": "Mexican cuisine",
+              "content": [
+                "Mexican cuisine is known for bold, rich flavours built on corn, beans, rice, chicken, eggs, chiles, fruits and vegetables.",
+                "Some dishes run quite spicy, so it’s worth asking ahead if you prefer milder food."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "es": {
+    "whereToGo": {
+      "id": "where-to-go",
+      "badge": "A dónde ir",
+      "title": "A dónde ir en México",
+      "description": "Explora algunos de nuestros destinos favoritos en México."
+    },
+    "whenToGo": {
+      "id": "when-to-go",
+      "badge": "Cuándo ir",
+      "title": "Clima y mejor época para visitar México",
+      "description": "México se puede visitar durante todo el año gracias a su geografía variada y clima generalmente agradable. Desde playas tropicales hasta ciudades coloniales de montaña, cada región ofrece una experiencia de viaje diferente.",
+      "cards": [
+        {
+          "icon": "sun",
+          "title": "Resumen del clima",
+          "description": "México se puede visitar todo el año. Debido a su geografía variada, el clima cambia según la región, desde zonas costeras cálidas hasta ciudades de montaña más frescas."
+        },
+        {
+          "icon": "cloudRain",
+          "title": "Temporada de lluvias",
+          "description": "La temporada de lluvias suele ir de finales de mayo a mediados de septiembre. La lluvia suele presentarse por la tarde o noche, mientras que las mañanas suelen ser soleadas."
+        },
+        {
+          "icon": "mapPin",
+          "title": "Ciudades de montaña",
+          "description": "Ciudad de México, Puebla, Oaxaca y San Cristóbal pueden sentirse frescas por la mañana y por la noche debido a la altitud, mientras que el día suele ser cálido."
+        },
+        {
+          "icon": "hanger",
+          "title": "Qué empacar",
+          "description": "Se recomienda llevar un suéter o chamarra ligera para las mañanas y noches. Durante la temporada de lluvias, lleve impermeable o paraguas compacto."
+        },
+        {
+          "icon": "users",
+          "title": "Temporadas altas",
+          "description": "México suele estar más concurrido en junio, julio, de mediados de diciembre a mediados de enero, Semana Santa y vacaciones escolares de julio y agosto."
+        },
+        {
+          "icon": "calendar",
+          "title": "Spring Break",
+          "description": "Los destinos de playa pueden estar más concurridos desde finales de febrero hasta abril, especialmente zonas costeras populares como Cancún y el Caribe mexicano."
+        }
+      ],
+      "quickNotes": {
+        "title": "Notas rápidas de viaje",
+        "paragraphs": [
+          "Las temperaturas promedio en muchas partes de México rondan entre 25°C y 30°C. Las zonas costeras y el sur de México tienden a ser más cálidos y húmedos de mayo a septiembre.",
+          "Incluso durante la temporada de lluvias, viajar sigue siendo muy posible. La mayoría de los días se mantienen soleados durante gran parte del día, con lluvias más comunes por la tarde."
+        ],
+        "packingTitle": "Equipaje recomendado",
+        "packing": [
+          "Ropa ligera para clima cálido durante el día",
+          "Un suéter o chamarra ligera para ciudades de mayor altitud",
+          "Impermeable o paraguas compacto de finales de mayo a septiembre",
+          "Zapatos cómodos para sitios arqueológicos y recorridos por la ciudad",
+          "Protección solar para playa, desierto y destinos al aire libre"
+        ],
+        "tip": "Consejo de viaje: para una experiencia más tranquila, evite las temporadas altas nacionales como Semana Santa, vacaciones escolares de julio y agosto, y la temporada de Navidad y Año Nuevo."
+      }
+    },
+    "howToGo": {
+      "id": "how-to-go",
+      "badge": "Cómo ir",
+      "title": "Todo lo que debes saber antes de tu viaje",
+      "description": "Detalles prácticos sobre equipaje, dinero, seguridad y requisitos de entrada, organizados para que encuentres exactamente lo que necesitas.",
+      "groups": [
+        {
+          "icon": "hanger",
+          "title": "Empacar y prepararse",
+          "items": [
+            {
+              "value": "clothes",
+              "title": "Ropa y calzado",
+              "content": [
+                "Las temperaturas varían mucho según la región, por lo que la ropa ligera de lino o algodón es ideal para las visitas durante el día, junto con zapatos cómodos para caminar o deportivos.",
+                "Para sitios arqueológicos, use zapatos cómodos, manga larga y sombrero para protegerse del sol.",
+                "Las mañanas y noches pueden ser frescas, especialmente durante la temporada de lluvias, por lo que conviene llevar un suéter o chamarra ligera.",
+                "Si visita en invierno, o pasa tiempo en Ciudad de México, Puebla o San Cristóbal de las Casas, lleve una chamarra más abrigada o capas térmicas, ya que las temperaturas son más frescas."
+              ]
+            },
+            {
+              "value": "luggage",
+              "title": "Equipaje",
+              "content": [
+                "Se permite una maleta grande por persona a bordo del autobús de Alico Tours.",
+                "El equipaje de mano permitido varía de 5 kg a 10 kg según la aerolínea."
+              ]
+            },
+            {
+              "value": "do-not-forget",
+              "title": "No olvides",
+              "content": [
+                "Algunos extras útiles: un pequeño botiquín, seguro de accidente o enfermedad, un candado pequeño para el equipaje, repelente de mosquitos, un mapa si lo necesitas, una guía de México, cámara, celular y batería de respaldo, protección solar y lentes de sol.",
+                "Si planea rentar un auto, lleve documentos oficiales, incluyendo licencia de conducir vigente y tarjeta de crédito."
+              ]
+            }
+          ]
+        },
+        {
+          "icon": "creditCard",
+          "title": "Dinero y conectividad",
+          "items": [
+            {
+              "value": "currency",
+              "title": "Moneda",
+              "content": [
+                "La moneda es el peso mexicano, con un tipo de cambio variable; como referencia general, un dólar estadounidense equivale a unos 19 pesos.",
+                "El dólar estadounidense se acepta ampliamente en las grandes ciudades, y el euro se acepta en algunos aeropuertos, bancos y casas de cambio. Los cheques de viajero no se aceptan fácilmente y no se recomienda traerlos.",
+                "Recomendamos cambiar parte de su dinero a pesos, ya que pagar en moneda extranjera en tiendas y restaurantes locales no siempre es sencillo."
+              ]
+            },
+            {
+              "value": "cards",
+              "title": "Tarjetas de crédito internacionales",
+              "content": [
+                "Se aceptan ampliamente Visa, MasterCard y American Express.",
+                "Es posible retirar efectivo en cajeros automáticos hasta un máximo de 450 USD."
+              ]
+            },
+            {
+              "value": "telephone",
+              "title": "Teléfono",
+              "content": [
+                "Las llamadas nacionales e internacionales desde los hoteles suelen ser costosas, así que consulte la tarifa en recepción antes de llamar.",
+                "Lo más recomendable es comprar una SIM local o usar una aplicación como Skype. También hay teléfonos públicos con tarjeta LADATEL si no cuenta con un smartphone."
+              ]
+            },
+            {
+              "value": "hours",
+              "title": "Horarios de atención",
+              "content": [
+                "Las tiendas departamentales y supermercados suelen abrir todos los días de 9:00 a 20:00.",
+                "Los bancos abren de lunes a viernes, de 9:00 a 16:00.",
+                "Las casas de cambio abren de lunes a viernes de 9:00 a 18:00, y los fines de semana de 9:00 a 14:00; en el aeropuerto operan las 24 horas."
+              ]
+            }
+          ]
+        },
+        {
+          "icon": "shieldCheck",
+          "title": "Seguridad y salud",
+          "items": [
+            {
+              "value": "safety",
+              "title": "Mantenerse seguro",
+              "content": [
+                "México es un destino cálido y gratificante, y unas precauciones sencillas ayudan mucho: mantenga su equipaje cerca en los aeropuertos, evite joyas o relojes llamativos, y lleve solo tarjeta de crédito en lugar de grandes cantidades de efectivo.",
+                "Evite caminar solo por calles oscuras y nunca lleve drogas, ya que las leyes mexicanas son muy estrictas; si necesita medicamentos controlados por motivos de salud, lleve siempre la receta médica.",
+                "Para tomar un taxi, se recomienda un taxi de hotel, radio taxi o Uber. Si toma un taxi de calle, verifique la identificación del conductor cerca de la puerta del pasajero y confirme la placa antes de subir.",
+                "Las mujeres que viajan solas pueden recibir comentarios de algunos hombres en la calle; lo mejor es no darle importancia y seguir su camino.",
+                "En caso de algún fenómeno natural, siga las indicaciones de seguridad locales y mantenga la calma."
+              ]
+            },
+            {
+              "value": "health",
+              "title": "Salud e higiene",
+              "content": [
+                "No se requiere ninguna vacuna para entrar a México, aunque se recomienda protección contra hepatitis A, tétanos y dengue.",
+                "Se recomienda tener precaución con la comida callejera, ya que las condiciones de higiene pueden variar. Beba únicamente agua purificada o embotellada.",
+                "Lleve repelente de mosquitos y protección solar para los días al aire libre."
+              ]
+            }
+          ]
+        },
+        {
+          "icon": "steam",
+          "title": "Entrada y cultura",
+          "items": [
+            {
+              "value": "procedures",
+              "title": "Visa y trámites de entrada",
+              "content": [
+                "Los requisitos varían según el país, así que consulte con el consulado mexicano de su país antes de viajar.",
+                "Se requiere una forma migratoria turística, disponible en agencias de viajes o aerolíneas, válida hasta por 30 días. También se requiere un pasaporte vigente por al menos 6 meses después de la fecha de salida.",
+                "Más información disponible en inm.gob.mx."
+              ]
+            },
+            {
+              "value": "language-population",
+              "title": "Idioma y población",
+              "content": [
+                "El idioma oficial es el español, aunque también se hablan 58 lenguas indígenas en todo el país.",
+                "La población se compone de tres grandes grupos: de ascendencia europea, mestizos de origen español e indígena, y comunidades indígenas."
+              ]
+            },
+            {
+              "value": "practical",
+              "title": "Electricidad, husos horarios y código telefónico",
+              "content": [
+                "La corriente eléctrica es de 110V, 60Hz, con clavijas planas tipo americano, así que traiga un adaptador si lo necesita.",
+                "México abarca cuatro husos horarios: Zona Sureste (Quintana Roo), Zona Centro (incluye Ciudad de México, Guadalajara y Monterrey), Zona Pacífico (Baja California Sur, Chihuahua, Nayarit, Sinaloa y Sonora), y Zona Noroeste (Baja California, incluye Tijuana).",
+                "El código de marcación del país es +52."
+              ]
+            },
+            {
+              "value": "tipping",
+              "title": "Propinas",
+              "content": [
+                "La propina no es obligatoria en México, pero se aprecia, ya que muchos trabajadores de hoteles y restaurantes dependen de ella debido a salarios modestos.",
+                "Para guías y conductores locales, la propina es habitual cuando el servicio fue bueno: alrededor de 2 USD por persona al día para el guía, y 1 USD por persona al día para el conductor."
+              ]
+            },
+            {
+              "value": "handcrafts",
+              "title": "Artesanías",
+              "content": [
+                "Busque canastas, bolsas y tapetes tejidos con fibras naturales, así como cerámica y alfarería, incluyendo vajillas de Talavera y piezas de barro negro.",
+                "También hay disponibilidad de trabajos en metal y piedras como plata, oro y ónix."
+              ]
+            },
+            {
+              "value": "photography",
+              "title": "Fotografía y video",
+              "content": [
+                "Los sitios arqueológicos y museos suelen cobrar una tarifa por uso de cámara de video, alrededor de 4 USD por sitio.",
+                "Pida permiso antes de fotografiar a la población local, y tenga en cuenta que está estrictamente prohibido tomar fotografías dentro de la iglesia de San Juan Chamula, en Chiapas."
+              ]
+            },
+            {
+              "value": "cuisine",
+              "title": "Gastronomía mexicana",
+              "content": [
+                "La gastronomía mexicana se caracteriza por sabores intensos y elaboraciones ricas, a base de maíz, frijoles, arroz, pollo, huevo, chile, frutas y verduras.",
+                "Algunos platillos pueden ser bastante picantes, así que vale la pena preguntar antes si prefiere comida menos picante."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fr": {
+    "whereToGo": {
+      "id": "where-to-go",
+      "badge": "Où aller",
+      "title": "Où aller au Mexique",
+      "description": "Découvrez quelques-uns de nos destinations préférées au Mexique."
+    },
+    "whenToGo": {
+      "id": "when-to-go",
+      "badge": "Quand partir",
+      "title": "Climat et meilleure période pour visiter le Mexique",
+      "description": "Le Mexique peut être visité toute l’année grâce à sa géographie variée et à son climat généralement agréable. Des plages tropicales aux villes coloniales de montagne, chaque région offre une expérience de voyage différente.",
+      "cards": [
+        {
+          "icon": "sun",
+          "title": "Aperçu du climat",
+          "description": "Le Mexique peut être visité toute l’année. En raison de sa géographie variée, le climat change selon les régions, des zones côtières chaudes aux villes de montagne plus fraîches."
+        },
+        {
+          "icon": "cloudRain",
+          "title": "Saison des pluies",
+          "description": "La saison des pluies s’étend généralement de fin mai à mi-septembre. La pluie arrive souvent en fin d’après-midi ou le soir, tandis que les matinées sont généralement ensoleillées."
+        },
+        {
+          "icon": "mapPin",
+          "title": "Villes de montagne",
+          "description": "Mexico, Puebla, Oaxaca et San Cristóbal peuvent être fraîches le matin et le soir en raison de leur altitude, tandis que les journées sont généralement chaudes."
+        },
+        {
+          "icon": "hanger",
+          "title": "Quoi emporter",
+          "description": "Un pull ou une veste légère est recommandé pour les matinées et les soirées. Pendant la saison des pluies, apportez un imperméable ou un parapluie compact."
+        },
+        {
+          "icon": "users",
+          "title": "Périodes fréquentées",
+          "description": "Le Mexique est généralement plus fréquenté en juin, juillet, de mi-décembre à mi-janvier, pendant les vacances de Pâques et les vacances scolaires de juillet et août."
+        },
+        {
+          "icon": "calendar",
+          "title": "Spring Break",
+          "description": "Les destinations balnéaires peuvent être plus fréquentées de fin février à avril, en particulier les zones côtières populaires comme Cancún et les Caraïbes mexicaines."
+        }
+      ],
+      "quickNotes": {
+        "title": "Notes rapides de voyage",
+        "paragraphs": [
+          "Les températures moyennes dans de nombreuses régions du Mexique sont d’environ 25°C à 30°C. Les zones côtières et le sud du Mexique ont tendance à être plus chauds et plus humides de mai à septembre.",
+          "Même pendant la saison des pluies, voyager reste tout à fait possible. La plupart des journées restent ensoleillées une grande partie du temps, avec des averses plus fréquentes en fin d’après-midi."
+        ],
+        "packingTitle": "Bagages recommandés",
+        "packing": [
+          "Vêtements légers pour les journées chaudes",
+          "Un pull ou une veste légère pour les villes en altitude",
+          "Imperméable ou parapluie compact de fin mai à septembre",
+          "Chaussures confortables pour les sites archéologiques et les visites de ville",
+          "Protection solaire pour la plage, le désert et les activités en plein air"
+        ],
+        "tip": "Conseil de voyage : pour une expérience plus calme, évitez les périodes de vacances nationales comme Pâques, les vacances scolaires de juillet et août, et la saison de Noël et du Nouvel An."
+      }
+    },
+    "howToGo": {
+      "id": "how-to-go",
+      "badge": "Comment y aller",
+      "title": "Tout savoir avant votre voyage",
+      "description": "Informations pratiques sur les bagages, l’argent, la sécurité et les formalités d’entrée, organisées pour trouver facilement ce dont vous avez besoin.",
+      "groups": [
+        {
+          "icon": "hanger",
+          "title": "Préparer ses bagages",
+          "items": [
+            {
+              "value": "clothes",
+              "title": "Vêtements et chaussures",
+              "content": [
+                "Les températures varient beaucoup selon les régions, donc les vêtements légers en lin ou en coton sont idéaux pour les visites en journée, avec des chaussures confortables de marche ou de sport.",
+                "Pour les sites archéologiques, portez des chaussures confortables, des manches longues et un chapeau pour vous protéger du soleil.",
+                "Les matinées et soirées peuvent être fraîches, surtout pendant la saison des pluies, il est donc conseillé d’emporter un pull ou une veste légère.",
+                "Si vous voyagez en hiver, ou si vous passez du temps à Mexico, Puebla ou San Cristóbal de las Casas, prévoyez une veste plus chaude ou des couches thermiques, car les températures y sont plus fraîches."
+              ]
+            },
+            {
+              "value": "luggage",
+              "title": "Bagages",
+              "content": [
+                "Une grande valise par personne est autorisée à bord du bus Alico Tours.",
+                "Les franchises de bagage à main varient de 5 kg à 10 kg selon la compagnie aérienne."
+              ]
+            },
+            {
+              "value": "do-not-forget",
+              "title": "À ne pas oublier",
+              "content": [
+                "Quelques extras utiles : une petite trousse de médicaments, une assurance accident ou maladie, un petit cadenas pour les bagages, un répulsif anti-moustiques, une carte si nécessaire, un guide du Mexique, un appareil photo, votre téléphone portable et une batterie externe, une protection solaire et des lunettes de soleil.",
+                "Si vous prévoyez de louer une voiture, apportez vos documents officiels, notamment un permis de conduire valide et une carte de crédit."
+              ]
+            }
+          ]
+        },
+        {
+          "icon": "creditCard",
+          "title": "Argent et connectivité",
+          "items": [
+            {
+              "value": "currency",
+              "title": "Devise",
+              "content": [
+                "La devise est le peso mexicain, avec un taux de change variable ; à titre indicatif, un dollar américain vaut environ 19 pesos.",
+                "Le dollar américain est largement accepté dans les grandes villes, et l’euro est accepté dans certains aéroports, banques et bureaux de change. Les chèques de voyage ne sont pas facilement acceptés et leur usage n’est pas recommandé.",
+                "Nous recommandons fortement de changer une partie de votre argent en pesos, car payer en devise étrangère dans les commerces et restaurants locaux n’est pas toujours simple."
+              ]
+            },
+            {
+              "value": "cards",
+              "title": "Cartes de crédit internationales",
+              "content": [
+                "Visa, MasterCard et American Express sont largement acceptées.",
+                "Les retraits aux distributeurs automatiques sont possibles jusqu’à un maximum de 450 USD."
+              ]
+            },
+            {
+              "value": "telephone",
+              "title": "Téléphone",
+              "content": [
+                "Les appels nationaux et internationaux depuis les hôtels sont généralement coûteux ; vérifiez le tarif à la réception avant d’appeler.",
+                "L’option la plus pratique est d’acheter une carte SIM locale ou d’utiliser une application comme Skype. Des téléphones publics avec carte LADATEL sont disponibles si vous n’avez pas de smartphone."
+              ]
+            },
+            {
+              "value": "hours",
+              "title": "Horaires d’ouverture",
+              "content": [
+                "Les grands magasins et supermarchés sont généralement ouverts tous les jours de 9h00 à 20h00.",
+                "Les banques sont ouvertes du lundi au vendredi, de 9h00 à 16h00.",
+                "Les bureaux de change sont ouverts du lundi au vendredi de 9h00 à 18h00, et le week-end de 9h00 à 14h00 ; ceux de l’aéroport fonctionnent 24h/24."
+              ]
+            }
+          ]
+        },
+        {
+          "icon": "shieldCheck",
+          "title": "Sécurité et santé",
+          "items": [
+            {
+              "value": "safety",
+              "title": "Rester en sécurité",
+              "content": [
+                "Le Mexique est une destination chaleureuse et gratifiante, et quelques précautions simples suffisent : surveillez vos bagages dans les aéroports, évitez les bijoux ou montres voyantes, et privilégiez la carte de crédit plutôt que de grandes sommes en espèces.",
+                "Évitez de marcher seul dans des rues sombres, et ne transportez jamais de drogue, les lois mexicaines étant très strictes ; si vous avez besoin de médicaments contrôlés pour des raisons de santé, gardez toujours l’ordonnance avec vous.",
+                "Pour les taxis, privilégiez un taxi d’hôtel, un radio-taxi ou Uber. Si vous prenez un taxi de rue, vérifiez l’identification du chauffeur près de la portière passager et confirmez la plaque avant de monter.",
+                "Les femmes voyageant seules peuvent occasionnellement recevoir des remarques d’hommes dans la rue ; il est préférable de ne pas y prêter attention et de poursuivre son chemin.",
+                "En cas de phénomène naturel, suivez les consignes de sécurité locales et restez calme."
+              ]
+            },
+            {
+              "value": "health",
+              "title": "Santé et hygiène",
+              "content": [
+                "Aucun vaccin n’est requis pour entrer au Mexique, bien qu’une protection contre l’hépatite A, le tétanos et la dengue soit recommandée.",
+                "La nourriture de rue est à consommer avec prudence en raison de normes d’hygiène variables. Buvez uniquement de l’eau purifiée ou en bouteille.",
+                "Emportez un répulsif anti-moustiques et une protection solaire pour les journées en extérieur."
+              ]
+            }
+          ]
+        },
+        {
+          "icon": "steam",
+          "title": "Entrée et culture",
+          "items": [
+            {
+              "value": "procedures",
+              "title": "Visa et formalités d’entrée",
+              "content": [
+                "Les exigences varient selon le pays ; renseignez-vous auprès du consulat mexicain de votre pays avant de partir.",
+                "Un formulaire migratoire touristique, disponible auprès des agences de voyages ou des compagnies aériennes, est requis à l’arrivée et valable jusqu’à 30 jours. Un passeport valide au moins 6 mois après la fin du séjour est également requis.",
+                "Plus de détails sont disponibles sur inm.gob.mx."
+              ]
+            },
+            {
+              "value": "language-population",
+              "title": "Langue et population",
+              "content": [
+                "L’espagnol est la langue officielle, bien que 58 langues indigènes soient également parlées à travers le pays.",
+                "La population se compose de trois grands groupes : descendants d’Européens, métis d’origine espagnole et indigène, et communautés indigènes."
+              ]
+            },
+            {
+              "value": "practical",
+              "title": "Électricité, fuseaux horaires et indicatif téléphonique",
+              "content": [
+                "Le courant électrique est de 110V, 60Hz, avec des prises plates de type américain ; prévoyez un adaptateur si nécessaire.",
+                "Le Mexique compte quatre fuseaux horaires : zone Sud-Est (Quintana Roo), zone Centre (dont Mexico, Guadalajara et Monterrey), zone Pacifique (Basse-Californie du Sud, Chihuahua, Nayarit, Sinaloa et Sonora), et zone Nord-Ouest (Basse-Californie, dont Tijuana).",
+                "L’indicatif téléphonique du pays est le +52."
+              ]
+            },
+            {
+              "value": "tipping",
+              "title": "Pourboires",
+              "content": [
+                "Le pourboire n’est pas obligatoire au Mexique, mais il est apprécié, de nombreux employés d’hôtels et de restaurants en dépendant en raison de salaires modestes.",
+                "Pour les guides et chauffeurs locaux, un pourboire est habituel lorsque le service a été satisfaisant : environ 2 USD par personne et par jour pour le guide, et 1 USD par personne et par jour pour le chauffeur."
+              ]
+            },
+            {
+              "value": "handcrafts",
+              "title": "Artisanat",
+              "content": [
+                "Recherchez paniers, sacs et tapis tissés en fibres naturelles, ainsi que poteries et céramiques, dont la vaisselle Talavera et les pièces en argile noire.",
+                "Des travaux de métal et des pierres telles que l’argent, l’or et l’onyx sont également largement disponibles."
+              ]
+            },
+            {
+              "value": "photography",
+              "title": "Photographie et vidéo",
+              "content": [
+                "Les sites archéologiques et musées facturent généralement des frais pour les caméras vidéo, environ 4 USD par site.",
+                "Veuillez demander la permission avant de photographier des habitants locaux, et notez que la photographie est strictement interdite à l’intérieur de l’église de San Juan Chamula, dans le Chiapas."
+              ]
+            },
+            {
+              "value": "cuisine",
+              "title": "Cuisine mexicaine",
+              "content": [
+                "La cuisine mexicaine se distingue par des saveurs riches et affirmées, à base de maïs, haricots, riz, poulet, œufs, piments, fruits et légumes.",
+                "Certains plats peuvent être assez épicés, il est donc utile de demander à l’avance si vous préférez une cuisine plus douce."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

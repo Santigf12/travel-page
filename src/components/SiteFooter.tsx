@@ -191,7 +191,14 @@ export function SiteFooter({ locale, nav, labels }: SiteFooterProps) {
   ];
 
   return (
-    <Box bg="sand.0" pt={{ base: 60, md: 90 }} pb="xl">
+    <Box
+      bg="sand.0"
+      pt={{ base: 60, md: 90 }}
+      pb="xl"
+      style={{
+        borderTop: '1px solid rgba(44, 43, 40, 0.18)'
+      }}
+    >
       <Container size="xl">
         <SimpleGrid
           cols={{ base: 1, sm: 2, lg: 4 }}

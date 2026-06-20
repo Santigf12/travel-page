@@ -1,0 +1,640 @@
+[
+  {
+    "slug": "acapulco-one-day-tours",
+    "category": "one-day-tours",
+    "image": "/images/trips/acapulco.jpg",
+    "duration": {
+      "en": "1 day",
+      "es": "1 día",
+      "fr": "1 jour"
+    },
+    "title": {
+      "en": "Acapulco",
+      "es": "Acapulco",
+      "fr": "Acapulco"
+    },
+    "summary": {
+      "en": "One-day tour options in Acapulco, from cliff divers and city history to boat trips, lagoon scenery and beach experiences.",
+      "es": "Opciones de tours de un día en Acapulco, desde clavadistas e historia de la ciudad hasta paseos en barco, paisajes de laguna y experiencias de playa.",
+      "fr": "Options d’excursions d’une journée à Acapulco, des plongeurs de falaise et de l’histoire de la ville aux sorties en bateau, paysages de lagune et expériences balnéaires."
+    },
+    "description": {
+      "en": "Acapulco combines warm weather, dramatic coastal scenery and classic attractions such as La Quebrada, where visitors can watch cliff divers perform. The destination also features Diego Rivera’s mural La Serpiente Emplumada at La Casa de los Vientos, the sea at Barra Vieja, sunsets at Coyuca Lagoon and walks along Pie de la Cuesta.",
+      "es": "Acapulco combina clima cálido, paisajes costeros dramáticos y atractivos clásicos como La Quebrada, donde los visitantes pueden ver el espectáculo de los clavadistas. El destino también cuenta con el mural La Serpiente Emplumada de Diego Rivera en La Casa de los Vientos, el mar en Barra Vieja, los atardeceres en la Laguna de Coyuca y caminatas por Pie de la Cuesta.",
+      "fr": "Acapulco combine un climat chaud, des paysages côtiers spectaculaires et des attractions classiques comme La Quebrada, où les visiteurs peuvent assister au spectacle des plongeurs de falaise. La destination présente aussi la fresque La Serpiente Emplumada de Diego Rivera à La Casa de los Vientos, la mer à Barra Vieja, les couchers de soleil de la lagune de Coyuca et les promenades à Pie de la Cuesta."
+    },
+    "highlights": {
+      "en": [
+        "City Tour & Cliff Divers",
+        "Acapulco Through the Ages",
+        "Night Tour with Dinner at La Perla",
+        "Aca Rey boat with entertainment",
+        "Palao La Roqueta Island",
+        "Coyuca Lagoon with lunch"
+      ],
+      "es": [
+        "City Tour y Clavadistas",
+        "Acapulco a través de los años",
+        "Tour nocturno con cena en La Perla",
+        "Barco Aca Rey con entretenimiento",
+        "Isla Palao La Roqueta",
+        "Laguna de Coyuca con almuerzo"
+      ],
+      "fr": [
+        "Tour de ville et plongeurs de falaise",
+        "Acapulco à travers les âges",
+        "Tour nocturne avec dîner à La Perla",
+        "Bateau Aca Rey avec animation",
+        "Île Palao La Roqueta",
+        "Lagune de Coyuca avec déjeuner"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": "01",
+        "title": {
+          "en": "Acapulco One-Day Experience",
+          "es": "Experiencia de un día en Acapulco",
+          "fr": "Expérience d’une journée à Acapulco"
+        },
+        "description": {
+          "en": "Choose from Acapulco’s one-day tour options, including city sightseeing, cliff-diver shows, boat excursions, lagoon visits and evening experiences.",
+          "es": "Elija entre las opciones de tours de un día en Acapulco, incluyendo recorridos por la ciudad, espectáculos de clavadistas, paseos en barco, visitas a la laguna y experiencias nocturnas.",
+          "fr": "Choisissez parmi les excursions d’une journée à Acapulco, incluant visites de la ville, spectacles de plongeurs, sorties en bateau, visites de lagune et expériences en soirée."
+        }
+      }
+    ],
+    "included": {
+      "en": ["One-day tour options available in Acapulco", "Experiences vary according to the selected tour"],
+      "es": ["Opciones de tours de un día disponibles en Acapulco", "Las experiencias varían según el tour seleccionado"],
+      "fr": ["Options d’excursions d’une journée disponibles à Acapulco", "Les expériences varient selon l’excursion choisie"]
+    }
+  },
+  {
+    "slug": "copper-canyon-one-day-tours",
+    "category": "one-day-tours",
+    "image": "/images/trips/copper-canyon.jpg",
+    "duration": {
+      "en": "1 day",
+      "es": "1 día",
+      "fr": "1 jour"
+    },
+    "title": {
+      "en": "Copper Canyon",
+      "es": "Barrancas del Cobre",
+      "fr": "Copper Canyon"
+    },
+    "summary": {
+      "en": "One-day experiences around Copper Canyon, including river rafting, horseback riding, viewpoints, Creel and the traditions of the Rarámuri culture.",
+      "es": "Experiencias de un día en Barrancas del Cobre, incluyendo rafting, cabalgatas, miradores, Creel y tradiciones de la cultura rarámuri.",
+      "fr": "Expériences d’une journée dans le Copper Canyon, incluant rafting, promenades à cheval, points de vue, Creel et traditions de la culture rarámuri."
+    },
+    "description": {
+      "en": "Copper Canyon is home to forests, cliffs, caves, lakes, waterfalls and rivers, as well as missions and traditions of the Rarámuri culture. The Chihuahua-Pacific train, known as El Chepe, crosses tunnels and bridges through this dramatic landscape.",
+      "es": "Barrancas del Cobre alberga bosques, barrancos, cuevas, lagos, cascadas y ríos, además de misiones y tradiciones de la cultura rarámuri. El tren Chihuahua-Pacífico, conocido como El Chepe, cruza túneles y puentes a través de este paisaje impresionante.",
+      "fr": "Le Copper Canyon abrite forêts, falaises, grottes, lacs, cascades et rivières, ainsi que les missions et traditions de la culture rarámuri. Le train Chihuahua-Pacific, connu sous le nom d’El Chepe, traverse tunnels et ponts dans ce paysage spectaculaire."
+    },
+    "highlights": {
+      "en": [
+        "Rafting on the El Fuerte River with petroglyphs",
+        "Horseback ride to the waterfall in Cerocahui",
+        "Wine tour and Tarahumara girls’ boarding school",
+        "Divisadero, Piedra Volada and viewpoints",
+        "Tour to Creel"
+      ],
+      "es": [
+        "Rafting en el río El Fuerte con petroglifos",
+        "Cabalgata a la cascada en Cerocahui",
+        "Tour de vino y visita al internado de niñas tarahumaras",
+        "Divisadero, Piedra Volada y miradores",
+        "Tour a Creel"
+      ],
+      "fr": [
+        "Rafting sur la rivière El Fuerte avec pétroglyphes",
+        "Balade à cheval jusqu’à la cascade de Cerocahui",
+        "Tour du vin et pensionnat de jeunes filles tarahumaras",
+        "Divisadero, Piedra Volada et points de vue",
+        "Excursion à Creel"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": "01",
+        "title": {
+          "en": "Copper Canyon One-Day Experience",
+          "es": "Experiencia de un día en Barrancas del Cobre",
+          "fr": "Expérience d’une journée au Copper Canyon"
+        },
+        "description": {
+          "en": "Choose from Copper Canyon’s one-day activities, including rafting, horseback riding, cultural visits, viewpoints and Creel excursions.",
+          "es": "Elija entre las actividades de un día en Barrancas del Cobre, incluyendo rafting, cabalgatas, visitas culturales, miradores y excursiones a Creel.",
+          "fr": "Choisissez parmi les activités d’une journée au Copper Canyon, incluant rafting, promenades à cheval, visites culturelles, points de vue et excursions à Creel."
+        }
+      }
+    ],
+    "included": {
+      "en": ["One-day tour options available in Copper Canyon", "Experiences vary according to the selected tour"],
+      "es": ["Opciones de tours de un día disponibles en Barrancas del Cobre", "Las experiencias varían según el tour seleccionado"],
+      "fr": ["Options d’excursions d’une journée disponibles au Copper Canyon", "Les expériences varient selon l’excursion choisie"]
+    }
+  },
+  {
+    "slug": "campeche-one-day-tours",
+    "category": "one-day-tours",
+    "image": "/images/trips/campeche.jpg",
+    "duration": {
+      "en": "1 day",
+      "es": "1 día",
+      "fr": "1 jour"
+    },
+    "title": {
+      "en": "Campeche",
+      "es": "Campeche",
+      "fr": "Campeche"
+    },
+    "summary": {
+      "en": "One-day tours from Campeche to archaeological sites, haciendas, colonial routes and nearby regional highlights.",
+      "es": "Tours de un día desde Campeche hacia sitios arqueológicos, haciendas, rutas coloniales y atractivos regionales cercanos.",
+      "fr": "Excursions d’une journée depuis Campeche vers sites archéologiques, haciendas, routes coloniales et attractions régionales proches."
+    },
+    "description": {
+      "en": "Campeche is one of Mexico’s most beautiful capitals. UNESCO recognized it as a model of colonial baroque city planning, and its walled historic center recalls its past as a strategic port threatened by pirates.",
+      "es": "Campeche es una de las capitales más bellas de México. La UNESCO la reconoció como modelo de planeación urbana barroca colonial, y su centro histórico amurallado recuerda su pasado como puerto estratégico amenazado por piratas.",
+      "fr": "Campeche est l’une des plus belles capitales du Mexique. L’UNESCO l’a reconnue comme modèle d’urbanisme baroque colonial, et son centre historique fortifié rappelle son passé de port stratégique menacé par les pirates."
+    },
+    "highlights": {
+      "en": ["Edzná", "Calakmul and Balamkú", "Edzná and haciendas", "Camino Real and art", "Edzná, Kabah and Uxmal", "Palenque"],
+      "es": ["Edzná", "Calakmul y Balamkú", "Edzná y haciendas", "Camino Real y arte", "Edzná, Kabah y Uxmal", "Palenque"],
+      "fr": ["Edzná", "Calakmul et Balamkú", "Edzná et haciendas", "Camino Real et art", "Edzná, Kabah et Uxmal", "Palenque"]
+    },
+    "itinerary": [
+      {
+        "day": "01",
+        "title": {
+          "en": "Campeche One-Day Experience",
+          "es": "Experiencia de un día en Campeche",
+          "fr": "Expérience d’une journée à Campeche"
+        },
+        "description": {
+          "en": "Choose from Campeche’s one-day tours, including archaeological sites, haciendas, art routes and nearby regional excursions.",
+          "es": "Elija entre los tours de un día en Campeche, incluyendo sitios arqueológicos, haciendas, rutas de arte y excursiones regionales cercanas.",
+          "fr": "Choisissez parmi les excursions d’une journée à Campeche, incluant sites archéologiques, haciendas, routes artistiques et excursions régionales proches."
+        }
+      }
+    ],
+    "included": {
+      "en": ["One-day tour options available in Campeche", "Experiences vary according to the selected tour"],
+      "es": ["Opciones de tours de un día disponibles en Campeche", "Las experiencias varían según el tour seleccionado"],
+      "fr": ["Options d’excursions d’une journée disponibles à Campeche", "Les expériences varient selon l’excursion choisie"]
+    }
+  },
+  {
+    "slug": "cancun-one-day-tours",
+    "category": "one-day-tours",
+    "image": "/images/trips/cancun.jpg",
+    "duration": {
+      "en": "1 day",
+      "es": "1 día",
+      "fr": "1 jour"
+    },
+    "title": {
+      "en": "Cancún",
+      "es": "Cancún",
+      "fr": "Cancún"
+    },
+    "summary": {
+      "en": "One-day tours from Cancún combining Caribbean beaches, Mayan sites, nature parks, catamaran trips and signature evening shows.",
+      "es": "Tours de un día desde Cancún que combinan playas del Caribe, sitios mayas, parques naturales, paseos en catamarán y espectáculos nocturnos.",
+      "fr": "Excursions d’une journée depuis Cancún combinant plages des Caraïbes, sites mayas, parcs naturels, sorties en catamaran et spectacles en soirée."
+    },
+    "description": {
+      "en": "Cancún is located in Quintana Roo, where Mayan culture shines throughout the region. Surrounded by the Caribbean Sea, coral sands and clear blue waters, it offers access to ruins such as El Rey and El Templo del Alacrán, nature experiences such as Xel-Há and many adventure options.",
+      "es": "Cancún se encuentra en Quintana Roo, donde la cultura maya se refleja en toda la región. Rodeado por el mar Caribe, arenas coralinas y aguas cristalinas, ofrece acceso a ruinas como El Rey y El Templo del Alacrán, experiencias naturales como Xel-Há y muchas opciones de aventura.",
+      "fr": "Cancún se trouve au Quintana Roo, où la culture maya rayonne dans toute la région. Entourée par la mer des Caraïbes, ses sables coralliens et ses eaux cristallines, la destination offre l’accès à des ruines comme El Rey et El Templo del Alacrán, à des expériences naturelles comme Xel-Há et à de nombreuses aventures."
+    },
+    "highlights": {
+      "en": [
+        "Tulum and Xel-Há",
+        "Chichén Itzá with cenote",
+        "Catamaran",
+        "Xplor",
+        "Xcaret",
+        "Pirate show",
+        "El Balaam Mayan village",
+        "Discover Cozumel in Jeep",
+        "Joyà Cirque du Soleil with dinner",
+        "Swim with whale sharks",
+        "Underwater museum"
+      ],
+      "es": [
+        "Tulum y Xel-Há",
+        "Chichén Itzá con cenote",
+        "Catamarán",
+        "Xplor",
+        "Xcaret",
+        "Show pirata",
+        "Pueblo maya El Balaam",
+        "Descubre Cozumel en Jeep",
+        "Joyà Cirque du Soleil con cena",
+        "Nado con tiburón ballena",
+        "Museo submarino"
+      ],
+      "fr": [
+        "Tulum et Xel-Há",
+        "Chichén Itzá avec cénote",
+        "Catamaran",
+        "Xplor",
+        "Xcaret",
+        "Spectacle pirate",
+        "Village maya El Balaam",
+        "Découverte de Cozumel en Jeep",
+        "Joyà Cirque du Soleil avec dîner",
+        "Nage avec les requins-baleines",
+        "Musée sous-marin"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": "01",
+        "title": {
+          "en": "Cancún One-Day Experience",
+          "es": "Experiencia de un día en Cancún",
+          "fr": "Expérience d’une journée à Cancún"
+        },
+        "description": {
+          "en": "Choose from Cancún’s one-day tours, including archaeological sites, nature parks, catamarans, island adventures, shows and marine experiences.",
+          "es": "Elija entre los tours de un día en Cancún, incluyendo sitios arqueológicos, parques naturales, catamaranes, aventuras en islas, espectáculos y experiencias marinas.",
+          "fr": "Choisissez parmi les excursions d’une journée à Cancún, incluant sites archéologiques, parcs naturels, catamarans, aventures insulaires, spectacles et expériences marines."
+        }
+      }
+    ],
+    "included": {
+      "en": ["One-day tour options available in Cancún", "Experiences vary according to the selected tour"],
+      "es": ["Opciones de tours de un día disponibles en Cancún", "Las experiencias varían según el tour seleccionado"],
+      "fr": ["Options d’excursions d’une journée disponibles à Cancún", "Les expériences varient selon l’excursion choisie"]
+    }
+  },
+  {
+    "slug": "merida-one-day-tours",
+    "category": "one-day-tours",
+    "image": "/images/trips/merida.jpg",
+    "duration": {
+      "en": "1 day",
+      "es": "1 día",
+      "fr": "1 jour"
+    },
+    "title": {
+      "en": "Mérida",
+      "es": "Mérida",
+      "fr": "Mérida"
+    },
+    "summary": {
+      "en": "One-day tours from Mérida featuring colonial streets, Yucatecan food, Mayan sites, Izamal, Celestún and nearby coastal experiences.",
+      "es": "Tours de un día desde Mérida con calles coloniales, gastronomía yucateca, sitios mayas, Izamal, Celestún y experiencias costeras cercanas.",
+      "fr": "Excursions d’une journée depuis Mérida avec rues coloniales, gastronomie yucatèque, sites mayas, Izamal, Celestún et expériences côtières proches."
+    },
+    "description": {
+      "en": "Mérida, the White City, was founded on the abandoned Mayan metropolis of Ichkaansihó and is now the financial and cultural capital of the Yucatán Peninsula. Visitors can walk along Paseo de Montejo, admire historic houses and taste regional dishes and drinks such as Xtabentún, papadzules, salbutes and cochinita pibil.",
+      "es": "Mérida, la Ciudad Blanca, fue fundada sobre la antigua metrópoli maya abandonada de Ichkaansihó y hoy es la capital financiera y cultural de la península de Yucatán. Los visitantes pueden caminar por Paseo de Montejo, admirar casonas históricas y probar platillos y bebidas regionales como Xtabentún, papadzules, salbutes y cochinita pibil.",
+      "fr": "Mérida, la Ville Blanche, fut fondée sur l’ancienne métropole maya abandonnée d’Ichkaansihó et constitue aujourd’hui la capitale financière et culturelle de la péninsule du Yucatán. Les visiteurs peuvent se promener sur le Paseo de Montejo, admirer les demeures historiques et goûter des spécialités régionales comme le Xtabentún, les papadzules, les salbutes et la cochinita pibil."
+    },
+    "highlights": {
+      "en": [
+        "City tour",
+        "Izamal with calesa",
+        "Izamal light and sound",
+        "Sotuta de Peón",
+        "Dzibilchaltún and Progreso",
+        "Celestún",
+        "Uxmal light and sound",
+        "Chichén Itzá"
+      ],
+      "es": [
+        "City tour",
+        "Izamal con calesa",
+        "Luz y sonido en Izamal",
+        "Sotuta de Peón",
+        "Dzibilchaltún y Progreso",
+        "Celestún",
+        "Luz y sonido en Uxmal",
+        "Chichén Itzá"
+      ],
+      "fr": [
+        "Tour de ville",
+        "Izamal en calèche",
+        "Son et lumière à Izamal",
+        "Sotuta de Peón",
+        "Dzibilchaltún et Progreso",
+        "Celestún",
+        "Son et lumière à Uxmal",
+        "Chichén Itzá"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": "01",
+        "title": {
+          "en": "Mérida One-Day Experience",
+          "es": "Experiencia de un día en Mérida",
+          "fr": "Expérience d’une journée à Mérida"
+        },
+        "description": {
+          "en": "Choose from Mérida’s one-day tours, including city visits, Izamal, haciendas, Mayan sites, coastal escapes and nature reserves.",
+          "es": "Elija entre los tours de un día en Mérida, incluyendo visitas de ciudad, Izamal, haciendas, sitios mayas, escapadas a la costa y reservas naturales.",
+          "fr": "Choisissez parmi les excursions d’une journée à Mérida, incluant visites de ville, Izamal, haciendas, sites mayas, escapades côtières et réserves naturelles."
+        }
+      }
+    ],
+    "included": {
+      "en": ["One-day tour options available in Mérida", "Experiences vary according to the selected tour"],
+      "es": ["Opciones de tours de un día disponibles en Mérida", "Las experiencias varían según el tour seleccionado"],
+      "fr": ["Options d’excursions d’une journée disponibles à Mérida", "Les expériences varient selon l’excursion choisie"]
+    }
+  },
+  {
+    "slug": "mexico-city-one-day-tours",
+    "category": "one-day-tours",
+    "image": "/images/trips/mexico-city.jpg",
+    "duration": {
+      "en": "1 day",
+      "es": "1 día",
+      "fr": "1 jour"
+    },
+    "title": {
+      "en": "Mexico City",
+      "es": "Ciudad de México",
+      "fr": "Mexico"
+    },
+    "summary": {
+      "en": "One-day tours in Mexico City and nearby highlights, including museums, Teotihuacán, Guadalupe Shrine, Taxco, Puebla, Xochimilco and cultural shows.",
+      "es": "Tours de un día en Ciudad de México y alrededores, incluyendo museos, Teotihuacán, Basílica de Guadalupe, Taxco, Puebla, Xochimilco y espectáculos culturales.",
+      "fr": "Excursions d’une journée à Mexico et dans ses environs, incluant musées, Teotihuacán, sanctuaire de Guadalupe, Taxco, Puebla, Xochimilco et spectacles culturels."
+    },
+    "description": {
+      "en": "Mexico City is one of Mexico’s most enjoyable destinations. Its historic center, the Zócalo, is a UNESCO World Heritage site and the heart of a living culture shaped since the founding of Tenochtitlan. Visitors can explore art nouveau and art deco neighborhoods, cuisine, museums and historic streets.",
+      "es": "Ciudad de México es uno de los destinos más disfrutables de México. Su centro histórico, el Zócalo, es Patrimonio Mundial de la UNESCO y el corazón de una cultura viva formada desde la fundación de Tenochtitlan. Los visitantes pueden explorar barrios art nouveau y art déco, gastronomía, museos y calles históricas.",
+      "fr": "Mexico est l’une des destinations les plus agréables du Mexique. Son centre historique, le Zócalo, est inscrit au patrimoine mondial de l’UNESCO et constitue le cœur d’une culture vivante héritée de Tenochtitlan. Les visiteurs peuvent explorer des quartiers art nouveau et art déco, la gastronomie, les musées et les rues historiques."
+    },
+    "highlights": {
+      "en": [
+        "City Tour and Anthropology Museum",
+        "Teotihuacán and Guadalupe Shrine",
+        "Teotihuacán and City Tour combo",
+        "Cuernavaca and Taxco",
+        "Puebla, Cholula and Tonantzintla",
+        "Diego and Frida",
+        "Folkloric Ballet at Bellas Artes Palace",
+        "Xochimilco and National University",
+        "Bocho Tour",
+        "Hot-air balloon in Teotihuacán"
+      ],
+      "es": [
+        "City Tour y Museo de Antropología",
+        "Teotihuacán y Basílica de Guadalupe",
+        "Combo Teotihuacán y City Tour",
+        "Cuernavaca y Taxco",
+        "Puebla, Cholula y Tonantzintla",
+        "Diego y Frida",
+        "Ballet Folklórico en el Palacio de Bellas Artes",
+        "Xochimilco y Universidad Nacional",
+        "Bocho Tour",
+        "Globo aerostático en Teotihuacán"
+      ],
+      "fr": [
+        "Tour de ville et musée d’Anthropologie",
+        "Teotihuacán et sanctuaire de Guadalupe",
+        "Combo Teotihuacán et tour de ville",
+        "Cuernavaca et Taxco",
+        "Puebla, Cholula et Tonantzintla",
+        "Diego et Frida",
+        "Ballet folklorique au palais des Beaux-Arts",
+        "Xochimilco et Université nationale",
+        "Bocho Tour",
+        "Montgolfière à Teotihuacán"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": "01",
+        "title": {
+          "en": "Mexico City One-Day Experience",
+          "es": "Experiencia de un día en Ciudad de México",
+          "fr": "Expérience d’une journée à Mexico"
+        },
+        "description": {
+          "en": "Choose from Mexico City’s one-day tours, including city sightseeing, museums, Teotihuacán, Guadalupe Shrine, nearby colonial towns, Xochimilco and cultural shows.",
+          "es": "Elija entre los tours de un día en Ciudad de México, incluyendo recorridos de ciudad, museos, Teotihuacán, Basílica de Guadalupe, pueblos coloniales cercanos, Xochimilco y espectáculos culturales.",
+          "fr": "Choisissez parmi les excursions d’une journée à Mexico, incluant visites de ville, musées, Teotihuacán, sanctuaire de Guadalupe, villes coloniales voisines, Xochimilco et spectacles culturels."
+        }
+      }
+    ],
+    "included": {
+      "en": ["One-day tour options available in Mexico City", "Experiences vary according to the selected tour"],
+      "es": ["Opciones de tours de un día disponibles en Ciudad de México", "Las experiencias varían según el tour seleccionado"],
+      "fr": ["Options d’excursions d’une journée disponibles à Mexico", "Les expériences varient selon l’excursion choisie"]
+    }
+  },
+  {
+    "slug": "oaxaca-one-day-tours",
+    "category": "one-day-tours",
+    "image": "/images/trips/oaxaca.jpg",
+    "duration": {
+      "en": "1 day",
+      "es": "1 día",
+      "fr": "1 jour"
+    },
+    "title": {
+      "en": "Oaxaca",
+      "es": "Oaxaca",
+      "fr": "Oaxaca"
+    },
+    "summary": {
+      "en": "One-day tours in Oaxaca featuring archaeology, craft villages, mezcal, weaving, petrified landscapes and local art.",
+      "es": "Tours de un día en Oaxaca con arqueología, pueblos artesanales, mezcal, tejidos, paisajes petrificados y arte local.",
+      "fr": "Excursions d’une journée à Oaxaca avec archéologie, villages artisanaux, mezcal, tissage, paysages pétrifiés et art local."
+    },
+    "description": {
+      "en": "Oaxaca brings together native languages and communities with gastronomic, mountain and coastal richness. Its history, culture, ancient civilizations, colonial architecture and living traditions make it a destination to visit again and again.",
+      "es": "Oaxaca reúne lenguas y comunidades originarias con riqueza gastronómica, montañosa y marítima. Su historia, cultura, civilizaciones antiguas, arquitectura colonial y tradiciones vivas la convierten en un destino para visitar una y otra vez.",
+      "fr": "Oaxaca réunit langues et communautés autochtones avec une richesse gastronomique, montagneuse et maritime. Son histoire, sa culture, ses civilisations anciennes, son architecture coloniale et ses traditions vivantes en font une destination à découvrir encore et encore."
+    },
+    "highlights": {
+      "en": [
+        "Monte Albán",
+        "Monte Albán, Arrazola and Cuilapan",
+        "Weaving and mezcal",
+        "Mitla, Tule, Teotitlán, mezcal and petrified walls",
+        "Zaachila and Cuilapam",
+        "Ocotlán, Jalietza and Coyotepec",
+        "Monte Albán, Mitla and Tule with lunch",
+        "Famous painters of Oaxaca"
+      ],
+      "es": [
+        "Monte Albán",
+        "Monte Albán, Arrazola y Cuilapan",
+        "Tejidos y mezcal",
+        "Mitla, Tule, Teotitlán, mezcal y paredes petrificadas",
+        "Zaachila y Cuilapam",
+        "Ocotlán, Jalietza y Coyotepec",
+        "Monte Albán, Mitla y Tule con almuerzo",
+        "Pintores famosos de Oaxaca"
+      ],
+      "fr": [
+        "Monte Albán",
+        "Monte Albán, Arrazola et Cuilapan",
+        "Tissage et mezcal",
+        "Mitla, Tule, Teotitlán, mezcal et parois pétrifiées",
+        "Zaachila et Cuilapam",
+        "Ocotlán, Jalietza et Coyotepec",
+        "Monte Albán, Mitla et Tule avec déjeuner",
+        "Peintres célèbres d’Oaxaca"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": "01",
+        "title": {
+          "en": "Oaxaca One-Day Experience",
+          "es": "Experiencia de un día en Oaxaca",
+          "fr": "Expérience d’une journée à Oaxaca"
+        },
+        "description": {
+          "en": "Choose from Oaxaca’s one-day tours, including archaeological sites, craft villages, weaving, mezcal, local art and nearby natural formations.",
+          "es": "Elija entre los tours de un día en Oaxaca, incluyendo sitios arqueológicos, pueblos artesanales, tejidos, mezcal, arte local y formaciones naturales cercanas.",
+          "fr": "Choisissez parmi les excursions d’une journée à Oaxaca, incluant sites archéologiques, villages artisanaux, tissage, mezcal, art local et formations naturelles proches."
+        }
+      }
+    ],
+    "included": {
+      "en": ["One-day tour options available in Oaxaca", "Experiences vary according to the selected tour"],
+      "es": ["Opciones de tours de un día disponibles en Oaxaca", "Las experiencias varían según el tour seleccionado"],
+      "fr": ["Options d’excursions d’une journée disponibles à Oaxaca", "Les expériences varient selon l’excursion choisie"]
+    }
+  },
+  {
+    "slug": "palenque-one-day-tours",
+    "category": "one-day-tours",
+    "image": "/images/trips/palenque.jpg",
+    "duration": {
+      "en": "1 day",
+      "es": "1 día",
+      "fr": "1 jour"
+    },
+    "title": {
+      "en": "Palenque",
+      "es": "Palenque",
+      "fr": "Palenque"
+    },
+    "summary": {
+      "en": "One-day tours around Palenque, including the archaeological site, waterfalls, Bonampak, Yaxchilán, La Venta Museum and Villahermosa connections.",
+      "es": "Tours de un día alrededor de Palenque, incluyendo la zona arqueológica, cascadas, Bonampak, Yaxchilán, Museo La Venta y conexiones con Villahermosa.",
+      "fr": "Excursions d’une journée autour de Palenque, incluant le site archéologique, les cascades, Bonampak, Yaxchilán, le musée La Venta et les liaisons avec Villahermosa."
+    },
+    "description": {
+      "en": "Palenque is a journey into the history and mysticism of the Mayan culture. The ancient city and its ceremonial centers still echo with the past, while the surrounding area serves as a starting point for natural wonders in northern Chiapas.",
+      "es": "Palenque es un viaje a la historia y el misticismo de la cultura maya. La antigua ciudad y sus centros ceremoniales aún evocan el pasado, mientras que los alrededores sirven como punto de partida para explorar maravillas naturales del norte de Chiapas.",
+      "fr": "Palenque est un voyage dans l’histoire et le mysticisme de la culture maya. L’ancienne cité et ses centres cérémoniels résonnent encore du passé, tandis que les environs servent de point de départ vers les merveilles naturelles du nord du Chiapas."
+    },
+    "highlights": {
+      "en": [
+        "Palenque site",
+        "Palenque site and drop-off to Villahermosa with lunch",
+        "Palenque, Misol-Ha and Agua Azul",
+        "Palenque, Bonampak and Yaxchilán",
+        "Palenque, La Venta Museum and Villahermosa Airport"
+      ],
+      "es": [
+        "Zona arqueológica de Palenque",
+        "Zona arqueológica de Palenque y traslado a Villahermosa con almuerzo",
+        "Palenque, Misol-Ha y Agua Azul",
+        "Palenque, Bonampak y Yaxchilán",
+        "Palenque, Museo La Venta y aeropuerto de Villahermosa"
+      ],
+      "fr": [
+        "Site de Palenque",
+        "Site de Palenque et dépôt à Villahermosa avec déjeuner",
+        "Palenque, Misol-Ha et Agua Azul",
+        "Palenque, Bonampak et Yaxchilán",
+        "Palenque, musée La Venta et aéroport de Villahermosa"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": "01",
+        "title": {
+          "en": "Palenque One-Day Experience",
+          "es": "Experiencia de un día en Palenque",
+          "fr": "Expérience d’une journée à Palenque"
+        },
+        "description": {
+          "en": "Choose from Palenque’s one-day tours, including the archaeological site, waterfalls, nearby Mayan sites, La Venta Museum and transfer-style excursions.",
+          "es": "Elija entre los tours de un día en Palenque, incluyendo la zona arqueológica, cascadas, sitios mayas cercanos, Museo La Venta y excursiones con traslado.",
+          "fr": "Choisissez parmi les excursions d’une journée à Palenque, incluant le site archéologique, les cascades, les sites mayas voisins, le musée La Venta et les excursions avec transfert."
+        }
+      }
+    ],
+    "included": {
+      "en": ["One-day tour options available in Palenque", "Experiences vary according to the selected tour"],
+      "es": ["Opciones de tours de un día disponibles en Palenque", "Las experiencias varían según el tour seleccionado"],
+      "fr": ["Options d’excursions d’une journée disponibles à Palenque", "Les expériences varient selon l’excursion choisie"]
+    }
+  },
+  {
+    "slug": "san-cristobal-one-day-tours",
+    "category": "one-day-tours",
+    "image": "/images/trips/san-cristobal.jpg",
+    "duration": {
+      "en": "1 day",
+      "es": "1 día",
+      "fr": "1 jour"
+    },
+    "title": {
+      "en": "San Cristóbal",
+      "es": "San Cristóbal",
+      "fr": "San Cristóbal"
+    },
+    "summary": {
+      "en": "One-day tours from San Cristóbal de las Casas to nearby Indigenous communities, waterfalls, lakes and Palenque-route highlights.",
+      "es": "Tours de un día desde San Cristóbal de las Casas hacia comunidades indígenas cercanas, cascadas, lagos y atractivos rumbo a Palenque.",
+      "fr": "Excursions d’une journée depuis San Cristóbal de las Casas vers communautés autochtones voisines, cascades, lacs et attractions sur la route de Palenque."
+    },
+    "description": {
+      "en": "San Cristóbal de las Casas rises from a valley surrounded by mountains inhabited by Tzotzil and Tzeltal communities. Today it is a mosaic of local cultures and people from around the world, with a lively main square, city hall and sun-colored cathedral.",
+      "es": "San Cristóbal de las Casas emerge de un valle rodeado de montañas habitadas por comunidades tzotziles y tzeltales. Hoy es un mosaico de culturas locales y personas de todo el mundo, con una plaza principal viva, palacio municipal y catedral de color soleado.",
+      "fr": "San Cristóbal de las Casas émerge d’une vallée entourée de montagnes habitées par des communautés tzotziles et tzeltales. Aujourd’hui, c’est une mosaïque de cultures locales et de personnes venues du monde entier, avec une place centrale animée, l’hôtel de ville et une cathédrale couleur soleil."
+    },
+    "highlights": {
+      "en": [
+        "San Juan Chamula, Zinacantán and City Tour",
+        "San Cristóbal, Agua Azul, Misol-Ha and Palenque zone",
+        "Montebello and Chiflón waterfalls"
+      ],
+      "es": ["San Juan Chamula, Zinacantán y City Tour", "San Cristóbal, Agua Azul, Misol-Ha y zona de Palenque", "Montebello y cascadas El Chiflón"],
+      "fr": [
+        "San Juan Chamula, Zinacantán et tour de ville",
+        "San Cristóbal, Agua Azul, Misol-Ha et zone de Palenque",
+        "Montebello et cascades El Chiflón"
+      ]
+    },
+    "itinerary": [
+      {
+        "day": "01",
+        "title": {
+          "en": "San Cristóbal One-Day Experience",
+          "es": "Experiencia de un día en San Cristóbal",
+          "fr": "Expérience d’une journée à San Cristóbal"
+        },
+        "description": {
+          "en": "Choose from San Cristóbal’s one-day tours, including nearby Indigenous communities, city visits, waterfalls, lakes and routes toward Palenque.",
+          "es": "Elija entre los tours de un día en San Cristóbal, incluyendo comunidades indígenas cercanas, visitas de ciudad, cascadas, lagos y rutas hacia Palenque.",
+          "fr": "Choisissez parmi les excursions d’une journée à San Cristóbal, incluant communautés autochtones voisines, visites de ville, cascades, lacs et routes vers Palenque."
+        }
+      }
+    ],
+    "included": {
+      "en": ["One-day tour options available in San Cristóbal", "Experiences vary according to the selected tour"],
+      "es": ["Opciones de tours de un día disponibles en San Cristóbal", "Las experiencias varían según el tour seleccionado"],
+      "fr": ["Options d’excursions d’une journée disponibles à San Cristóbal", "Les expériences varient selon l’excursion choisie"]
+    }
+  }
+]

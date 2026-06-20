@@ -35,15 +35,15 @@ function getNavItems(locale: Locale, labels: NavLabels): NavItem[] {
       children: [
         {
           label: s.aboutMexico.whereToGo,
-          href: `/${locale}/about-mexico/where-to-go`,
+          href: `/${locale}/about-mexico#where-to-go`,
         },
         {
           label: s.aboutMexico.whenToGo,
-          href: `/${locale}/about-mexico/when-to-go`,
+          href: `/${locale}/about-mexico#when-to-go`,
         },
         {
           label: s.aboutMexico.howToGo,
-          href: `/${locale}/about-mexico/how-to-go`,
+          href: `/${locale}/about-mexico#how-to-go`,
         },
       ],
     },
@@ -53,15 +53,15 @@ function getNavItems(locale: Locale, labels: NavLabels): NavItem[] {
       children: [
         {
           label: s.trips.fits,
-          href: `/${locale}/trips`,
+          href: `/${locale}/trips#fits`,
         },
         {
           label: s.trips.groups,
-          href: `/${locale}/trips/groups`,
+          href: `/${locale}/trips#groups`,
         },
         {
           label: s.trips.oneDayTours,
-          href: `/${locale}/trips/one-day-tours`,
+          href: `/${locale}/trips#one-day-tours`,
         },
       ],
     },

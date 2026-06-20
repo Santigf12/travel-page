@@ -7,6 +7,10 @@
     "groups": {
       "title": "Groups & Special Selections",
       "description": "As an inbound tour company (DMC), our specialty is to make cultural trips 100% tailored to our customers. Our goal is to help you, the wholesaler, sell better and faster. Our travel counselors will help you get the best deals within 48 hours. We guarantee high-quality service in our ground transportation, guides, staff, client attention and all our services."
+    },
+    "oneDayTours": {
+      "title": "One Day Tours",
+      "description": "With almost 2,000 km of territory, Mexico has it all. Here you will find some of the most popular destinations in Mexico, perfect for discovering culture, history, nature, beaches and local experiences in a single day."
     }
   },
   "es": {
@@ -17,6 +21,10 @@
     "groups": {
       "title": "Grupos y selecciones especiales",
       "description": "Como empresa receptiva de viajes (DMC), nuestra especialidad es crear viajes culturales 100% personalizados para nuestros clientes. Nuestro objetivo es ayudarte, como mayorista, a vender mejor y más rápido. Nuestros asesores de viaje te ayudarán a obtener las mejores ofertas en un plazo de 48 horas. Garantizamos servicios de alta calidad en transporte terrestre, guías, personal, atención al cliente y todos nuestros servicios."
+    },
+    "oneDayTours": {
+      "title": "Tours de un día",
+      "description": "Con casi 2,000 km de territorio, México lo tiene todo. Aquí encontrarás algunos de los destinos más populares de México, ideales para descubrir cultura, historia, naturaleza, playas y experiencias locales en un solo día."
     }
   },
   "fr": {
@@ -27,6 +35,10 @@
     "groups": {
       "title": "Groupes et sélections spéciales",
       "description": "En tant qu’agence réceptive (DMC), notre spécialité est de créer des voyages culturels 100% personnalisés pour nos clients. Notre objectif est de vous aider, en tant que grossiste, à vendre mieux et plus rapidement. Nos conseillers en voyages vous aideront à obtenir les meilleures offres dans un délai de 48 heures. Nous garantissons des services de haute qualité pour le transport terrestre, les guides, le personnel, l’attention portée aux clients et l’ensemble de nos services."
+    },
+    "oneDayTours": {
+      "title": "Excursions d’une journée",
+      "description": "Avec près de 2 000 km de territoire, le Mexique a tout pour plaire. Vous trouverez ici quelques-unes des destinations les plus populaires du Mexique, idéales pour découvrir la culture, l’histoire, la nature, les plages et les expériences locales en une seule journée."
     }
   }
 }

@@ -3,6 +3,7 @@
 import type { Locale } from "@/i18n/dictionaries";
 import fitsData from "./data/fits.json";
 import groupsData from "./data/groups.json";
+import oneDayToursData from "./data/one-day-tours.json";
 import tripsPageData from "./data/trips.json";
 
 type LocalizedString = Record<Locale, string>;
@@ -37,12 +38,14 @@ export type TripsPageSection = {
 export type TripsPageContent = {
   fits: TripsPageSection;
   groups: TripsPageSection;
+  oneDayTours: TripsPageSection;
 };
 
 export const fitsTrips = fitsData as Trip[];
 export const groupTrips = groupsData as Trip[];
+export const oneDayToursTrips = oneDayToursData as Trip[];
 
-export const trips = [...fitsTrips, ...groupTrips];
+export const trips = [...fitsTrips, ...groupTrips, ...oneDayToursTrips];
 
 export const tripsPageContent = tripsPageData as Record<Locale, TripsPageContent>;
 
@@ -52,6 +55,10 @@ export function getFitsTrips() {
 
 export function getGroupTrips() {
   return groupTrips;
+}
+
+export function getOneDayTours() {
+  return oneDayToursTrips;
 }
 
 export function getAllTrips() {
@@ -65,6 +72,10 @@ export function getTripsByCategory(category: TripCategory) {
 
   if (category === "groups") {
     return groupTrips;
+  }
+
+  if (category === "one-day-tours") {
+    return oneDayToursTrips;
   }
 
   return trips.filter((trip) => trip.category === category);
