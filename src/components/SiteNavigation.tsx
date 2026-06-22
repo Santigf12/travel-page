@@ -35,6 +35,7 @@ function getHandpickedTravelNavItems(locale: Locale): NavChild[] {
 
 function getNavItems(locale: Locale, labels: NavLabels): NavItem[] {
   const s = labels.submenus;
+  const handpickedTravelItems = getHandpickedTravelNavItems(locale);
 
   return [
     {
@@ -75,8 +76,8 @@ function getNavItems(locale: Locale, labels: NavLabels): NavItem[] {
     },
     {
       label: labels.handpickedTravel,
-      href: `/${locale}/handpicked-travel`,
-      children: getHandpickedTravelNavItems(locale),
+      href: handpickedTravelItems[0]?.href ?? `/${locale}`,
+      children: handpickedTravelItems,
     },
     {
       label: labels.whoWeAre,
