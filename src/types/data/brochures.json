@@ -1,0 +1,146 @@
+{
+  "en": {
+    "eyebrow": "Brochures",
+    "title": "Explore Our Mexico Travel Brochures",
+    "subtitle": "Download our general Alico Tours brochure in your preferred language, with Mexico travel inspiration, destinations and services for international partners.",
+    "chooseLanguage": "Choose your language",
+    "viewBrochure": "View",
+    "downloadPdf": "Download",
+    "ctaTitle": "Need a custom itinerary?",
+    "ctaBody": "Tell us what your travelers need and our team will help shape a Mexico program around their timing, interests and pace.",
+    "ctaButton": "Contact us",
+    "brochure": {
+      "title": "Alico Tours General Brochure",
+      "description": "An overview of Alico Tours, our Mexico travel programs, featured destinations and services for international partners.",
+      "image": "/images/brochures/alico-general.jpg",
+      "files": [
+        {
+          "label": "English",
+          "code": "EN",
+          "href": "/brochures/alico-general-en.pdf"
+        },
+        {
+          "label": "Español",
+          "code": "ES",
+          "href": "/brochures/alico-general-es.pdf"
+        },
+        {
+          "label": "Français",
+          "code": "FR",
+          "href": "/brochures/alico-general-fr.pdf"
+        },
+        {
+          "label": "中文",
+          "code": "ZH",
+          "href": "/brochures/alico-general-zh.pdf"
+        },
+        {
+          "label": "日本語",
+          "code": "JA",
+          "href": "/brochures/alico-general-ja.pdf"
+        },
+        {
+          "label": "한국어",
+          "code": "KO",
+          "href": "/brochures/alico-general-ko.pdf"
+        }
+      ]
+    }
+  },
+  "es": {
+    "eyebrow": "Folletos",
+    "title": "Explora Nuestros Folletos de Viaje por México",
+    "subtitle": "Descarga el folleto general de Alico Tours en tu idioma preferido, con inspiración de viaje, destinos y servicios en México para socios internacionales.",
+    "chooseLanguage": "Elige tu idioma",
+    "viewBrochure": "Ver",
+    "downloadPdf": "Descargar",
+    "ctaTitle": "¿Necesitas un itinerario personalizado?",
+    "ctaBody": "Cuéntanos qué necesitan tus viajeros y nuestro equipo te ayudará a diseñar un programa en México según sus tiempos, intereses y ritmo.",
+    "ctaButton": "Contáctanos",
+    "brochure": {
+      "title": "Folleto General de Alico Tours",
+      "description": "Una visión general de Alico Tours, nuestros programas de viaje por México, destinos destacados y servicios para socios internacionales.",
+      "image": "/images/brochures/alico-general.jpg",
+      "files": [
+        {
+          "label": "English",
+          "code": "EN",
+          "href": "/brochures/alico-general-en.pdf"
+        },
+        {
+          "label": "Español",
+          "code": "ES",
+          "href": "/brochures/alico-general-es.pdf"
+        },
+        {
+          "label": "Français",
+          "code": "FR",
+          "href": "/brochures/alico-general-fr.pdf"
+        },
+        {
+          "label": "中文",
+          "code": "ZH",
+          "href": "/brochures/alico-general-zh.pdf"
+        },
+        {
+          "label": "日本語",
+          "code": "JA",
+          "href": "/brochures/alico-general-ja.pdf"
+        },
+        {
+          "label": "한국어",
+          "code": "KO",
+          "href": "/brochures/alico-general-ko.pdf"
+        }
+      ]
+    }
+  },
+  "fr": {
+    "eyebrow": "Brochures",
+    "title": "Découvrez Nos Brochures de Voyage au Mexique",
+    "subtitle": "Téléchargez la brochure générale d’Alico Tours dans la langue de votre choix, avec de l’inspiration, des destinations et des services au Mexique pour les partenaires internationaux.",
+    "chooseLanguage": "Choisissez votre langue",
+    "viewBrochure": "Voir",
+    "downloadPdf": "Télécharger",
+    "ctaTitle": "Besoin d’un itinéraire personnalisé ?",
+    "ctaBody": "Dites-nous ce dont vos voyageurs ont besoin et notre équipe vous aidera à créer un programme au Mexique selon leurs dates, intérêts et rythme.",
+    "ctaButton": "Nous contacter",
+    "brochure": {
+      "title": "Brochure Générale d’Alico Tours",
+      "description": "Un aperçu d’Alico Tours, de nos programmes de voyage au Mexique, de nos destinations phares et de nos services pour les partenaires internationaux.",
+      "image": "/images/brochures/alico-general.jpg",
+      "files": [
+        {
+          "label": "English",
+          "code": "EN",
+          "href": "/brochures/alico-general-en.pdf"
+        },
+        {
+          "label": "Español",
+          "code": "ES",
+          "href": "/brochures/alico-general-es.pdf"
+        },
+        {
+          "label": "Français",
+          "code": "FR",
+          "href": "/brochures/alico-general-fr.pdf"
+        },
+        {
+          "label": "中文",
+          "code": "ZH",
+          "href": "/brochures/alico-general-zh.pdf"
+        },
+        {
+          "label": "日本語",
+          "code": "JA",
+          "href": "/brochures/alico-general-ja.pdf"
+        },
+        {
+          "label": "한국어",
+          "code": "KO",
+          "href": "/brochures/alico-general-ko.pdf"
+        }
+      ]
+    }
+  }
+}

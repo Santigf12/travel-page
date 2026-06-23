@@ -1,98 +1,17 @@
 // src/app/[locale]/brochures/page.tsx
 
 import { generateLocaleParams, isValidLocale, type Locale } from '@/i18n/dictionaries';
+import { getBrochuresContent } from '@/types/brochures';
 import { Badge, Box, Button, Card, Container, Group, SimpleGrid, Stack, Text, ThemeIcon, Title } from '@mantine/core';
 import { IconDownload, IconFileText, IconSparkles } from '@tabler/icons-react';
 
 export const generateStaticParams = generateLocaleParams;
 
-type BrochureFile = {
-  label: string;
-  code: string;
-  href: string;
-};
-
-type Brochure = {
-  title: string;
-  description: string;
-  image: string;
-  files: BrochureFile[];
-};
-
-const pageContent = {
-  en: {
-    eyebrow: 'Brochures',
-    title: 'Explore Our Mexico Travel Brochures',
-    subtitle:
-      'Download our general Alico Tours brochure in your preferred language, with Mexico travel inspiration, destinations and services for international partners.',
-    chooseLanguage: 'Choose your language',
-    viewBrochure: 'View',
-    downloadPdf: 'Download',
-    ctaTitle: 'Need a custom itinerary?',
-    ctaBody:
-      'Tell us what your travelers need and our team will help shape a Mexico program around their timing, interests and pace.',
-    ctaButton: 'Contact us',
-  },
-  es: {
-    eyebrow: 'Folletos',
-    title: 'Explora Nuestros Folletos de Viaje por México',
-    subtitle:
-      'Descarga el folleto general de Alico Tours en tu idioma preferido, con inspiración de viaje, destinos y servicios en México para socios internacionales.',
-    chooseLanguage: 'Elige tu idioma',
-    viewBrochure: 'Ver',
-    downloadPdf: 'Descargar',
-    ctaTitle: '¿Necesitas un itinerario personalizado?',
-    ctaBody:
-      'Cuéntanos qué necesitan tus viajeros y nuestro equipo te ayudará a diseñar un programa en México según sus tiempos, intereses y ritmo.',
-    ctaButton: 'Contáctanos',
-  },
-  fr: {
-    eyebrow: 'Brochures',
-    title: 'Découvrez Nos Brochures de Voyage au Mexique',
-    subtitle:
-      'Téléchargez la brochure générale d’Alico Tours dans la langue de votre choix, avec de l’inspiration, des destinations et des services au Mexique pour les partenaires internationaux.',
-    chooseLanguage: 'Choisissez votre langue',
-    viewBrochure: 'Voir',
-    downloadPdf: 'Télécharger',
-    ctaTitle: 'Besoin d’un itinéraire personnalisé ?',
-    ctaBody:
-      'Dites-nous ce dont vos voyageurs ont besoin et notre équipe vous aidera à créer un programme au Mexique selon leurs dates, intérêts et rythme.',
-    ctaButton: 'Nous contacter',
-  },
-} satisfies Record<
-  Locale,
-  {
-    eyebrow: string;
-    title: string;
-    subtitle: string;
-    chooseLanguage: string;
-    viewBrochure: string;
-    downloadPdf: string;
-    ctaTitle: string;
-    ctaBody: string;
-    ctaButton: string;
-  }
->;
-
-const brochure: Brochure = {
-  title: 'Alico Tours General Brochure',
-  description:
-    'An overview of Alico Tours, our Mexico travel programs, featured destinations and services for international partners.',
-  image: '/images/brochures/alico-general.jpg',
-  files: [
-    { label: 'English', code: 'EN', href: '/brochures/alico-general-en.pdf' },
-    { label: 'Español', code: 'ES', href: '/brochures/alico-general-es.pdf' },
-    { label: 'Français', code: 'FR', href: '/brochures/alico-general-fr.pdf' },
-    { label: '中文', code: 'ZH', href: '/brochures/alico-general-zh.pdf' },
-    { label: '日本語', code: 'JA', href: '/brochures/alico-general-ja.pdf' },
-    { label: '한국어', code: 'KO', href: '/brochures/alico-general-ko.pdf' },
-  ],
-};
-
 export default async function BrochuresPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale: rawLocale } = await params;
   const locale: Locale = isValidLocale(rawLocale) ? rawLocale : 'en';
-  const content = pageContent[locale];
+  const content = getBrochuresContent(locale);
+  const { brochure } = content;
 
   return (
     <Container size={1500} px={{ base: 'md', md: 'xl' }} pt={{ base: 50, md: 65 }} pb={{ base: 80, md: 120 }}>
@@ -119,8 +38,6 @@ export default async function BrochuresPage({ params }: { params: Promise<{ loca
 
         <Card radius="xl" p={0} bg="white" withBorder maw={1120} mx="auto" style={{ overflow: 'hidden', boxShadow: '0 22px 55px rgba(44, 43, 40, 0.1)' }}>
           <SimpleGrid>
-            
-
             <Stack gap="xl" p={{ base: 'xl', md: 44 }} justify="center">
               <Box>
                 <Title order={2} c="alicoBlue.7" fw={400} style={{ fontSize: 'clamp(1.8rem, 3vw, 2.8rem)', lineHeight: 1.08 }}>
