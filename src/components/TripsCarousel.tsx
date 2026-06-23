@@ -5,19 +5,11 @@
 import type { Locale } from "@/i18n/dictionaries";
 import { getTripsByCategory } from "@/types/trips";
 import { Carousel } from "@mantine/carousel";
-import {
-  Badge,
-  Box,
-  Button,
-  Container,
-  Paper,
-  Stack,
-  Text,
-  Title,
-  useMantineTheme,
-} from "@mantine/core";
+import { Badge, Box, Button, Container, Paper, Stack, Text, Title, useMantineTheme } from "@mantine/core";
 import { useMediaQuery } from "@mantine/hooks";
+import Autoplay from "embla-carousel-autoplay";
 import Link from "next/link";
+import { useRef } from "react";
 
 type TripsCarouselProps = {
   locale: Locale;
@@ -80,6 +72,7 @@ function TripCard({ image, title, duration, category, href }: TripCardProps) {
 export function TripsCarousel({ locale }: TripsCarouselProps) {
   const theme = useMantineTheme();
   const mobile = useMediaQuery(`(max-width: ${theme.breakpoints.sm})`);
+  const autoplay = useRef(Autoplay({ delay: 7000 }));
 
   const trips = getTripsByCategory("fits").map((trip) => ({
     slug: trip.slug,
@@ -107,9 +100,12 @@ export function TripsCarousel({ locale }: TripsCarouselProps) {
           slideSize={{ base: "100%", sm: "50%", md: "33.333%" }}
           slideGap="md"
           controlsOffset="xs"
-          controlSize={36}
+          controlSize={28}
           withControls
           withIndicators={false}
+          plugins={[autoplay.current]}
+          onMouseEnter={autoplay.current.stop}
+          onMouseLeave={() => autoplay.current.play()}
           emblaOptions={{
             align: "start",
             loop: true,
@@ -119,7 +115,17 @@ export function TripsCarousel({ locale }: TripsCarouselProps) {
           styles={{
             root: { touchAction: "pan-y pinch-zoom" },
             viewport: { touchAction: "pan-y pinch-zoom" },
+            control: {
+              color: 'var(--mantine-color-sand-0)',
+              backgroundColor: 'rgba(44, 43, 40, 0.45)',
+              border: '1px solid rgba(255, 255, 255, 0.35)',
+              boxShadow: '0 10px 28px rgba(0, 0, 0, 0.25)',
+              backdropFilter: 'blur(6px)',
+            },
           }}
+          aria-label="Featured Mexico trips carousel"
+          nextControlProps={{ 'aria-label': 'Next trips' }}
+          previousControlProps={{ 'aria-label': 'Previous trips' }}
         >
           {trips.map((trip) => (
             <Carousel.Slide key={trip.slug}>

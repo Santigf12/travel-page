@@ -3,6 +3,8 @@
 // src/components/HeroCarousel.tsx
 import { Carousel } from '@mantine/carousel';
 import { Box, Text, Title } from '@mantine/core';
+import Autoplay from 'embla-carousel-autoplay';
+import { useRef } from 'react';
 
 type Slide = {
   image: string;
@@ -11,6 +13,9 @@ type Slide = {
 };
 
 export function HeroCarousel({ slides }: { slides: Slide[] }) {
+
+  const autoplay = useRef(Autoplay({ delay: 6000 }));
+  
   return (
     <Carousel
       height="100vh"
@@ -19,13 +24,15 @@ export function HeroCarousel({ slides }: { slides: Slide[] }) {
       controlsOffset="xl"
       controlSize={42}
       emblaOptions={{ loop: true, align: 'center', dragFree: false, watchDrag: true }}
+      plugins={[autoplay.current]}
       styles={{
         root: { width: '100%' },
         control: {
           color: 'var(--mantine-color-sand-0)',
-          backgroundColor: 'transparent',
-          border: 'none',
-          boxShadow: 'none',
+          backgroundColor: 'rgba(44, 43, 40, 0.45)',
+          border: '1px solid rgba(255, 255, 255, 0.35)',
+          boxShadow: '0 10px 28px rgba(0, 0, 0, 0.25)',
+          backdropFilter: 'blur(6px)',
         },
       }}
     >

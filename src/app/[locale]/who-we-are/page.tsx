@@ -1,33 +1,10 @@
 // src/app/[locale]/who-we-are/page.tsx
 
+import { WhoWeAreReviewsCarousel } from '@/components/WhoWeAreReviewsCarousel';
 import { generateLocaleParams, isValidLocale, type Locale } from '@/i18n/dictionaries';
 import { getWhoWeAreContent, type WhoWeAreHighlightIcon } from '@/types/who-we-are';
-import {
-  Badge,
-  Box,
-  Button,
-  Card,
-  Container,
-  Grid,
-  GridCol,
-  Group,
-  SimpleGrid,
-  Stack,
-  Text,
-  ThemeIcon,
-  Timeline,
-  TimelineItem,
-  Title,
-} from '@mantine/core';
-import {
-  IconBuildingSkyscraper,
-  IconHeartHandshake,
-  IconMapPin,
-  IconQuote,
-  IconSparkles,
-  IconUsersGroup,
-  IconWorld,
-} from '@tabler/icons-react';
+import { Badge, Box, Button, Card, Container, Grid, GridCol, Group, SimpleGrid, Stack, Text, ThemeIcon, Timeline, TimelineItem, Title } from '@mantine/core';
+import { IconBuildingSkyscraper, IconHeartHandshake, IconMapPin, IconQuote, IconSparkles, IconUsersGroup, IconWorld } from '@tabler/icons-react';
 
 export const generateStaticParams = generateLocaleParams;
 
@@ -241,38 +218,7 @@ export default async function WhoPage({ params }: { params: Promise<{ locale: st
             </Text>
           </Stack>
 
-          <SimpleGrid cols={{ base: 1, md: 3 }} spacing="xl">
-            {content.reviews.items.map((review) => (
-              <Card
-                key={`${review.name}-${review.country}`}
-                radius="xl"
-                p="xl"
-                bg="sand.0"
-                withBorder
-                style={{ boxShadow: '0 18px 45px rgba(44, 43, 40, 0.08)' }}
-              >
-                <Stack gap="md">
-                  <ThemeIcon color="aztecGold" variant="light" radius="xl" size="xl">
-                    <IconQuote size={22} stroke={1.8} />
-                  </ThemeIcon>
-
-                  <Text c="sand.8" lh={1.7}>
-                    “{review.quote}”
-                  </Text>
-
-                  <Box>
-                    <Text c="sand.9" fw={700}>
-                      {review.name}
-                    </Text>
-
-                    <Text c="sand.6" fz="sm">
-                      {review.country}
-                    </Text>
-                  </Box>
-                </Stack>
-              </Card>
-            ))}
-          </SimpleGrid>
+          <WhoWeAreReviewsCarousel reviews={content.reviews.items} />
         </Box>
       </Stack>
     </Container>
