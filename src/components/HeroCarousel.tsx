@@ -10,15 +10,17 @@ type Slide = {
   image: string;
   title: string;
   subtitle: string;
+  position?: string;
 };
 
 export function HeroCarousel({ slides }: { slides: Slide[] }) {
 
   const autoplay = useRef(Autoplay({ delay: 6000 }));
-  
   return (
     <Carousel
       height="100vh"
+      slideSize="100%"    // ← add this
+      slideGap={0} 
       withControls
       withIndicators={false}
       controlsOffset="xl"
@@ -37,14 +39,15 @@ export function HeroCarousel({ slides }: { slides: Slide[] }) {
       }}
     >
       {slides.map((slide) => (
-        <Carousel.Slide key={slide.image}>
+        <Carousel.Slide key={slide.image} style={{ minWidth: '100%' }}>
           <Box
             h="100%"
             pos="relative"
             style={{
               backgroundImage: `url(${slide.image})`,
-              backgroundSize: 'cover',
-              backgroundPosition: 'center',
+              backgroundSize: 'cover', 
+              backgroundPosition: `${slide.position}`,
+              backgroundRepeat: 'no-repeat',
               overflow: 'hidden',
             }}
           >

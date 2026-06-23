@@ -2,19 +2,22 @@
   "en": {
     "hero": [
       {
-        "image": "/images/mariachi.jpg",
+        "image": "/images/zocalo.jpg",
         "title": "Experience Mexico with ease.",
-        "subtitle": "Curated journeys designed with culture, comfort, and care."
+        "subtitle": "Curated journeys designed with culture, comfort, and care.",
+        "position": "center 95%"
       },
       {
-        "image": "/images/beach.jpg",
+        "image": "/images/unam.jpg",
         "title": "Travel beautifully.",
-        "subtitle": "Handpicked escapes across Mexico's coastlines, cities, and heritage."
+        "subtitle": "Handpicked escapes across Mexico's coastlines, cities, and heritage.",
+        "position": "center 65%"
       },
       {
-        "image": "/images/cathedral.avif",
+        "image": "/images/guadalupe.jpg",
         "title": "Discover the art of travel.",
-        "subtitle": "Luxury itineraries shaped around your rhythm, taste, and story."
+        "subtitle": "Luxury itineraries shaped around your rhythm, taste, and story.",
+        "position": "center 100%"
       }
     ],
     "intro": "You don't just want an itinerary. You want someone who knows you — your pace, your preferences, the kind of moment that makes a journey worth remembering. At Alico Tours Mexico, that's exactly what you get. Not a booking engine. Not a one-time transaction. Custom itineraries designed by a trusted advisor who is invested in your travel story, now and for every adventure that follows.",

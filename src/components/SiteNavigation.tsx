@@ -81,7 +81,7 @@ function getNavItems(locale: Locale, labels: NavLabels): NavItem[] {
     },
     {
       label: labels.brochures,
-      href: `/${locale}/brochure`,
+      href: `/${locale}/brochures`,
     },
     {
       label: labels.whoWeAre,
@@ -93,7 +93,7 @@ function getNavItems(locale: Locale, labels: NavLabels): NavItem[] {
         },
         {
           label: s.whoWeAre.careers,
-          href: `/${locale}/who-we-are#careers`,
+          href: `/${locale}/who-we-are/careers`,
         },
       ],
     },
