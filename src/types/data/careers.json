@@ -1,0 +1,32 @@
+{
+  "en": {
+    "eyebrow": "Careers",
+    "title": "Join Our Team",
+    "subtitle": "We are always open to hearing from passionate people interested in future opportunities with Alico Tours.",
+    "cardTitle": "General Applications",
+    "cardBody": "If you are interested in joining our team, please send us your CV. We will keep your information in mind for future openings that match your experience and profile.",
+    "note": "Please note that all positions are based in Mexico City unless otherwise stated.",
+    "email": "alico@alico.com.mx",
+    "button": "Send your CV"
+  },
+  "es": {
+    "eyebrow": "Carreras",
+    "title": "Únete a Nuestro Equipo",
+    "subtitle": "Siempre estamos abiertos a conocer personas apasionadas interesadas en futuras oportunidades con Alico Tours.",
+    "cardTitle": "Postulaciones generales",
+    "cardBody": "Si te interesa unirte a nuestro equipo, por favor envíanos tu CV. Tendremos tu información en cuenta para futuras vacantes que coincidan con tu experiencia y perfil.",
+    "note": "Ten en cuenta que todos los puestos están ubicados en Ciudad de México, salvo que se indique lo contrario.",
+    "email": "alico@alico.com.mx",
+    "button": "Enviar CV"
+  },
+  "fr": {
+    "eyebrow": "Carrières",
+    "title": "Rejoignez Notre Équipe",
+    "subtitle": "Nous sommes toujours heureux de découvrir des personnes passionnées intéressées par de futures opportunités chez Alico Tours.",
+    "cardTitle": "Candidatures générales",
+    "cardBody": "Si vous souhaitez rejoindre notre équipe, veuillez nous envoyer votre CV. Nous garderons vos informations à l’esprit pour de futures opportunités correspondant à votre expérience et à votre profil.",
+    "note": "Veuillez noter que tous les postes sont basés à Mexico, sauf indication contraire.",
+    "email": "alico@alico.com.mx",
+    "button": "Envoyer votre CV"
+  }
+}
