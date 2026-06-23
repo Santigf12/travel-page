@@ -1,0 +1,218 @@
+{
+  "en": {
+    "hero": {
+      "eyebrow": "Who We Are",
+      "title": "About Alico Tours",
+      "subtitle": "Based in Mexico City, Alico Tours is a Mexican incoming Tour Operator, DMC and MICE specialist with more than 24 years of B2B experience with wholesalers around the world.",
+      "contactUs": "Contact us",
+      "exploreTrips": "Explore trips"
+    },
+    "highlights": [
+      {
+        "icon": "building",
+        "value": "1989",
+        "label": "Founded"
+      },
+      {
+        "icon": "sparkles",
+        "value": "24+",
+        "label": "Years of experience"
+      },
+      {
+        "icon": "world",
+        "value": "B2B",
+        "label": "International markets"
+      }
+    ],
+    "mission": {
+      "eyebrow": "Our Mission",
+      "title": "Personal service, Mexico expertise",
+      "body": "Our mission is simple: to offer the most meaningful and personalized trips in Mexico today. Mexico is our home, and we want every guest to feel the warmth, care and hospitality that define it.",
+      "body2": "Our travel specialists advise partners, shape itineraries for their clients and publish preset programs for inspiration. A 24-hour concierge in Mexico City supports guest requests, while our team anticipates the small details that make each journey feel effortless."
+    },
+    "companyCard": {
+      "title": "100% Mexican Company",
+      "body": "Hospitality is a way of life in Mexico. Alico Tours brings that spirit into each itinerary through warmth, detail and personalized attention."
+    },
+    "history": {
+      "title": "Our History",
+      "items": [
+        {
+          "year": "1989",
+          "title": "Alico Tours was founded",
+          "description": "Founded in 1989, Alico Tours has strengthened its reputation with every guest and every journey."
+        },
+        {
+          "year": "2008",
+          "title": "Asia branch opened",
+          "description": "The company expanded its reach and began successfully attending groups and FITs from India, Thailand, the Philippines, China and Taiwan."
+        }
+      ]
+    },
+    "reviews": {
+      "title": "Client Reviews",
+      "subtitle": "A few notes from partners and travelers who trusted Alico Tours with their Mexico programs.",
+      "items": [
+        {
+          "quote": "Everything was well organised, prepared, timely delivered and planned. We learned much more than you can read in a guide book.",
+          "name": "Lis",
+          "country": "Denmark"
+        },
+        {
+          "quote": "You guys are great and I can’t thank you enough for your help with this last minute booking.",
+          "name": "Brandee",
+          "country": "USA"
+        },
+        {
+          "quote": "Everything turned out perfectly. A special thanks to all our guides and drivers. They all deserve a 5 star rating.",
+          "name": "Roberto",
+          "country": "Italy"
+        }
+      ]
+    }
+  },
+  "es": {
+    "hero": {
+      "eyebrow": "Quiénes Somos",
+      "title": "Acerca de Alico Tours",
+      "subtitle": "Con sede en Ciudad de México, Alico Tours es un operador receptivo mexicano, DMC y especialista MICE con más de 24 años de experiencia B2B con mayoristas de todo el mundo.",
+      "contactUs": "Contáctanos",
+      "exploreTrips": "Explorar viajes"
+    },
+    "highlights": [
+      {
+        "icon": "building",
+        "value": "1989",
+        "label": "Fundación"
+      },
+      {
+        "icon": "sparkles",
+        "value": "24+",
+        "label": "Años de experiencia"
+      },
+      {
+        "icon": "world",
+        "value": "B2B",
+        "label": "Mercados internacionales"
+      }
+    ],
+    "mission": {
+      "eyebrow": "Nuestra Misión",
+      "title": "Servicio personal, experiencia en México",
+      "body": "Nuestra misión es sencilla: ofrecer los viajes más significativos y personalizados en México. México es nuestro hogar, y queremos que cada huésped sienta la calidez, el cuidado y la hospitalidad que lo definen.",
+      "body2": "Nuestros especialistas asesoran a socios, diseñan itinerarios para sus clientes y publican programas prediseñados como inspiración. Un concierge 24 horas en Ciudad de México atiende las solicitudes de los huéspedes, mientras nuestro equipo cuida los detalles que hacen que cada viaje fluya."
+    },
+    "companyCard": {
+      "title": "Empresa 100% mexicana",
+      "body": "La hospitalidad es una forma de vida en México. Alico Tours lleva ese espíritu a cada itinerario con calidez, detalle y atención personalizada."
+    },
+    "history": {
+      "title": "Nuestra Historia",
+      "items": [
+        {
+          "year": "1989",
+          "title": "Fundación de Alico Tours",
+          "description": "Fundada en 1989, Alico Tours ha fortalecido su reputación con cada huésped y cada viaje."
+        },
+        {
+          "year": "2008",
+          "title": "Apertura de la sucursal en Asia",
+          "description": "La empresa amplió su alcance y comenzó a atender con éxito grupos y FITs de India, Tailandia, Filipinas, China y Taiwán."
+        }
+      ]
+    },
+    "reviews": {
+      "title": "Opiniones de Clientes",
+      "subtitle": "Algunas notas de socios y viajeros que confiaron sus programas en México a Alico Tours.",
+      "items": [
+        {
+          "quote": "Todo estuvo bien organizado, preparado, entregado a tiempo y planeado. Aprendimos mucho más de lo que se puede leer en una guía.",
+          "name": "Lis",
+          "country": "Dinamarca"
+        },
+        {
+          "quote": "Son excelentes y no puedo agradecerles lo suficiente por su ayuda con esta reservación de último minuto.",
+          "name": "Brandee",
+          "country": "Estados Unidos"
+        },
+        {
+          "quote": "Todo salió perfecto. Un agradecimiento especial a todos nuestros guías y choferes. Todos merecen una calificación de 5 estrellas.",
+          "name": "Roberto",
+          "country": "Italia"
+        }
+      ]
+    }
+  },
+  "fr": {
+    "hero": {
+      "eyebrow": "Qui Nous Sommes",
+      "title": "À Propos d’Alico Tours",
+      "subtitle": "Basé à Mexico, Alico Tours est un réceptif mexicain, DMC et spécialiste MICE avec plus de 24 ans d’expérience B2B auprès de grossistes du monde entier.",
+      "contactUs": "Nous contacter",
+      "exploreTrips": "Découvrir les voyages"
+    },
+    "highlights": [
+      {
+        "icon": "building",
+        "value": "1989",
+        "label": "Fondation"
+      },
+      {
+        "icon": "sparkles",
+        "value": "24+",
+        "label": "Années d’expérience"
+      },
+      {
+        "icon": "world",
+        "value": "B2B",
+        "label": "Marchés internationaux"
+      }
+    ],
+    "mission": {
+      "eyebrow": "Notre Mission",
+      "title": "Service personnalisé, expertise du Mexique",
+      "body": "Notre mission est simple : proposer les voyages les plus personnalisés et significatifs au Mexique. Le Mexique est notre maison, et nous voulons que chaque voyageur ressente la chaleur, l’attention et l’hospitalité qui le définissent.",
+      "body2": "Nos spécialistes conseillent les partenaires, créent des itinéraires pour leurs clients et publient des programmes prédéfinis pour inspirer. Un concierge 24 h/24 à Mexico accompagne les demandes des voyageurs, tandis que notre équipe anticipe les détails qui rendent chaque séjour fluide."
+    },
+    "companyCard": {
+      "title": "Entreprise 100% mexicaine",
+      "body": "L’hospitalité est un art de vivre au Mexique. Alico Tours apporte cet esprit à chaque itinéraire grâce à la chaleur, au soin du détail et à une attention personnalisée."
+    },
+    "history": {
+      "title": "Notre Histoire",
+      "items": [
+        {
+          "year": "1989",
+          "title": "Fondation d’Alico Tours",
+          "description": "Fondée en 1989, Alico Tours a renforcé sa réputation avec chaque voyageur et chaque séjour."
+        },
+        {
+          "year": "2008",
+          "title": "Ouverture de la branche en Asie",
+          "description": "L’entreprise a élargi sa portée et accompagne depuis des groupes et FITs venant d’Inde, de Thaïlande, des Philippines, de Chine et de Taïwan."
+        }
+      ]
+    },
+    "reviews": {
+      "title": "Avis Clients",
+      "subtitle": "Quelques messages de partenaires et voyageurs qui ont confié leurs programmes au Mexique à Alico Tours.",
+      "items": [
+        {
+          "quote": "Tout était bien organisé, préparé, livré à temps et planifié. Nous avons appris bien plus que ce que l’on peut lire dans un guide.",
+          "name": "Lis",
+          "country": "Danemark"
+        },
+        {
+          "quote": "Vous êtes formidables et je ne vous remercierai jamais assez pour votre aide avec cette réservation de dernière minute.",
+          "name": "Brandee",
+          "country": "États-Unis"
+        },
+        {
+          "quote": "Tout s’est parfaitement déroulé. Un merci tout particulier à tous nos guides et chauffeurs. Ils méritent tous 5 étoiles.",
+          "name": "Roberto",
+          "country": "Italie"
+        }
+      ]
+    }
+  }
+}

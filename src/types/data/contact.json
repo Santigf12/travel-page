@@ -31,17 +31,10 @@
         "contacts": [
           {
             "name": "Sales",
-            "role": "Quotations, prices and itineraries",
+            "role": "Quotations, prices, and itineraries",
             "email": "sales5@alico.com.mx",
             "office": "+52 55 55 59 00 35",
             "whatsapp": "+52 55 28 49 41 74"
-          },
-          {
-            "name": "Operations",
-            "role": "Quotations, prices and itineraries",
-            "email": "operations1@alico.com.mx",
-            "office": "+52 55 55 75 17 74",
-            "whatsapp": "+52 55 36 68 58 52"
           }
         ]
       },
@@ -53,29 +46,9 @@
           {
             "name": "Operations",
             "role": "Reservations and confirmations",
-            "email": "operaciones@alico.com.mx",
-            "whatsapp": "+52 55 72 01 86 80"
-          },
-          {
-            "name": "Operations 2",
-            "role": "Reservations and confirmations",
-            "email": "operations2@alico.com.mx",
+            "email": "operations1@alico.com.mx",
             "office": "+52 55 55 75 17 74",
-            "whatsapp": "+52 55 27 07 26 13"
-          },
-          {
-            "name": "Operations 3",
-            "role": "Reservations and confirmations",
-            "email": "operations3@alico.com.mx",
-            "office": "+52 55 55 75 17 74",
-            "whatsapp": "+52 55 31 02 78 86"
-          },
-          {
-            "name": "Operations 5",
-            "role": "Reservations and confirmations",
-            "email": "operations5@alico.com.mx",
-            "office": "+52 55 55 75 17 45",
-            "whatsapp": "+52 55 65 40 55 05"
+            "whatsapp": "+52 55 36 68 58 52"
           }
         ]
       },

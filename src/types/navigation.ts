@@ -8,6 +8,7 @@ export type NavLabels = {
   aboutMexico: string;
   trips: string;
   handpickedTravel: string;
+  brochures: string;
   whoWeAre: string;
   contact: string;
   submenus: {

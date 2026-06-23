@@ -1,6 +1,7 @@
 // src/app/[locale]/who-we-are/page.tsx
 
 import { generateLocaleParams, isValidLocale, type Locale } from '@/i18n/dictionaries';
+import { getWhoWeAreContent, type WhoWeAreHighlightIcon } from '@/types/who-we-are';
 import {
   Badge,
   Box,
@@ -30,144 +31,16 @@ import {
 
 export const generateStaticParams = generateLocaleParams;
 
-const pageText = {
-  en: {
-    eyebrow: 'Who We Are',
-    title: 'About Alico Tours',
-    subtitle:
-      'Based in Mexico City, Alico Tours is a Mexican incoming Tour Operator, DMC and MICE specialist with more than 24 years of B2B experience with wholesalers around the world.',
-    contactUs: 'Contact us',
-    exploreTrips: 'Explore trips',
-    founded: 'Founded',
-    experience: 'Years of experience',
-    market: 'International markets',
-    missionTitle: 'Our Mission',
-    mission:
-      'Our mission is simple: to offer the most meaningful and personalized trips in Mexico today. Mexico is our home, and we want every guest to feel the warmth, care and hospitality that define it.',
-    serviceTitle: 'Personal service, Mexico expertise',
-    service:
-      'Our travel specialists advise partners, shape itineraries for their clients and publish preset programs for inspiration. A 24-hour concierge in Mexico City supports guest requests, while our team anticipates the small details that make each journey feel effortless.',
-    historyTitle: 'Our History',
-    reviewsTitle: 'Client Reviews',
-    reviewsSubtitle:
-      'A few notes from partners and travelers who trusted Alico Tours with their Mexico programs.',
-  },
-  es: {
-    eyebrow: 'Quiénes Somos',
-    title: 'Acerca de Alico Tours',
-    subtitle:
-      'Con sede en Ciudad de México, Alico Tours es un operador receptivo mexicano, DMC y especialista MICE con más de 24 años de experiencia B2B con mayoristas de todo el mundo.',
-    contactUs: 'Contáctanos',
-    exploreTrips: 'Explorar viajes',
-    founded: 'Fundación',
-    experience: 'Años de experiencia',
-    market: 'Mercados internacionales',
-    missionTitle: 'Nuestra Misión',
-    mission:
-      'Nuestra misión es sencilla: ofrecer los viajes más significativos y personalizados en México. México es nuestro hogar, y queremos que cada huésped sienta la calidez, el cuidado y la hospitalidad que lo definen.',
-    serviceTitle: 'Servicio personal, experiencia en México',
-    service:
-      'Nuestros especialistas asesoran a socios, diseñan itinerarios para sus clientes y publican programas prediseñados como inspiración. Un concierge 24 horas en Ciudad de México atiende las solicitudes de los huéspedes, mientras nuestro equipo cuida los detalles que hacen que cada viaje fluya.',
-    historyTitle: 'Nuestra Historia',
-    reviewsTitle: 'Opiniones de Clientes',
-    reviewsSubtitle:
-      'Algunas notas de socios y viajeros que confiaron sus programas en México a Alico Tours.',
-  },
-  fr: {
-    eyebrow: 'Qui Nous Sommes',
-    title: 'À Propos d’Alico Tours',
-    subtitle:
-      'Basé à Mexico, Alico Tours est un réceptif mexicain, DMC et spécialiste MICE avec plus de 24 ans d’expérience B2B auprès de grossistes du monde entier.',
-    contactUs: 'Nous contacter',
-    exploreTrips: 'Découvrir les voyages',
-    founded: 'Fondation',
-    experience: 'Années d’expérience',
-    market: 'Marchés internationaux',
-    missionTitle: 'Notre Mission',
-    mission:
-      'Notre mission est simple : proposer les voyages les plus personnalisés et significatifs au Mexique. Le Mexique est notre maison, et nous voulons que chaque voyageur ressente la chaleur, l’attention et l’hospitalité qui le définissent.',
-    serviceTitle: 'Service personnalisé, expertise du Mexique',
-    service:
-      'Nos spécialistes conseillent les partenaires, créent des itinéraires pour leurs clients et publient des programmes prédéfinis pour inspirer. Un concierge 24 h/24 à Mexico accompagne les demandes des voyageurs, tandis que notre équipe anticipe les détails qui rendent chaque séjour fluide.',
-    historyTitle: 'Notre Histoire',
-    reviewsTitle: 'Avis Clients',
-    reviewsSubtitle:
-      'Quelques messages de partenaires et voyageurs qui ont confié leurs programmes au Mexique à Alico Tours.',
-  },
-};
-
-const history = [
-  {
-    year: '1989',
-    title: {
-      en: 'Alico Tours was founded',
-      es: 'Fundación de Alico Tours',
-      fr: 'Fondation d’Alico Tours',
-    },
-    description: {
-      en: 'Founded in 1989, Alico Tours has strengthened its reputation with every guest and every journey.',
-      es: 'Fundada en 1989, Alico Tours ha fortalecido su reputación con cada huésped y cada viaje.',
-      fr: 'Fondée en 1989, Alico Tours a renforcé sa réputation avec chaque voyageur et chaque séjour.',
-    },
-  },
-  {
-    year: '2008',
-    title: {
-      en: 'Asia branch opened',
-      es: 'Apertura de la sucursal en Asia',
-      fr: 'Ouverture de la branche en Asie',
-    },
-    description: {
-      en: 'The company expanded its reach and began successfully attending groups and FITs from India, Thailand, the Philippines, China and Taiwan.',
-      es: 'La empresa amplió su alcance y comenzó a atender con éxito grupos y FITs de India, Tailandia, Filipinas, China y Taiwán.',
-      fr: 'L’entreprise a élargi sa portée et accompagne depuis des groupes et FITs venant d’Inde, de Thaïlande, des Philippines, de Chine et de Taïwan.',
-    },
-  },
-];
-
-const highlights = [
-  {
-    icon: IconBuildingSkyscraper,
-    value: '1989',
-    labelKey: 'founded',
-  },
-  {
-    icon: IconSparkles,
-    value: '24+',
-    labelKey: 'experience',
-  },
-  {
-    icon: IconWorld,
-    value: 'B2B',
-    labelKey: 'market',
-  },
-];
-
-const reviews = [
-  {
-    quote:
-      'Everything was well organised, prepared, timely delivered and planned. We learned much more than you can read in a guide book.',
-    name: 'Lis',
-    country: 'Denmark',
-  },
-  {
-    quote:
-      'You guys are great and I can’t thank you enough for your help with this last minute booking.',
-    name: 'Brandee',
-    country: 'USA',
-  },
-  {
-    quote:
-      'Everything turned out perfectly. A special thanks to all our guides and drivers. They all deserve a 5 star rating.',
-    name: 'Roberto',
-    country: 'Italy',
-  },
-];
+const highlightIcons = {
+  building: IconBuildingSkyscraper,
+  sparkles: IconSparkles,
+  world: IconWorld,
+} satisfies Record<WhoWeAreHighlightIcon, typeof IconSparkles>;
 
 export default async function WhoPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale: rawLocale } = await params;
   const locale: Locale = isValidLocale(rawLocale) ? rawLocale : 'en';
-  const t = pageText[locale];
+  const content = getWhoWeAreContent(locale);
 
   return (
     <Container
@@ -192,7 +65,7 @@ export default async function WhoPage({ params }: { params: Promise<{ locale: st
                 </ThemeIcon>
 
                 <Text c="aztecGold.7" tt="uppercase" lts="0.18em" fz="sm" fw={600}>
-                  {t.eyebrow}
+                  {content.hero.eyebrow}
                 </Text>
               </Group>
 
@@ -205,11 +78,11 @@ export default async function WhoPage({ params }: { params: Promise<{ locale: st
                   lineHeight: 0.95,
                 }}
               >
-                {t.title}
+                {content.hero.title}
               </Title>
 
               <Text c="sand.7" fz={{ base: 'lg', md: 'xl' }} maw={760} lh={1.65}>
-                {t.subtitle}
+                {content.hero.subtitle}
               </Text>
 
               <Group mt="sm">
@@ -220,7 +93,7 @@ export default async function WhoPage({ params }: { params: Promise<{ locale: st
                   radius="xl"
                   color="alicoBlue"
                 >
-                  {t.contactUs}
+                  {content.hero.contactUs}
                 </Button>
 
                 <Button
@@ -231,7 +104,7 @@ export default async function WhoPage({ params }: { params: Promise<{ locale: st
                   variant="light"
                   color="aztecGold"
                 >
-                  {t.exploreTrips}
+                  {content.hero.exploreTrips}
                 </Button>
               </Group>
             </Stack>
@@ -246,19 +119,13 @@ export default async function WhoPage({ params }: { params: Promise<{ locale: st
               style={{ boxShadow: '0 24px 60px rgba(44, 43, 40, 0.12)' }}
             >
               <SimpleGrid cols={1} spacing="lg">
-                {highlights.map((item) => {
-                  const Icon = item.icon;
+                {content.highlights.map((item) => {
+                  const HighlightIcon = highlightIcons[item.icon];
 
                   return (
-                    <Group key={item.labelKey} gap="md" wrap="nowrap" align="center">
-                      <ThemeIcon
-                        color="aztecGold"
-                        variant="light"
-                        radius="xl"
-                        size={54}
-                        style={{ flexShrink: 0 }}
-                      >
-                        <Icon size={24} stroke={1.8} />
+                    <Group key={`${item.value}-${item.label}`} gap="md" wrap="nowrap" align="center">
+                      <ThemeIcon color="aztecGold" variant="light" radius="xl" size={54} style={{ flexShrink: 0 }}>
+                        <HighlightIcon size={24} stroke={1.8} />
                       </ThemeIcon>
 
                       <Box style={{ minWidth: 0 }}>
@@ -267,7 +134,7 @@ export default async function WhoPage({ params }: { params: Promise<{ locale: st
                         </Text>
 
                         <Text c="sand.7" fz="sm" tt="uppercase" lts="0.08em" fw={600}>
-                          {t[item.labelKey as keyof typeof t]}
+                          {item.label}
                         </Text>
                       </Box>
                     </Group>
@@ -283,20 +150,20 @@ export default async function WhoPage({ params }: { params: Promise<{ locale: st
             <Stack gap="xl">
               <Box>
                 <Text c="aztecGold.6" tt="uppercase" lts="0.16em" fz="sm" fw={600} mb="xs">
-                  {t.missionTitle}
+                  {content.mission.eyebrow}
                 </Text>
 
                 <Title order={2} c="alicoBlue.7" fw={400} mb="md">
-                  {t.serviceTitle}
+                  {content.mission.title}
                 </Title>
 
                 <Stack gap="md">
                   <Text c="sand.8" fz={{ base: 'lg', md: 'xl' }} lh={1.65}>
-                    {t.mission}
+                    {content.mission.body}
                   </Text>
 
                   <Text c="sand.7" fz="md" lh={1.7}>
-                    {t.service}
+                    {content.mission.body2}
                   </Text>
                 </Stack>
               </Box>
@@ -309,12 +176,11 @@ export default async function WhoPage({ params }: { params: Promise<{ locale: st
 
                   <Box>
                     <Text c="sand.0" fw={700} fz="lg">
-                      100% Mexican Company
+                      {content.companyCard.title}
                     </Text>
 
                     <Text c="sand.1" lh={1.6} mt={4}>
-                      Hospitality is a way of life in Mexico. Alico Tours brings that spirit
-                      into each itinerary through warmth, detail and personalized attention.
+                      {content.companyCard.body}
                     </Text>
                   </Box>
                 </Group>
@@ -325,11 +191,11 @@ export default async function WhoPage({ params }: { params: Promise<{ locale: st
           <GridCol span={{ base: 12, md: 7 }}>
             <Box>
               <Text c="aztecGold.6" tt="uppercase" lts="0.16em" fz="sm" fw={600} mb="xs">
-                {t.historyTitle}
+                {content.history.title}
               </Text>
 
-              <Timeline active={history.length} bulletSize={40} lineWidth={2} color="aztecGold">
-                {history.map((item) => (
+              <Timeline active={content.history.items.length} bulletSize={40} lineWidth={2} color="aztecGold">
+                {content.history.items.map((item) => (
                   <TimelineItem
                     key={item.year}
                     bullet={
@@ -344,11 +210,11 @@ export default async function WhoPage({ params }: { params: Promise<{ locale: st
                       </Badge>
 
                       <Title order={3} c="sand.9" fw={400}>
-                        {item.title[locale]}
+                        {item.title}
                       </Title>
 
                       <Text c="sand.7" lh={1.7}>
-                        {item.description[locale]}
+                        {item.description}
                       </Text>
                     </Stack>
                   </TimelineItem>
@@ -361,28 +227,22 @@ export default async function WhoPage({ params }: { params: Promise<{ locale: st
         <Box>
           <Stack gap="xs" ta="center" align="center" mb="xl">
             <Group gap={6} justify="center">
-              <ThemeIcon
-                size="xs"
-                radius="xl"
-                variant="light"
-                color="aztecGold"
-                style={{ background: 'transparent' }}
-              >
+              <ThemeIcon size="xs" radius="xl" variant="light" color="aztecGold" style={{ background: 'transparent' }}>
                 <IconUsersGroup size={14} stroke={2} />
               </ThemeIcon>
 
               <Text c="aztecGold.7" tt="uppercase" lts="0.18em" fz="sm" fw={600}>
-                {t.reviewsTitle}
+                {content.reviews.title}
               </Text>
             </Group>
 
             <Text c="sand.7" fz={{ base: 'md', md: 'lg' }} maw={760} mx="auto">
-              {t.reviewsSubtitle}
+              {content.reviews.subtitle}
             </Text>
           </Stack>
 
           <SimpleGrid cols={{ base: 1, md: 3 }} spacing="xl">
-            {reviews.map((review) => (
+            {content.reviews.items.map((review) => (
               <Card
                 key={`${review.name}-${review.country}`}
                 radius="xl"

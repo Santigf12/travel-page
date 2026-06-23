@@ -80,6 +80,10 @@ function getNavItems(locale: Locale, labels: NavLabels): NavItem[] {
       children: handpickedTravelItems,
     },
     {
+      label: labels.brochures,
+      href: `/${locale}/brochure`,
+    },
+    {
       label: labels.whoWeAre,
       href: `/${locale}/who-we-are`,
       children: [
