@@ -766,65 +766,6 @@
     ]
   },
   {
-    "slug": "incentives",
-    "collection": {
-      "en": "Incentives",
-      "es": "Incentivos",
-      "fr": "Voyages de Motivation"
-    },
-    "title": {
-      "en": "Incentive Travel in Mexico",
-      "es": "Viajes de Incentivo en México",
-      "fr": "Voyages de Motivation au Mexique"
-    },
-    "duration": {
-      "en": "Custom Program",
-      "es": "Programa a la medida",
-      "fr": "Programme sur mesure"
-    },
-    "summary": {
-      "en": "Creative incentive travel programs in Mexico with memorable experiences, event logistics and destination expertise.",
-      "es": "Programas creativos de viajes de incentivo en México con experiencias memorables, logística de eventos y conocimiento experto del destino.",
-      "fr": "Des programmes créatifs de voyages de motivation au Mexique, avec des expériences mémorables, une logistique d’événements et une expertise approfondie de la destination."
-    },
-    "description": {
-      "en": "Mexico is an excellent destination for incentive travel thanks to its tourism infrastructure and experience hosting international events. Alico Tours supports creative ideas, logistics, destination knowledge and memorable experiences for corporate groups.",
-      "es": "México es un destino excelente para viajes de incentivo gracias a su infraestructura turística y su experiencia organizando eventos internacionales. Alico Tours aporta ideas creativas, logística, conocimiento del destino y experiencias memorables para grupos corporativos.",
-      "fr": "Le Mexique est une destination idéale pour les voyages de motivation grâce à ses infrastructures touristiques et à son expérience dans l’organisation d’événements internationaux. Alico Tours propose des idées créatives, une logistique complète, une connaissance fine de la destination et des expériences mémorables pour les groupes d’entreprise."
-    },
-    "heroImage": "/images/handpicked-travel/incentive_teotihuacan-705x705.jpg",
-    "gallery": [
-      "/images/handpicked-travel/incentive_teotihuacan-705x705.jpg",
-      "/images/handpicked-travel/incentive_diamuertos-705x705.jpg",
-      "/images/handpicked-travel/incentive_mariachi-705x705.jpg",
-      "/images/handpicked-travel/Cena-de-gala-incentivos-705x705.jpg",
-      "/images/handpicked-travel/Eventos-especiales-Incentivos-705x705.jpg"
-    ],
-    "highlights": {
-      "en": ["Hot air balloon flight in Teotihuacán", "Theme parties", "Local musicians", "Gala dinners", "Special events"],
-      "es": ["Vuelo en globo aerostático en Teotihuacán", "Fiestas temáticas", "Músicos locales", "Cenas de gala", "Eventos especiales"],
-      "fr": ["Vol en montgolfière à Teotihuacán", "Soirées à thème", "Musiciens locaux", "Dîners de gala", "Événements spéciaux"]
-    },
-    "included": {
-      "en": ["Custom DMC planning", "Creative incentive concepts", "Ground logistics", "Event coordination support", "Specialist assistance"],
-      "es": [
-        "Planeación DMC a la medida",
-        "Conceptos creativos de incentivo",
-        "Logística en destino",
-        "Apoyo en coordinación de eventos",
-        "Asistencia especializada"
-      ],
-      "fr": [
-        "Planification DMC sur mesure",
-        "Concepts créatifs de motivation",
-        "Logistique terrestre",
-        "Soutien à la coordination d’événements",
-        "Assistance spécialisée"
-      ]
-    },
-    "itinerary": []
-  },
-  {
     "slug": "weddings",
     "collection": {
       "en": "Weddings",

@@ -2,7 +2,7 @@
   {
     "slug": "all-mexico",
     "category": "fits",
-    "image": "/images/trips/alebrije.jpg",
+    "image": "/images/trips/centro.jpg",
     "duration": {
       "en": "13 days",
       "es": "13 días",
@@ -262,7 +262,7 @@
   {
     "slug": "backpack-mexico",
     "category": "fits",
-    "image": "/images/trips/merida.jpg",
+    "image": "/images/trips/pyramid.jpg",
     "duration": {
       "en": "15 days",
       "es": "15 días",
@@ -476,7 +476,7 @@
   {
     "slug": "colonial-treasures-and-puerto-vallarta",
     "category": "fits",
-    "image": "/images/trips/campeche.jpg",
+    "image": "/images/trips/colonial.jpg",
     "duration": {
       "en": "10 days",
       "es": "10 días",
@@ -839,7 +839,7 @@
   {
     "slug": "mexico-yucatan",
     "category": "fits",
-    "image": "/images/trips/cenote-yucatan.jpeg",
+    "image": "/images/trips/yucatan.jpg",
     "duration": {
       "en": "8 days",
       "es": "8 días",
@@ -1010,7 +1010,7 @@
   {
     "slug": "traditional-mexico",
     "category": "fits",
-    "image": "/images/trips/bailes.webp",
+    "image": "/images/trips/celestun.jpg",
     "duration": {
       "en": "5 days",
       "es": "5 días",
@@ -1139,7 +1139,7 @@
   {
     "slug": "yucatan-mayan-heritage",
     "category": "fits",
-    "image": "/images/trips/merida.jpg",
+    "image": "/images/trips/cenote.jpg",
     "duration": {
       "en": "7 days",
       "es": "7 días",
@@ -1294,7 +1294,7 @@
   {
     "slug": "guatemala-highlights",
     "category": "fits",
-    "image": "/images/trips/artesanias.jpg",
+    "image": "/images/trips/antigua.jpg",
     "duration": {
       "en": "5 days",
       "es": "5 días",
@@ -1420,7 +1420,7 @@
   {
     "slug": "discovering-mesoamerica",
     "category": "fits",
-    "image": "/images/trips/huatulco.png",
+    "image": "/images/trips/estatua.jpg",
     "duration": {
       "en": "17 days",
       "es": "17 días",
@@ -1753,7 +1753,7 @@
   {
     "slug": "mini-cancun",
     "category": "fits",
-    "image": "/images/trips/beachcan.jpeg",
+    "image": "/images/trips/beach.jpg",
     "duration": {
       "en": "3 days",
       "es": "3 días",
@@ -2041,7 +2041,7 @@
   {
     "slug": "mini-traditional-mexico",
     "category": "fits",
-    "image": "/images/trips/parade.jpg",
+    "image": "/images/trips/pattern.jpg",
     "duration": {
       "en": "4 days",
       "es": "4 días",

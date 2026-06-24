@@ -264,7 +264,7 @@
   {
     "slug": "cultural-getaway",
     "category": "groups",
-    "image": "/images/trips/mexico-city.jpg",
+    "image": "/images/trips/cultural.jpg",
     "duration": {
       "en": "7 days",
       "es": "7 días",
@@ -662,7 +662,7 @@
   {
     "slug": "religious-roots",
     "category": "groups",
-    "image": "/images/trips/guadalupe.jpg",
+    "image": "/images/trips/iglesia.jpg",
     "duration": {
       "en": "7 days",
       "es": "7 días",
@@ -872,30 +872,9 @@
       "fr": "Programme de 7 jours et 6 nuits incluant des villes traditionnelles du Mexique comme Taxco, connue comme la ville de l’argent, et Acapulco, célèbre pour ses plongeurs de falaise."
     },
     "highlights": {
-      "en": [
-        "Mexico City",
-        "Anthropology Museum",
-        "Teotihuacán",
-        "Cuernavaca",
-        "Taxco",
-        "Acapulco"
-      ],
-      "es": [
-        "Ciudad de México",
-        "Museo de Antropología",
-        "Teotihuacán",
-        "Cuernavaca",
-        "Taxco",
-        "Acapulco"
-      ],
-      "fr": [
-        "Mexico",
-        "Musée d’anthropologie",
-        "Teotihuacán",
-        "Cuernavaca",
-        "Taxco",
-        "Acapulco"
-      ]
+      "en": ["Mexico City", "Anthropology Museum", "Teotihuacán", "Cuernavaca", "Taxco", "Acapulco"],
+      "es": ["Ciudad de México", "Museo de Antropología", "Teotihuacán", "Cuernavaca", "Taxco", "Acapulco"],
+      "fr": ["Mexico", "Musée d’anthropologie", "Teotihuacán", "Cuernavaca", "Taxco", "Acapulco"]
     },
     "itinerary": [
       {
@@ -1054,17 +1033,7 @@
       "fr": "Programme de 7 jours et 6 nuits pour découvrir les grandes villes de la péninsule du Yucatán à travers Quintana Roo, Campeche et Yucatán, avec un accent sur l’archéologie maya, les cénotes, les lagunes et les zones archéologiques."
     },
     "highlights": {
-      "en": [
-        "Cenote Ik Kil",
-        "Chichén Itzá",
-        "Mérida",
-        "Uxmal",
-        "Campeche",
-        "Calakmul",
-        "Bacalar Lagoon",
-        "Tulum",
-        "Tour begins and ends in Cancún"
-      ],
+      "en": ["Cenote Ik Kil", "Chichén Itzá", "Mérida", "Uxmal", "Campeche", "Calakmul", "Bacalar Lagoon", "Tulum", "Tour begins and ends in Cancún"],
       "es": [
         "Cenote Ik Kil",
         "Chichén Itzá",
@@ -1223,7 +1192,7 @@
   {
     "slug": "mexico-guatemala",
     "category": "groups",
-    "image": "/images/trips/tikal.jpg",
+    "image": "/images/trips/ceramic.jpg",
     "duration": {
       "en": "15 days",
       "es": "15 días",
