@@ -525,19 +525,8 @@
       "es": "La comida mexicana es mucho más que una lista de platillos típicos: es un reflejo de ritual, cultura, magia y arte. Este itinerario está diseñado para viajeros que desean saborear México junto a guías expertos en gastronomía, desde comidas en trajinera y dulces de mercado hasta mole, mezcal, chapulines, tlayudas y caldo de piedra.",
       "fr": "La cuisine mexicaine est bien plus qu’une liste de plats typiques : c’est le reflet d’un rituel, d’une culture, d’une magie et d’un art. Cet itinéraire est conçu pour les voyageurs souhaitant savourer le Mexique aux côtés de guides gastronomiques experts, des déjeuners en trajinera et douceurs de marché au mole, au mezcal, aux sauterelles, aux tlayudas et à la soupe de pierre."
     },
-    "heroImage": "/images/handpicked-travel/alico_gastronimico_01.jpg",
-    "gallery": [
-      "/images/handpicked-travel/alico_gastronimico_01.jpg",
-      "/images/handpicked-travel/alico_gastronimico_02.jpg",
-      "/images/handpicked-travel/alico_gastronimico_05.jpg",
-      "/images/handpicked-travel/xochimilcoalicomexico.jpg",
-      "/images/handpicked-travel/alicocooking.jpg",
-      "/images/handpicked-travel/alicotaste.jpg",
-      "/images/handpicked-travel/womanalico.jpg",
-      "/images/handpicked-travel/guacamolesconmexicoalico.jpg",
-      "/images/handpicked-travel/mercadomexicoalimentoalico.jpg",
-      "/images/handpicked-travel/olcajetemexicoalico.jpg"
-    ],
+    "heroImage": "/images/handpicked-travel/spice.jpg",
+    "gallery": ["/images/handpicked-travel/spice.jpg"],
     "highlights": {
       "en": [
         "Mexican welcome refreshments on arrival",
@@ -792,17 +781,13 @@
       "es": "México ofrece paisajes románticos, resorts de lujo, ceremonias tradicionales y locaciones únicas para celebrar. Esta colección incluye conceptos de ceremonia maya, sedes de boda en Xcaret y un programa de luna de miel de ocho días desde Cancún pasando por Chichén Itzá, Mérida, Celestún, haciendas, Valladolid y Tulum.",
       "fr": "Le Mexique offre des paysages romantiques, des resorts de luxe, des cérémonies traditionnelles et des lieux de célébration uniques. Cette collection comprend des concepts de cérémonie maya, des lieux de mariage à Xcaret et un programme de lune de miel de huit jours depuis Cancún, en passant par Chichén Itzá, Mérida, Celestún, des haciendas, Valladolid et Tulum."
     },
-    "heroImage": "/images/handpicked-travel/alico_maya_boda.jpg",
+    "heroImage": "/images/handpicked-travel/boda-playa.jpg",
     "gallery": [
-      "/images/handpicked-travel/alico_maya_boda.jpg",
-      "/images/handpicked-travel/alico_boda_xcaret.jpg",
-      "/images/handpicked-travel/xcaret_pool_wedding.jpg",
-      "/images/handpicked-travel/honey_galeria_alico_01.jpg",
-      "/images/handpicked-travel/cenote-samulayucatan-alico-mexico.jpg",
-      "/images/handpicked-travel/honey_galeria_alico_02.jpg",
-      "/images/handpicked-travel/honey_galeria_alico_04.jpg",
-      "/images/handpicked-travel/honey_galeria_alico_05.jpg",
-      "/images/handpicked-travel/honey_galeria_alico_06.jpg"
+      "/images/handpicked-travel/boda-playa.jpg",
+      "/images/handpicked-travel/rosas.jpg",
+      "/images/handpicked-travel/xixim.jpg",
+      "/images/handpicked-travel/temozon.jpg",
+      "/images/handpicked-travel/esencia.webp"
     ],
     "highlights": {
       "en": [
@@ -923,7 +908,7 @@
             "es": "Room according to availability",
             "fr": "Room according to availability"
           },
-          "image": "/images/handpicked-travel/honey_galeria_alico_02.jpg"
+          "image": "/images/handpicked-travel/rosas.jpg"
         },
         "optional": null
       },
@@ -969,7 +954,7 @@
             "es": "Mayan bungalow",
             "fr": "Mayan bungalow"
           },
-          "image": "/images/handpicked-travel/honey_galeria_alico_04.jpg"
+          "image": "/images/handpicked-travel/xixim.jpg"
         },
         "optional": null
       },
@@ -1006,7 +991,7 @@
             "es": "Room according to availability",
             "fr": "Room according to availability"
           },
-          "image": "/images/handpicked-travel/honey_galeria_alico_05.jpg"
+          "image": "/images/handpicked-travel/temozon.jpg"
         },
         "optional": null
       },
@@ -1058,7 +1043,7 @@
             "es": "Room according to availability",
             "fr": "Room according to availability"
           },
-          "image": "/images/handpicked-travel/honey_galeria_alico_06.jpg"
+          "image": "/images/handpicked-travel/esencia.webp"
         },
         "optional": null
       },
@@ -1106,18 +1091,8 @@
       "es": "Este viaje sigue las historias de Sor Juana, Nahui Olin, Frida Kahlo, Dolores Olmedo, Consuelo Velázquez, Lola Álvarez Bravo, María Izquierdo y Brenda González Nieves a través de museos, galerías, pueblos históricos y sitios culturales.",
       "fr": "Ce voyage suit les histoires de Sor Juana, Nahui Olin, Frida Kahlo, Dolores Olmedo, Consuelo Velázquez, Lola Álvarez Bravo, María Izquierdo et Brenda González Nieves à travers musées, galeries, villages historiques et sites culturels."
     },
-    "heroImage": "/images/handpicked-travel/dolores2.jpg",
-    "gallery": [
-      "/images/handpicked-travel/10.jpg",
-      "/images/handpicked-travel/2-1.jpg",
-      "/images/handpicked-travel/3-1.jpg",
-      "/images/handpicked-travel/4-1.jpg",
-      "/images/handpicked-travel/6.jpg",
-      "/images/handpicked-travel/7-1.jpg",
-      "/images/handpicked-travel/8-1.jpg",
-      "/images/handpicked-travel/dolores2.jpg",
-      "/images/handpicked-travel/Imagen1.jpg"
-    ],
+    "heroImage": "/images/handpicked-travel/tulum.jpg",
+    "gallery": ["/images/handpicked-travel/tulum.jpg"],
     "highlights": {
       "en": [
         "Sor Juana and the Ex Convent of San Jerónimo",
@@ -1311,14 +1286,8 @@
       "es": "Este itinerario explora el patrimonio indígena de la Ciudad de México, Puebla, Cuetzalan, El Tajín, Papantla, Coatepec, Veracruz, Oaxaca y la Sierra Norte, destacando las culturas nahua, totonaca y zapoteca.",
       "fr": "Cet itinéraire explore le patrimoine autochtone de Mexico, Puebla, Cuetzalan, El Tajín, Papantla, Coatepec, Veracruz, Oaxaca et la Sierra Norte, en mettant en lumière les cultures nahua, totonaque et zapotèque."
     },
-    "heroImage": "/images/handpicked-travel/xochimilconahuasalico.jpg",
-    "gallery": [
-      "/images/handpicked-travel/xochimilconahuasalico.jpg",
-      "/images/handpicked-travel/papantlatotonacasalico.jpg",
-      "/images/handpicked-travel/totonacasalicomexico.jpg",
-      "/images/handpicked-travel/zapotecalicomexico.jpg",
-      "/images/handpicked-travel/EthnicgroupNahuasalico.jpg"
-    ],
+    "heroImage": "/images/handpicked-travel/quetzalcoatl.jpg",
+    "gallery": ["/images/handpicked-travel/quetzalcoatl.jpg", "/images/handpicked-travel/latuvi.jpg"],
     "highlights": {
       "en": [
         "Xochimilco and Mexico City Historic Centre",
@@ -1511,7 +1480,7 @@
             "es": "Cabin",
             "fr": "Cabin"
           },
-          "image": "/images/handpicked-travel/zapotecalicomexico.jpg"
+          "image": "/images/handpicked-travel/latuvi.jpg"
         },
         "optional": null
       },
@@ -1593,12 +1562,8 @@
       "es": "Este programa acerca a los viajeros al pueblo de Ek Balam a través de actividades locales, visitas a cenotes, elaboración de hamacas y un proyecto de mejora comunitaria, antes de visitar el sitio arqueológico.",
       "fr": "Ce programme initie les voyageurs au village d’Ek Balam à travers des activités locales, des visites de cénotes, la confection de hamacs et un projet d’amélioration communautaire, avant la visite du site archéologique."
     },
-    "heroImage": "/images/handpicked-travel/AcropolisEKBALAM.jpg",
-    "gallery": [
-      "/images/handpicked-travel/AcropolisEKBALAM.jpg",
-      "/images/handpicked-travel/cenoteyucatanxcanche.jpg",
-      "/images/handpicked-travel/Uj-.jpg"
-    ],
+    "heroImage": "/images/handpicked-travel/balam.jpg",
+    "gallery": ["/images/handpicked-travel/balam.jpg", "/images/handpicked-travel/cenoteyucatanxcanche.jpg"],
     "highlights": {
       "en": ["Ek Balam village", "Cenote Xcanché", "Hammock-making activity", "Community image-improvement project", "Ek Balam archaeological site"],
       "es": [
@@ -1657,7 +1622,7 @@
             "es": "Cabin",
             "fr": "Cabin"
           },
-          "image": "/images/handpicked-travel/Uj-.jpg"
+          "image": "/images/handpicked-travel/cenoteyucatanxcanche.jpg"
         },
         "optional": null
       },
@@ -1705,14 +1670,8 @@
       "es": "Este itinerario combina los museos de la Ciudad de México, la Casa Azul de Frida Kahlo, Xochimilco, Teotihuacán, tacos y lucha libre con las tradiciones llenas de atmósfera del Día de Muertos en Morelia y Pátzcuaro.",
       "fr": "Cet itinéraire combine les musées de Mexico, la Casa Azul de Frida Kahlo, Xochimilco, Teotihuacán, les tacos et la lucha libre avec les traditions empreintes d’atmosphère du Jour des Morts à Morelia et Pátzcuaro."
     },
-    "heroImage": "/images/handpicked-travel/37293162944_7210065542_o.jpg",
-    "gallery": [
-      "/images/handpicked-travel/37293162944_7210065542_o.jpg",
-      "/images/handpicked-travel/37948808206_6c18430a99_o.jpg",
-      "/images/handpicked-travel/37948806886_5993f5199f_o.jpg",
-      "/images/handpicked-travel/37948806396_1d9bff42f9_o.jpg",
-      "/images/handpicked-travel/37948806146_1a759a8ac6_o.jpg"
-    ],
+    "heroImage": "/images/handpicked-travel/dead.jpg",
+    "gallery": ["/images/handpicked-travel/dead.jpg"],
     "highlights": {
       "en": [
         "Mexico City Day of the Dead parade atmosphere",
@@ -1908,87 +1867,6 @@
     ]
   },
   {
-    "slug": "architecture",
-    "collection": {
-      "en": "Architecture",
-      "es": "Arquitectura",
-      "fr": "Architecture"
-    },
-    "title": {
-      "en": "Architecture in Mexico City",
-      "es": "Arquitectura en la Ciudad de México",
-      "fr": "Architecture à Mexico"
-    },
-    "duration": {
-      "en": "Custom Program",
-      "es": "Programa a la medida",
-      "fr": "Programme sur mesure"
-    },
-    "summary": {
-      "en": "A curated architecture-focused selection featuring major museums, churches, libraries and modern landmarks in Mexico City.",
-      "es": "Una selección curada centrada en arquitectura, con los principales museos, iglesias, bibliotecas y emblemas modernos de la Ciudad de México.",
-      "fr": "Une sélection organisée autour de l’architecture, mettant en avant les principaux musées, églises, bibliothèques et emblèmes modernes de Mexico."
-    },
-    "description": {
-      "en": "This architecture collection highlights emblematic works in Mexico City, from the Anthropology Museum and Palacio de Bellas Artes to Soumaya Museum, Biblioteca Vasconcelos, San Josemaría Escrivá Church and Casa Luis Barragán.",
-      "es": "Esta colección de arquitectura destaca obras emblemáticas de la Ciudad de México, desde el Museo de Antropología y el Palacio de Bellas Artes hasta el Museo Soumaya, la Biblioteca Vasconcelos, la Parroquia de San Josemaría Escrivá y la Casa Luis Barragán.",
-      "fr": "Cette collection d’architecture met en lumière des œuvres emblématiques de Mexico, du Musée d’anthropologie et du Palacio de Bellas Artes au Musée Soumaya, à la Bibliothèque Vasconcelos, à l’église San Josemaría Escrivá et à la Casa Luis Barragán."
-    },
-    "heroImage": "/images/handpicked-travel/museo-de-antropolog.jpg",
-    "gallery": [
-      "/images/handpicked-travel/museo-de-antropolog.jpg",
-      "/images/handpicked-travel/Museo-soumaya.jpg",
-      "/images/handpicked-travel/Parroquia-San-Josemar.jpg",
-      "/images/handpicked-travel/Bellas-artes-705x705.jpg",
-      "/images/handpicked-travel/Biblioteca-Jose-Vasconcelos-arq.jpg",
-      "/images/handpicked-travel/Casa-Luis-Barraga.jpg"
-    ],
-    "highlights": {
-      "en": [
-        "Anthropology Museum by Pedro Ramírez",
-        "Soumaya Museum by Fernando Romero",
-        "San Josemaría Escrivá Church by Sordo Madaleno Arquitectos",
-        "Palacio de Bellas Artes by Adamo Boari and Federico Ernesto Mariscal Piña",
-        "Biblioteca José Vasconcelos by Alberto Kalach",
-        "Luis Barragán House by Luis Barragán Morfín"
-      ],
-      "es": [
-        "Museo de Antropología de Pedro Ramírez",
-        "Museo Soumaya de Fernando Romero",
-        "Parroquia de San Josemaría Escrivá de Sordo Madaleno Arquitectos",
-        "Palacio de Bellas Artes de Adamo Boari y Federico Ernesto Mariscal Piña",
-        "Biblioteca José Vasconcelos de Alberto Kalach",
-        "Casa Luis Barragán de Luis Barragán Morfín"
-      ],
-      "fr": [
-        "Musée d’anthropologie de Pedro Ramírez",
-        "Musée Soumaya de Fernando Romero",
-        "Église San Josemaría Escrivá de Sordo Madaleno Arquitectos",
-        "Palacio de Bellas Artes d’Adamo Boari et Federico Ernesto Mariscal Piña",
-        "Bibliothèque José Vasconcelos d’Alberto Kalach",
-        "Maison Luis Barragán de Luis Barragán Morfín"
-      ]
-    },
-    "included": {
-      "en": [
-        "Custom architecture route planning",
-        "Specialist guide or interpretation on request",
-        "Visits arranged according to opening hours and availability"
-      ],
-      "es": [
-        "Planeación de ruta de arquitectura a la medida",
-        "Guía especializado o interpretación bajo solicitud",
-        "Visitas organizadas según horarios y disponibilidad"
-      ],
-      "fr": [
-        "Planification d’itinéraire architectural sur mesure",
-        "Guide spécialisé ou interprétation sur demande",
-        "Visites organisées selon les horaires et la disponibilité"
-      ]
-    },
-    "itinerary": []
-  },
-  {
     "slug": "photographic-tours",
     "collection": {
       "en": "Photographic Tours",
@@ -2015,15 +1893,8 @@
       "es": "Esta ruta fotográfica recorre algunos de los paisajes más impactantes del norte de México, desde las cascadas de Basaseachic hasta comunidades tarahumaras, el Lago Arareko, el Valle de los Monjes y el famoso tren CHEPE por las Barrancas del Cobre.",
       "fr": "Cet itinéraire photographique traverse quelques-uns des paysages les plus spectaculaires du nord du Mexique, des cascades de Basaseachic aux communautés tarahumaras, au lac Arareko, à la Vallée des Moines et au célèbre train CHEPE à travers le Canyon du Cuivre."
     },
-    "heroImage": "/images/handpicked-travel/alico_cascada.jpg",
-    "gallery": [
-      "/images/handpicked-travel/alico_cascada.jpg",
-      "/images/handpicked-travel/alico_cree.jpg",
-      "/images/handpicked-travel/alico_elfuerte.jpg",
-      "/images/handpicked-travel/lagoararekoalicochihuahua.jpg",
-      "/images/handpicked-travel/the-Valley-of-the-monksalicomexico.jpg",
-      "/images/handpicked-travel/thepiedravoladaalicomexico.jpg"
-    ],
+    "heroImage": "/images/handpicked-travel/mountain.jpg",
+    "gallery": ["/images/handpicked-travel/mountain.jpg"],
     "highlights": {
       "en": [
         "Basaseachic and Piedra Volada waterfalls during the best season",

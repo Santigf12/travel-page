@@ -22,6 +22,9 @@ const featuredDestinationIds = new Set([
   'puerto-vallarta',
   'san-cristobal-de-las-casas',
   'monterrey',
+  'los-mochis',
+  'barrancas-del-cobre',
+  'ensenada'
 ]);
 
 const leftSideLabelIds = new Set([
