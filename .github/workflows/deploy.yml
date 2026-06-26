@@ -38,4 +38,4 @@ jobs:
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
           local_path: ./out/*
           remote_path: ${{ secrets.DEPLOY_PATH }}
-          delete_remote_files_when_local_does_not_exist: true
+          delete_remote_files: true
