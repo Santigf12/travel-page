@@ -39,4 +39,4 @@ jobs:
           local_path: ./out/*
           remote_path: ${{ secrets.DEPLOY_PATH }}
           sftp_only: true
-          delete_remote_files: true
+          delete_remote_files: false
