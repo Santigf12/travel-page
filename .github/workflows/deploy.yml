@@ -32,9 +32,9 @@ jobs:
       - name: Deploy via LFTP
         uses: haukurh/lftp-action@v1
         with:
-          ftp_host: ${{ secrets.SSH_HOST }}
-          ftp_user: "santigf12"
+          ftp_host: santigf12@${{ secrets.SSH_HOST }}
           ftp_port: ${{ secrets.SSH_PORT }}
+          ftp_user: santigf12
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
           ftp_protocol: sftp
           disable_strict_host_key_checking: "true"
