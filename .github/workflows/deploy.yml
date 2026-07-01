@@ -29,13 +29,22 @@ jobs:
         env:
           NODE_ENV: production
 
-      - name: Deploy via LFTP
-        uses: haukurh/lftp-action@v1
-        with:
-          ftp_host: santigf12@${{ secrets.SSH_HOST }}
-          ftp_port: ${{ secrets.SSH_PORT }}
-          ftp_user: santigf12
-          ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
-          ftp_protocol: sftp
-          disable_strict_host_key_checking: "true"
-          commands: mirror --continue --reverse --delete --parallel=8 --verbose out/ /pages-fuentes-it-com/
+      - name: Install lftp
+        run: sudo apt-get update && sudo apt-get install -y lftp
+
+      - name: Deploy via lftp
+        env:
+          SSH_HOST: ${{ secrets.SSH_HOST }}
+          SSH_PORT: ${{ secrets.SSH_PORT }}
+          SSH_USER: ${{ secrets.SSH_USER }}
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "$SSH_PRIVATE_KEY" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+
+          lftp "sftp://$SSH_USER@$SSH_HOST:$SSH_PORT" <<EOF
+          set sftp:connect-program "ssh -a -x -i ~/.ssh/deploy_key -o StrictHostKeyChecking=no"
+          mirror --continue --reverse --delete --parallel=8 --verbose out/ /pages-fuentes-it-com/
+          bye
+          EOF
