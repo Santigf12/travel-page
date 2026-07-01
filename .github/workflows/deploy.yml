@@ -32,9 +32,10 @@ jobs:
       - name: Deploy via LFTP
         uses: haukurh/lftp-action@v1
         with:
-          ftp_user: "santigf12"
           ftp_host: ${{ secrets.SSH_HOST }}
+          ftp_user: "santigf12"
           ftp_port: ${{ secrets.SSH_PORT }}
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
           ftp_protocol: sftp
+          disable_strict_host_key_checking: "true"
           commands: mirror --continue --reverse --delete --parallel=8 --verbose out/ /pages-fuentes-it-com/
