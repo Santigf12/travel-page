@@ -37,5 +37,4 @@ jobs:
           ftp_port: ${{ secrets.SSH_PORT }}
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
           ftp_protocol: sftp
-          disable_strict_host_key_checking: "true"
           commands: mirror --continue --reverse --delete --parallel=8 --verbose out/ /pages-fuentes-it-com/
