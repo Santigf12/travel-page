@@ -45,7 +45,7 @@ export function HeroCarousel({ slides }: { slides: Slide[] }) {
             pos="relative"
             style={{
               backgroundImage: `url(${slide.image})`,
-              backgroundSize: 'cover', 
+              backgroundSize: "cover",
               backgroundPosition: `${slide.position}`,
               backgroundRepeat: 'no-repeat',
               overflow: 'hidden',
