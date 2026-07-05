@@ -3,13 +3,15 @@
 "use client";
 
 import type { Locale } from "@/i18n/dictionaries";
+import { getBlurDataURL } from "@/lib/images/blur";
 import { getTripsByCategory } from "@/types/trips";
 import { Carousel } from "@mantine/carousel";
 import { Badge, Box, Button, Container, Paper, Stack, Text, Title, useMantineTheme } from "@mantine/core";
 import { useMediaQuery } from "@mantine/hooks";
 import Autoplay from "embla-carousel-autoplay";
+import Image from "next/image";
 import Link from "next/link";
-import { useRef } from "react";
+import { useRef, useState } from "react";
 
 type TripsCarouselProps = {
   locale: Locale;
@@ -24,6 +26,9 @@ type TripCardProps = {
 };
 
 function TripCard({ image, title, duration, category, href }: TripCardProps) {
+  const blurDataURL = getBlurDataURL(image);
+  const [loaded, setLoaded] = useState(false);
+
   return (
     <Paper
       shadow="md"
@@ -32,14 +37,38 @@ function TripCard({ image, title, duration, category, href }: TripCardProps) {
       p="xl"
       pos="relative"
       style={{
-        backgroundImage: `linear-gradient(180deg, rgba(14, 74, 98, 0.15), rgba(14, 74, 98, 0.72)), url(${image})`,
-        backgroundSize: "cover",
-        backgroundPosition: "center",
         overflow: "hidden",
         userSelect: "none",
+        backgroundColor: "var(--mantine-color-alicoBlue-8)",
       }}
     >
-      <Stack h="100%" justify="space-between">
+      <Image
+        src={image}
+        alt={title}
+        fill
+        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+        placeholder={blurDataURL ? "blur" : "empty"}
+        blurDataURL={blurDataURL}
+        onLoad={() => setLoaded(true)}
+        style={{
+          objectFit: "cover",
+          objectPosition: "center",
+          opacity: loaded ? 1 : 0,
+          transition: "opacity 400ms ease",
+        }}
+      />
+
+      <Box
+        pos="absolute"
+        inset={0}
+        style={{
+          zIndex: 1,
+          background:
+            "linear-gradient(180deg, rgba(14, 74, 98, 0.15), rgba(14, 74, 98, 0.72))",
+        }}
+      />
+
+      <Stack h="100%" justify="space-between" pos="relative" style={{ zIndex: 2 }}>
         <Badge color="aztecGold" variant="filled" w="fit-content">
           {category}
         </Badge>
@@ -53,14 +82,7 @@ function TripCard({ image, title, duration, category, href }: TripCardProps) {
             {title}
           </Title>
 
-          <Button
-            component={Link}
-            href={href}
-            mt="md"
-            variant="white"
-            color="alicoBlue"
-            size="xs"
-          >
+          <Button component={Link} href={href} mt="md" variant="white" color="alicoBlue" size="xs">
             View trip
           </Button>
         </Box>
@@ -116,26 +138,20 @@ export function TripsCarousel({ locale }: TripsCarouselProps) {
             root: { touchAction: "pan-y pinch-zoom" },
             viewport: { touchAction: "pan-y pinch-zoom" },
             control: {
-              color: 'var(--mantine-color-sand-0)',
-              backgroundColor: 'rgba(44, 43, 40, 0.45)',
-              border: '1px solid rgba(255, 255, 255, 0.35)',
-              boxShadow: '0 10px 28px rgba(0, 0, 0, 0.25)',
-              backdropFilter: 'blur(6px)',
+              color: "var(--mantine-color-sand-0)",
+              backgroundColor: "rgba(44, 43, 40, 0.45)",
+              border: "1px solid rgba(255, 255, 255, 0.35)",
+              boxShadow: "0 10px 28px rgba(0, 0, 0, 0.25)",
+              backdropFilter: "blur(6px)",
             },
           }}
           aria-label="Featured Mexico trips carousel"
-          nextControlProps={{ 'aria-label': 'Next trips' }}
-          previousControlProps={{ 'aria-label': 'Previous trips' }}
+          nextControlProps={{ "aria-label": "Next trips" }}
+          previousControlProps={{ "aria-label": "Previous trips" }}
         >
           {trips.map((trip) => (
             <Carousel.Slide key={trip.slug}>
-              <TripCard
-                image={trip.image}
-                title={trip.title}
-                duration={trip.duration}
-                category={trip.category}
-                href={trip.href}
-              />
+              <TripCard {...trip} />
             </Carousel.Slide>
           ))}
         </Carousel>

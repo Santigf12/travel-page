@@ -1,8 +1,10 @@
 // src/app/[locale]/trips/[slug]/page.tsx
 
+import { FadeImage } from '@/components/FadeImage';
 import { generateLocaleParams, isValidLocale, type Locale, } from '@/i18n/dictionaries';
+import { getBlurDataURL } from '@/lib/images/blur';
 import { getTripBySlug, trips } from '@/types/trips';
-import { Anchor, Badge, Box, Button, Card, Container, Divider, Grid, GridCol, Group, Image, List, ListItem, Stack, Text, ThemeIcon, Title, } from '@mantine/core';
+import { Anchor, Badge, Box, Button, Card, Container, Divider, Grid, GridCol, Group, Stack, Text, ThemeIcon, Title, } from '@mantine/core';
 import { notFound } from 'next/navigation';
 
 export function generateStaticParams() {
@@ -23,6 +25,7 @@ export default async function TripDetailPage({
   const locale: Locale = isValidLocale(rawLocale) ? rawLocale : 'en';
 
   const trip = getTripBySlug(slug);
+  
 
   const tripPageText = (locale: Locale, key: 'overview' | 'itinerary' | 'highlights' | 'included') => ({ 
     en: { overview: 'Overview', itinerary: 'Itinerary', highlights: 'Highlights', included: 'Included' }, 
@@ -40,13 +43,14 @@ export default async function TripDetailPage({
   const description = trip.description[locale];
   const highlights = trip.highlights[locale];
   const included = trip.included[locale];
+  const blurDataURL = getBlurDataURL(trip.image);
 
   return (
     <Container
       size={1500}
       px={{ base: 'md', md: 'xl' }}
-      pt={{ base: 180, md: 200 }}
-      pb={{ base: 80, md: 120 }}
+      pt={{ base: 50, md: 65 }}
+      pb={{ base: 50, md: 65 }}
     >
       <Stack gap="xl">
         <Stack gap="xs" align="center" ta="center">
@@ -92,16 +96,28 @@ export default async function TripDetailPage({
           </Badge>
         </Stack>
 
-        <Image
-          src={trip.image}
-          alt={title}
+       <Box
+          pos="relative"
           h={{ base: 280, md: 620 }}
-          fit="cover"
-          radius="xl"
           style={{
+            overflow: 'hidden',
+            borderRadius: 'var(--mantine-radius-xl)',
             boxShadow: '0 24px 60px rgba(44, 43, 40, 0.16)',
           }}
-        />
+        >
+          <FadeImage
+            src={trip.image}
+            alt={title}
+            fill
+            priority
+            sizes="(max-width: 768px) 100vw, 1500px"
+            placeholder={blurDataURL ? 'blur' : 'empty'}
+            blurDataURL={blurDataURL}
+            style={{
+              objectFit: 'cover',
+            }}
+          />
+        </Box>
 
         <Grid gap={{ base: 'xl', md: 70 }} align="flex-start">
           <GridCol span={{ base: 12, md: 8 }}>

@@ -7,7 +7,8 @@ const nextConfig = {
     optimizePackageImports: ["@mantine/core", "@mantine/hooks"],
   },
   images: {
-    unoptimized: true,
-  }
+    loader: 'custom',
+    loaderFile: './src/lib/images/loader.ts',
+  },
 };
 export default nextConfig;

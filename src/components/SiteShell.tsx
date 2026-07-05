@@ -11,10 +11,10 @@ import {
   Burger,
   Container,
   Group,
-  Image,
   Stack,
 } from '@mantine/core';
 import { useDisclosure } from '@mantine/hooks';
+import Image from 'next/image';
 import Link from 'next/link';
 import { useParams } from 'next/navigation';
 
@@ -41,12 +41,15 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
         <Container size="xl" h="100%">
           <Group h="100%" justify="space-between" align="center">
             <Anchor component={Link} href={`/${locale}`} underline="never">
-              <Image
-                src="/logo_alico.png"
-                alt="Alico Tours"
-                w={200}
-                fit="contain"
-              />
+              <div style={{ position: 'relative', width: 200, height: 80 }}>
+                <Image
+                  src="/logo_alico.png"
+                  alt="Alico Tours"
+                  fill
+                  priority
+                  style={{ objectFit: 'contain' }}
+                />
+              </div>
             </Anchor>
 
             <Group visibleFrom="sm" gap="xl">

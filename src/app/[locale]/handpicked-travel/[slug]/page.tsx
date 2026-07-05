@@ -1,8 +1,10 @@
 // src/app/[locale]/handpicked-travel/[slug]/page.tsx
 
+import { FadeImage } from '@/components/FadeImage';
 import { generateLocaleParams, isValidLocale, type Locale } from '@/i18n/dictionaries';
+import { getBlurDataURL } from '@/lib/images/blur';
 import { getHandpickedTravelBySlug, getHandpickedTravelSlugs, type HandpickedTravelCategory } from '@/types/handpicked-travel';
-import { Anchor, Badge, Box, Button, Card, Container, Divider, Grid, GridCol, Group, Image, Stack, Text, ThemeIcon, Timeline, TimelineItem, Title } from '@mantine/core';
+import { Anchor, Badge, Box, Button, Card, Container, Divider, Grid, GridCol, Group, Stack, Text, ThemeIcon, Timeline, TimelineItem, Title } from '@mantine/core';
 import { IconBuildingCastle, IconCompass, IconMapPin, IconPlaneDeparture, IconSparkles } from '@tabler/icons-react';
 import { notFound } from 'next/navigation';
 
@@ -78,6 +80,7 @@ export default async function TravelPage({ params }: { params: Promise<{ locale:
   const description = trip.description[locale];
   const highlights = trip.highlights[locale];
   const included = trip.included[locale];
+  const heroBlurDataURL = getBlurDataURL(trip.heroImage);
 
   return (
     <Container
@@ -137,16 +140,26 @@ export default async function TravelPage({ params }: { params: Promise<{ locale:
           </Badge>
         </Stack>
 
-        <Image
-          src={trip.heroImage}
-          alt={title}
+        <Box
+          pos="relative"
           h={{ base: 280, md: 620 }}
-          fit="cover"
-          radius="xl"
           style={{
+            overflow: 'hidden',
+            borderRadius: 'var(--mantine-radius-xl)',
             boxShadow: '0 24px 60px rgba(44, 43, 40, 0.16)',
           }}
-        />
+        >
+          <FadeImage
+            src={trip.heroImage}
+            alt={title}
+            fill
+            priority
+            sizes="(max-width: 768px) 100vw, 1500px"
+            placeholder={heroBlurDataURL ? 'blur' : 'empty'}
+            blurDataURL={heroBlurDataURL}
+            style={{ objectFit: 'cover' }}
+          />
+        </Box>
 
         <Grid gap={{ base: 'xl', md: 70 }} align="flex-start">
           <GridCol span={{ base: 12, md: 8 }}>
@@ -190,6 +203,7 @@ export default async function TravelPage({ params }: { params: Promise<{ locale:
                     const hasStay = Boolean(day.stay);
                     const isFirstDay = day.day === 1;
                     const isLastDay = day.day === trip.itinerary.length;
+                    const stayBlurDataURL = day.stay ? getBlurDataURL(day.stay.image) : undefined;
 
                     return (
                       <TimelineItem
@@ -272,12 +286,21 @@ export default async function TravelPage({ params }: { params: Promise<{ locale:
                             >
                               <Grid gap={0}>
                                 <GridCol span={{ base: 12, sm: 4 }}>
-                                  <Image
-                                    src={day.stay.image}
-                                    alt={day.stay.hotel[locale]}
+                                  <Box
+                                    pos="relative"
                                     h={{ base: 160, sm: '100%' }}
-                                    fit="cover"
-                                  />
+                                    mih={{ sm: 220 }}
+                                  >
+                                    <FadeImage
+                                      src={day.stay.image}
+                                      alt={day.stay.hotel[locale]}
+                                      fill
+                                      sizes="(max-width: 768px) 100vw, 33vw"
+                                      placeholder={stayBlurDataURL ? 'blur' : 'empty'}
+                                      blurDataURL={stayBlurDataURL}
+                                      style={{ objectFit: 'cover' }}
+                                    />
+                                  </Box>
                                 </GridCol>
 
                                 <GridCol span={{ base: 12, sm: 8 }}>
