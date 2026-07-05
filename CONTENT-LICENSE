@@ -1,0 +1,20 @@
+Content License / Notice
+
+Copyright (c) 2026 Santiago Fuentes / Alico Tours. All rights reserved.
+
+The MIT License in the LICENSE file applies only to this project's source
+code. It does NOT extend to the following, all of which remain All Rights
+Reserved and may not be copied, redistributed, modified, or reused without
+explicit written permission:
+
+- Written content in `src/types/data/*.json` (trip descriptions, package
+  details, brochure text, careers listings, contact information, and any
+  other copy)
+- Images, photos, illustrations, and other media assets (including but not
+  limited to files under `public/` or `images/`)
+- The Alico Tours name, logo, and brand identity
+- Any other non-code creative or business content included in this
+  repository
+
+If you fork or reuse the code in this repository, you must remove or
+replace all of the above content and assets with your own.
