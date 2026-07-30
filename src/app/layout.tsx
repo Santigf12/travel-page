@@ -6,6 +6,7 @@ import '@mantine/core/styles.css';
 import { theme } from '@/theme';
 import { ColorSchemeScript, MantineProvider, mantineHtmlProps } from '@mantine/core';
 import type { Metadata } from 'next';
+import Script from 'next/script';
 
 export const metadata: Metadata = {
   title: 'Alico Tours',
@@ -29,6 +30,13 @@ export default function RootLayout({ children, }: { children: React.ReactNode; }
         <MantineProvider theme={theme} defaultColorScheme="light">
           {children}
         </MantineProvider>
+        <Script
+          defer
+          src="https://annex.fuentes.it.com/script.js"
+          data-website-id="937ec941-82cc-41cf-ac07-2ea0ef79a4d7"
+          data-host-url="https://annex.fuentes.it.com"
+          strategy="afterInteractive"
+        />
       </body>
     </html>
   );

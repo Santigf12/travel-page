@@ -77,7 +77,18 @@ Static export is built (`out/`) and deployed to TierHive's multi-region static h
 ```bash
 lftp -u santigf12 sftp://ca.1.pages.tierhive.com:3416
 lcd ~/Documents/travel-page
-mirror --continue --reverse --delete --parallel=4 --verbose --exclude-glob '.tierhive-sync/' out/ /pages-fuentes-it-com/
+mirror --continue --reverse --delete --parallel=4 --verbose \
+  --exclude-glob '.tierhive-sync/' \
+  --exclude-glob 'images/*.jpg' \
+  --exclude-glob 'images/*.jpeg' \
+  --exclude-glob 'images/*.png' \
+  --exclude-glob 'images/*.webp' \
+  --exclude-glob 'images/*.avif' \
+  --exclude-glob 'images/trips/*.jpg' \
+  --exclude-glob 'images/handpicked-travel/*.jpg' \
+  --exclude-glob 'images/handpicked-travel/*.webp' \
+  --exclude-glob 'images/handpicked-travel/*.avif' \
+  out/ /www-alico-com-mx/
 bye
 ```
 

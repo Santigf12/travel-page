@@ -59,11 +59,15 @@ function ContactLine({
   label,
   value,
   href,
+  eventName,
+  locale,
 }: {
   icon: typeof IconMail;
   label: string;
   value: string;
   href: string;
+  eventName: string;
+  locale: string;
 }) {
   return (
     <Group gap="sm" align="flex-start" wrap="nowrap">
@@ -83,7 +87,7 @@ function ContactLine({
           {label}
         </Text>
 
-        <Anchor href={href} c="sand.8" fz="sm" fw={500}>
+        <Anchor href={href} c="sand.8" fz="sm" fw={500} data-umami-event={eventName} data-umami-event-lang={locale}>
           {value}
         </Anchor>
       </Box>
@@ -91,11 +95,7 @@ function ContactLine({
   );
 }
 
-export default async function ContactPage({
-  params,
-}: {
-  params: Promise<{ locale: string }>;
-}) {
+export default async function ContactPage({ params }: { params: Promise<{ locale: string }>; }) {
   const { locale: rawLocale } = await params;
   const locale: Locale = isValidLocale(rawLocale) ? rawLocale : 'en';
 
@@ -141,6 +141,8 @@ export default async function ContactPage({
             <Button
               component="a"
               href={`mailto:${t.generalContact.email}?subject=Travel inquiry`}
+              data-umami-event="email-contact-click"
+              data-umami-event-lang={locale}
               size="md"
               radius="xl"
               color="alicoBlue"
@@ -152,6 +154,8 @@ export default async function ContactPage({
             <Button
               component="a"
               href={phoneHref(t.generalContact.phone)}
+              data-umami-event="phone-contact-click"
+              data-umami-event-lang={locale}
               size="md"
               radius="xl"
               variant="light"
@@ -392,6 +396,8 @@ export default async function ContactPage({
                               label={t.email}
                               value={contact.email}
                               href={`mailto:${contact.email}`}
+                              eventName="dept-email-click"
+                              locale={locale}
                             />
 
                             {contact.office && (
@@ -400,6 +406,8 @@ export default async function ContactPage({
                                 label={t.office}
                                 value={contact.office}
                                 href={phoneHref(contact.office)}
+                                eventName="dept-phone-click"
+                                locale={locale}
                               />
                             )}
 
@@ -409,6 +417,8 @@ export default async function ContactPage({
                                 label={t.whatsapp}
                                 value={contact.whatsapp}
                                 href={whatsappHref(contact.whatsapp)}
+                                eventName="dept-whatsapp-click"
+                                locale={locale}
                               />
                             )}
                           </Stack>
