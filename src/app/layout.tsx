@@ -35,6 +35,7 @@ export default function RootLayout({ children, }: { children: React.ReactNode; }
           src="https://annex.fuentes.it.com/script.js"
           data-website-id="937ec941-82cc-41cf-ac07-2ea0ef79a4d7"
           data-host-url="https://annex.fuentes.it.com"
+          data-performance="true"
           strategy="afterInteractive"
         />
       </body>

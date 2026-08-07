@@ -5,18 +5,12 @@ import { SiteFooter } from '@/components/SiteFooter';
 import { SiteNavigation } from '@/components/SiteNavigation';
 import { getLocale, type Locale } from '@/i18n/dictionaries';
 import { getFooterLabels, getNavLabels } from '@/types/navigation';
-import {
-  Anchor,
-  AppShell,
-  Burger,
-  Container,
-  Group,
-  Stack,
-} from '@mantine/core';
+import { Anchor, AppShell, Burger, Container, Group, ScrollArea, Stack, } from '@mantine/core';
 import { useDisclosure } from '@mantine/hooks';
 import Image from 'next/image';
 import Link from 'next/link';
 import { useParams } from 'next/navigation';
+import { useEffect } from 'react';
 
 export function SiteShell({ children }: { children: React.ReactNode }) {
   const [opened, { toggle, close }] = useDisclosure();
@@ -26,6 +20,14 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
 
   const nav = getNavLabels(locale);
   const footer = getFooterLabels(locale);
+
+  // Lock body scroll while the mobile nav drawer is open
+  useEffect(() => {
+    document.body.style.overflow = opened ? 'hidden' : '';
+    return () => {
+      document.body.style.overflow = '';
+    };
+  }, [opened]);
 
   return (
     <AppShell
@@ -63,16 +65,18 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
       </AppShell.Header>
 
       <AppShell.Navbar p="md">
-        <Stack gap="md">
-          <SiteNavigation
-            locale={locale}
-            labels={nav}
-            orientation="vertical"
-            onNavigate={close}
-          />
+        <ScrollArea h="100%" type="hover" scrollbarSize={4}>
+          <Stack gap="md">
+            <SiteNavigation
+              locale={locale}
+              labels={nav}
+              orientation="vertical"
+              onNavigate={close}
+            />
 
-          <LanguageSwitcher />
-        </Stack>
+            <LanguageSwitcher />
+          </Stack>
+        </ScrollArea>
       </AppShell.Navbar>
 
       <AppShell.Main>

@@ -32,6 +32,10 @@ export function LanguageSwitcher() {
   const pathname = usePathname();
   const currentLocale = getCurrentLocale(pathname);
 
+  function handleLocaleChange(locale: Locale) {
+    localStorage.setItem('preferred-locale', locale);
+  }
+
   return (
     <Group gap={8}>
       {locales.map((locale, index) => {
@@ -42,15 +46,16 @@ export function LanguageSwitcher() {
             <Anchor
                 component={Link}
                 href={getLocalizedPath(pathname, locale)}
+                onClick={() => handleLocaleChange(locale)}
                 c="sand.9"
                 size="sm"
                 fw={500}
                 tt="uppercase"
                 style={{
-                    borderBottom: isActive
-                    ? '2px solid var(--mantine-color-aztecGold-4)'
-                    : '2px solid transparent',
-                    paddingBottom: 2,
+                  borderBottom: isActive
+                  ? '2px solid var(--mantine-color-aztecGold-4)'
+                  : '2px solid transparent',
+                  paddingBottom: 2,
                 }}
             >
                 {locale}

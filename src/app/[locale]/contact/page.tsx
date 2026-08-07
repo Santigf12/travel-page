@@ -241,6 +241,8 @@ export default async function ContactPage({ params }: { params: Promise<{ locale
                       <Anchor
                         c="sand.0"
                         href={`mailto:${t.generalContact.email}`}
+                        data-umami-event="email-contact-click"
+                        data-umami-event-lang={locale}
                         fz="sm"
                         fw={500}
                       >
@@ -275,6 +277,8 @@ export default async function ContactPage({ params }: { params: Promise<{ locale
                       <Anchor
                         c="sand.0"
                         href={phoneHref(t.generalContact.phone)}
+                        data-umami-event="phone-contact-click"
+                        data-umami-event-lang={locale}
                         fz="sm"
                         fw={500}
                       >
